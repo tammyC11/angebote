@@ -9,13 +9,14 @@
   },
   "model": "claude-sonnet-5-5",
   "prompt_sha256": "c2ea0bfc946dd3c4d77aa84278fd604988905dee64824377e242ec6589f37664",
-  "extracted_at": "2026-11-24T18:44:55.513Z",
+  "extracted_at": "2026-11-24T22:58:07.588Z",
   "complete": true,
   "failed_pages": [],
   "usage": {
     "input_tokens": 78300,
     "output_tokens": 34977
   },
+  "page_filter": null,
   "pages": [
     {
       "page": 1,

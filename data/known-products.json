@@ -8,6 +8,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "4-Käse-Mix XXL | Milbona": {
+      "category": "dairy",
+      "en": "4-Cheese mix XXL",
+      "zh": "4 種起司綜合 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Actimel Drink": {
       "category": "dairy",
       "en": "Actimel drink",
@@ -95,6 +103,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Aloe Vera Getränk XXL | Solevita": {
+      "category": "drinks",
+      "en": "Aloe Vera drink XXL",
+      "zh": "蘆薈飲料 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "alpro Soya Joghurtalternative,": {
       "category": "dairy",
@@ -375,6 +391,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Bayerischer Mini-Leberkäse XXL | Dulano": {
+      "category": "meat",
+      "en": "Bavarian mini Leberkäse XXL",
+      "zh": "巴伐利亞迷你 Leberkäse XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Bayern Bad Füssing": {
       "category": "non_food",
@@ -688,6 +712,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Brühe im Glas | Kania": {
+      "category": "pantry",
+      "en": "Broth in glass",
+      "zh": "玻璃罐高湯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Brunch Brotaufstrich": {
       "category": "pantry",
       "en": "Brunch Bread spread",
@@ -768,6 +800,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Cashewkerne XXL | Alesto": {
+      "category": "sweets_snacks",
+      "en": "Cashew kernels XXL",
+      "zh": "腰果仁 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Cerealien | Nestlé": {
       "category": "pantry",
       "en": "Cereals",
@@ -800,6 +840,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Champignons | Freshona": {
+      "category": "pantry",
+      "en": "Mushrooms",
+      "zh": "蘑菇",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Cheestrings® | CHEESTRINGS": {
       "category": "dairy",
       "en": "Cheestrings®",
@@ -815,6 +863,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Chicken Wings XXL | Chef Select": {
+      "category": "meat",
+      "en": "Chicken wings XXL",
+      "zh": "雞翅 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Chilischoten | Deluxe": {
       "category": "pantry",
@@ -1344,6 +1400,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Energy Drink XXL | Kong Strong": {
+      "category": "drinks",
+      "en": "Energy drink XXL",
+      "zh": "能量飲料 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Erdbeer-Herz": {
       "category": "sweets_snacks",
       "en": "Strawberry heart",
@@ -1415,6 +1479,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Feine Bandnudeln | Nudelhof": {
+      "category": "pantry",
+      "en": "Fine ribbon noodles",
+      "zh": "細緞帶麵",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Feine Marzipan Rohmasse | Belbake": {
       "category": "pantry",
@@ -1511,6 +1583,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Flüssiger Blütenhonig | Maribel": {
+      "category": "pantry",
+      "en": "Liquid blossom honey",
+      "zh": "液態花蜜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Fol Epi mit feinem, mild-nussigem Geschmack oder Géramont": {
       "category": "dairy",
@@ -1759,6 +1839,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Geflügelbrust/ Kochschinken XXL | Dulano": {
+      "category": "meat",
+      "en": "Poultry breast/ Cooked ham XXL",
+      "zh": "禽胸肉/煮火腿 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Gefüllte Lebkuchen Herzen | Favorina": {
       "category": "sweets_snacks",
@@ -2272,6 +2360,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Hirtenkäse XXL | Milbona": {
+      "category": "dairy",
+      "en": "Shepherd's cheese XXL",
+      "zh": "牧羊人起司 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Hohlfiguren | KINDER": {
       "category": "sweets_snacks",
       "en": "Hollow figures",
@@ -2448,6 +2544,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Jodsalz | Kania": {
+      "category": "pantry",
+      "en": "Iodized salt",
+      "zh": "碘鹽",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Joghurt | Landliebe": {
       "category": "dairy",
       "en": "Yogurt",
@@ -2463,6 +2567,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Joghurt XXL | Milbona": {
+      "category": "dairy",
+      "en": "Yogurt XXL",
+      "zh": "優格 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Johnnie Walker Black Label": {
       "category": "alcohol",
@@ -2528,6 +2640,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Kartoffel Püree | Harvest Basket": {
+      "category": "instant_food",
+      "en": "Potato purée",
+      "zh": "馬鈴薯泥",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Käse für den Ofen | MILSANI": {
       "category": "dairy",
       "en": "Cheese for the oven",
@@ -2575,6 +2695,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Katzenstreu XXL | Mila's World": {
+      "category": "pet_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Kaustreifen XXL | Fritt": {
       "category": "pet_food",
@@ -2832,6 +2960,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Lachsfilet­portionen XXL | Ocean Sea": {
+      "category": "seafood",
+      "en": "Salmon fillet portions XXL",
+      "zh": "鮭魚片分裝 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Lachsrückenfilet | GOURMET FINEST CUISINE": {
       "category": "seafood",
       "en": "Salmon back fillet",
@@ -3048,6 +3184,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Mandarin-Orangen | Freshona": {
+      "category": "pantry",
+      "en": "Mandarin oranges",
+      "zh": "橘子",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Mandarinen/Clementinen": {
       "category": "fruits",
       "en": "Mandarins/Clementines",
@@ -3071,6 +3215,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Mandeln XXL | Alesto": {
+      "category": "sweets_snacks",
+      "en": "Almonds XXL",
+      "zh": "杏仁 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Manner Waffeln oder Snack minis": {
       "category": "sweets_snacks",
@@ -3352,6 +3504,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Mozzarella Sticks/ Chilli-Cheese Nuggets XXL | Chef Select": {
+      "category": "instant_food",
+      "en": "Mozzarella sticks/ Chilli-cheese nuggets XXL",
+      "zh": "莫扎瑞拉起司條/辣味起司塊 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "MSC Garnelen | DELUXE": {
       "category": "seafood",
       "en": "MSC prawns",
@@ -3416,6 +3576,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Natives Olivenöl Extra XXL | Primadonna": {
+      "category": "pantry",
+      "en": "Native olive oil Extra XXL",
+      "zh": "初榨橄欖油 Extra XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Naturelle | Volvic": {
       "category": "drinks",
       "en": "Natural",
@@ -3479,6 +3647,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Nuts Royal XXL | Alesto": {
+      "category": "sweets_snacks",
+      "en": "Nuts Royal XXL",
+      "zh": "堅果 Royal XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Obstwerk Früchte-Mix mit Ananas, roten Trauben, Cantaloupe- und Honigmelone oder Ananasstücke": {
       "category": "fruits",
@@ -3608,6 +3784,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Pesto | Baresa": {
+      "category": "pantry",
+      "en": "Pesto",
+      "zh": "青醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Pesto | BARILLA": {
       "category": "pantry",
       "en": "Pesto",
@@ -3631,6 +3815,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Pistazien XXL | Alesto": {
+      "category": "sweets_snacks",
+      "en": "Pistachios XXL",
+      "zh": "開心果 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Polnische Ostsee Kolberg": {
       "category": "non_food",
@@ -4400,6 +4592,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Toilettenpapier | Floralys": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Topfrosen Trio": {
       "category": "non_food",
       "en": null,
@@ -4528,6 +4728,14 @@
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
     },
+    "Walnusskerne XXL | Alesto": {
+      "category": "sweets_snacks",
+      "en": "Walnut kernels XXL",
+      "zh": "核桃仁 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
     "Wärmereflektierende Wandfarbe | Evoloxx": {
       "category": "non_food",
       "en": null,
@@ -4567,6 +4775,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Waschmittel XXL | Formil": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Wasserhahn-Entkalker | KALKBUSTER": {
       "category": "non_food",
@@ -4687,6 +4903,14 @@
       "rules": "7aa1f2fb1d2f",
       "model": "claude-haiku-5-5",
       "added": "2026-11-23"
+    },
+    "Weiße Riesenbohnen | Freshona": {
+      "category": "pantry",
+      "en": "White giant beans",
+      "zh": "白色巨型豆",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
     },
     "Westliches Mittelmeer Kreuzfahrt & Baden | AIDAcosma": {
       "category": "non_food",

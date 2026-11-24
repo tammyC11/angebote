@@ -1,0 +1,859 @@
+{
+  "source": {
+    "flyer_url": "https://endpoints.leaflets.schwarz/v4/flyer?flyer_identifier=aktionsprospekt-23-11-2026-28-11-2026-7af21b&region_id=0&region_code=0",
+    "flyer_id": "01a1f337-a78a-703c-96d9-eac2b56e2201",
+    "title": "23.11.2026 – 28.11.2026",
+    "offer_start": "2026-11-23",
+    "offer_end": "2026-11-28",
+    "image_key": "image"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_sha256": "c2ea0bfc946dd3c4d77aa84278fd604988905dee64824377e242ec6589f37664",
+  "extracted_at": "2026-11-24T22:58:06.671Z",
+  "complete": true,
+  "failed_pages": [],
+  "usage": {
+    "input_tokens": 6525,
+    "output_tokens": 3673
+  },
+  "page_filter": {
+    "model": "claude-haiku-5-5",
+    "skipped": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "input_tokens": 22993,
+    "output_tokens": 2013
+  },
+  "pages": [
+    {
+      "page": 1,
+      "image_url": "https://imgproxy.leaflets.schwarz/wqgwT1oZE4YPhN_RN0V03EjhZwW53C1q_Vs9J6mqVtY/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDFfYjIxYjE0MjU0N2JhN2JiNjk5MTc1MjEzMGY2ZGUyMmMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Black Weeks cover: appliances and tools only"
+    },
+    {
+      "page": 2,
+      "image_url": "https://imgproxy.leaflets.schwarz/PYgtnV7G_iR99WIgjB4j2Zeickc8gkcYqSb-q2lbsLA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDJfZTk0NGQwZmZjNjdhN2U3Y2UyOWI5ZDMxOTQ1Yzk3NWYucG5n.jpg",
+      "status": "skipped",
+      "reason": "Food processor product page, appliance"
+    },
+    {
+      "page": 3,
+      "image_url": "https://imgproxy.leaflets.schwarz/mQJ15bbTJqz91JXRR9jCS-UZ7-LFrD83rpInvp6pbOw/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDNfOTRmMGJkNzllOWNmMzcyNDBkZDM5YjM2NzRiZjQwNjIucG5n.jpg",
+      "status": "skipped",
+      "reason": "Small kitchen appliances"
+    },
+    {
+      "page": 4,
+      "image_url": "https://imgproxy.leaflets.schwarz/R3tcMO-1mCRVY6gU_phRF_gJ0DbbBYDCRu7K_rZ6HX8/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDRfZWUyYWE5YmY4ZmI5OTViYzI5OGQ5ZDY4M2Y2ODEyYWIucG5n.jpg",
+      "status": "skipped",
+      "reason": "Air fryer, SodaStream, baking paper for fryers"
+    },
+    {
+      "page": 5,
+      "image_url": "https://imgproxy.leaflets.schwarz/uQ_f4Dzcrop-dTrMKlvgS7ZEhcUqkcA4jctSmBji1qo/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDVfYTUwNGU4ZDVlNDk3YWQ0NWZiNTQwZjZhYjk0YTlkNzkucG5n.jpg",
+      "status": "skipped",
+      "reason": "Kitchen utensils and hand appliances"
+    },
+    {
+      "page": 6,
+      "image_url": "https://imgproxy.leaflets.schwarz/hGKGvYVaHKuG_vlMzicPHgIDUwMSxFoZme4fHpi4eVw/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDZfZWI3ZThhZWQyZjZlYjhjNjYzMjEwMjM5NDc1NTMwYjkucG5n.jpg",
+      "status": "skipped",
+      "reason": "Robot vacuum, coffee machines, financing, appliances"
+    },
+    {
+      "page": 7,
+      "image_url": "https://imgproxy.leaflets.schwarz/fjg7vOXt8Fg0sIbOU1mP7M33kLsO1gJnvpSKT2TbvXk/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDdfODljZmY3Zjk5ODZhZmNmNmY1NzY1YWUwY2U5YmFjY2UucG5n.jpg",
+      "status": "skipped",
+      "reason": "Cleaning and household appliances"
+    },
+    {
+      "page": 8,
+      "image_url": "https://imgproxy.leaflets.schwarz/DcK_OOkWwPHdxHCYRvAZln5vEQnit8j_PCsWYomIdm4/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDhfMDg5ZDlmMGM4Y2E2NGM5YjI2N2U4YmUzOWVjYzUxYmUucG5n.jpg",
+      "status": "skipped",
+      "reason": "Popcorn maker, ice maker, slow cooker, pizza oven"
+    },
+    {
+      "page": 9,
+      "image_url": "https://imgproxy.leaflets.schwarz/2AKzFJ5wcNxgCD8XI7M_f2-_LKl6jVf3vcHNN9d7wJM/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMDlfM2Q3OGI2ZGM4MTE0ZThhZjk1Y2JjYWI4NTE0M2ZlZWUucG5n.jpg",
+      "status": "skipped",
+      "reason": "Grills and kitchen appliances"
+    },
+    {
+      "page": 10,
+      "image_url": "https://imgproxy.leaflets.schwarz/Krpv6sHfgKZakk0rF9AStL1anaQxS1E4fc5nBSa3jg0/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTBfZGM0ZjIzYWMxYTViYzY2MzcxMmY5ODBhMDQyY2ZjMGQucG5n.jpg",
+      "status": "skipped",
+      "reason": "Vacuums, sewing machines, carpet cleaners"
+    },
+    {
+      "page": 11,
+      "image_url": "https://imgproxy.leaflets.schwarz/lY3UWXLEdVYweXF5hodL9tFWiiMJY8M0MIQ95j1KRhE/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTFfN2U2Njk4MTlmMmY0ZDc2NzI5NmNiOGZiZWNmYzZiM2MucG5n.jpg",
+      "status": "skipped",
+      "reason": "Personal care and styling devices"
+    },
+    {
+      "page": 12,
+      "image_url": "https://imgproxy.leaflets.schwarz/kudeU4Qekbhh2KzTTK02WSGZhHF3_whIVw1iNbtdiyE/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTJfNThkMzFkNWJlYWE3YWVlOWMwMzRkMDg3MzhkODQ4ZTIucG5n.jpg",
+      "status": "skipped",
+      "reason": "Furniture, projector, IPL device, bedding"
+    },
+    {
+      "page": 13,
+      "image_url": "https://imgproxy.leaflets.schwarz/uK2FonjxHJEjYr3r7ya-E3o1X2YmRI3X50rhWI1RGoA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTNfMTM1N2ZjOWFmNjI0OTA4YWY0YjQ3OWViZjhmMjJlNWIucG5n.jpg",
+      "status": "skipped",
+      "reason": "Power tools and robot vacuum"
+    },
+    {
+      "page": 14,
+      "image_url": "https://imgproxy.leaflets.schwarz/k3zoY44X9YKpF979zJl_9vBJ-1_C2IozPD_pibKtfqg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTRfNDcyMDIxMzJkNDc2ZWE3YmUwMDE5ZmI5MDkwN2U1ZTMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Pillows, duvets, mattress"
+    },
+    {
+      "page": 15,
+      "image_url": "https://imgproxy.leaflets.schwarz/7oCSGVVBOgSHYayYSvxqLLMJA3H4LdUvozJBUom6r5s/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTVfMTczOGYwZWY0MTMyNmU1NjllM2JkMzM4MzAxZTVjMzgucG5n.jpg",
+      "status": "skipped",
+      "reason": "Bedding and mattresses"
+    },
+    {
+      "page": 16,
+      "image_url": "https://imgproxy.leaflets.schwarz/lOqnOwEf4I8NXm-hzLCbD0_GA5HDSxNoJniaI6Sif2E/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTZfYTAzZjZlNmQzNWM0MTJiNzkzMmY0YzRkYWZiZDI0ZjgucG5n.jpg",
+      "status": "skipped",
+      "reason": "TV, soundbar, tablet, smartphone"
+    },
+    {
+      "page": 17,
+      "image_url": "https://imgproxy.leaflets.schwarz/BMT9EXGB5W-kk8-c1w8-IINz4SEgGIiZfHkDg6jujs0/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTdfMDJiNzMyMGMyNDU0ZTdmOTRiODI1NTNjODkzMGJjZTkucG5n.jpg",
+      "status": "skipped",
+      "reason": "Electronics, printer, headphones"
+    },
+    {
+      "page": 18,
+      "image_url": "https://imgproxy.leaflets.schwarz/Teq1ErcgCoTmjBuWu5Rsw0VyBYNlLWOdAuKasSuijEw/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMThfNzViY2RiOWQyMzAwNzI0ZDg2NjdhYTIxMjU1ZmZkMDMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Sneakers, underwear, household helpers"
+    },
+    {
+      "page": 19,
+      "image_url": "https://imgproxy.leaflets.schwarz/MwKBeJRFiQ9tBITor3KiG5tGu87x0JMYQf5KxoIj-Xo/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMTlfNzNmODc4N2U1Yjk1NzZkMmUwYjE0NzI1Y2IxYjkyMWQucG5n.jpg",
+      "status": "skipped",
+      "reason": "Sports equipment and tools"
+    },
+    {
+      "page": 20,
+      "image_url": "https://imgproxy.leaflets.schwarz/JsK_O3EHCc4lsBZeD2SZMWFsOI8dJQ7mVI6YD0gh7bI/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjBfYzFiZWI1NmUzMTU3MmM0YzBmM2ZlNTgwNmQyZTA5OWMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Bicycles, trailers, e-scooters"
+    },
+    {
+      "page": 21,
+      "image_url": "https://imgproxy.leaflets.schwarz/zig6VXNkPkrIUtufzxPkwXwppTgE0z-GE_UVOMbIZWs/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjFfYWFkYzJhMjM4MjllZTZlYWYzNTUwYWQzNzg3Y2FjNmMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Fitness equipment"
+    },
+    {
+      "page": 22,
+      "image_url": "https://imgproxy.leaflets.schwarz/0u9UY_f6syeVh-MYUM1l9EUKQF9hurdId5uraZwYOEo/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjJfMjg1ZDFmOTI2NmUyOGI0MDM0ZmM1MjM0OGZiNjU0NWYucG5n.jpg",
+      "status": "skipped",
+      "reason": "Garden shed, mower, garden cart"
+    },
+    {
+      "page": 23,
+      "image_url": "https://imgproxy.leaflets.schwarz/WXHmsmMmfxULyseGIBjAzza0ex9GOKO2j9Tt0Xzaq1Q/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjNfNDc2OTI0MGY4ODczYzJiOTM5M2QyMjA5YzQ5YmU5M2QucG5n.jpg",
+      "status": "skipped",
+      "reason": "Toys and children's furniture"
+    },
+    {
+      "page": 24,
+      "image_url": "https://imgproxy.leaflets.schwarz/qY3dr_tqquXvml1IEYB-zTqvsPjVXJKVlo9EGfwVyjQ/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjRfZGJmOTQwMzliYjJjMmFmZjhlMWM4ZjFhOGJiOWRiYjAucG5n.jpg",
+      "status": "skipped",
+      "reason": "Travel offers"
+    },
+    {
+      "page": 25,
+      "image_url": "https://imgproxy.leaflets.schwarz/yRwqKkmkG8ZhV-tHbb9oBgAUnadbgXWfgtGXao12I_k/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjVfZjUyMzgwYWE3ZjEwNjExZGQ5MDA0OWY4MDAwMDU1ZTMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Travel and voucher offers"
+    },
+    {
+      "page": 26,
+      "image_url": "https://imgproxy.leaflets.schwarz/icsFJzDDCf5jLPvNzMoSDKREb7dwRZUtdhy3rbFKhis/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjZfZWIxZWU4YzkxZTY2OWZhOTk2MzUwNzE2ZDljMGM5MmQucG5n.jpg",
+      "status": "skipped",
+      "reason": "Photo products"
+    },
+    {
+      "page": 27,
+      "image_url": "https://imgproxy.leaflets.schwarz/OMG6BRbnTFDzi649FuLZVBNxgfWOYvpo9X6HHBiONPk/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjdfNDZiZTdmM2UxMGI3ODM3NTliM2YxZmFjNzhiYmEzOTcucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1056,
+      "seconds": 7.1
+    },
+    {
+      "page": 28,
+      "image_url": "https://imgproxy.leaflets.schwarz/5XY4LbQeZZLAOM5uxYH2RmFlB7FjOXLJNoZBLhfMFpk/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjhfNTJkNTJiMzM4MjY1OWNhY2JjZTJkMWZkN2QzODI4MjMucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1255,
+      "seconds": 8.1
+    },
+    {
+      "page": 29,
+      "image_url": "https://imgproxy.leaflets.schwarz/QkL9uX78o9G2wdOLOHJiV5EKeMs1fWj57nTRan9ifwI/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMjlfZmVjMDEzM2M3YjFkMmI4NDQ1ZDQzOWM2YTYwOGRiZjUucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1362,
+      "seconds": 9.2
+    },
+    {
+      "page": 30,
+      "image_url": "https://imgproxy.leaflets.schwarz/QZcoI5wmvphqaa4_Zc3Kl4xZKakrRO9c0zge937EHBY/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzBfZjU2YWUyYjUwYjIyMmVjMjZhZWU1YTQyMzNhNjBkNjAucG5n.jpg",
+      "status": "skipped",
+      "reason": "Spirits only, alcohol"
+    },
+    {
+      "page": 31,
+      "image_url": "https://imgproxy.leaflets.schwarz/tq3nMF9Y5kS2mDlnRn0d0_KfPdeOhMv5VzRS6qF9hnU/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzFfMWMxZTIwZmQ0MDUzYzAyZDkwMWUyODk5MTE2ZDU1NTAucG5n.jpg",
+      "status": "skipped",
+      "reason": "Wine and sparkling wine, alcohol"
+    },
+    {
+      "page": 32,
+      "image_url": "https://imgproxy.leaflets.schwarz/NZdgcoraQJyksaCvA_xmbabt2_2yHE5JyE9gD27jOd8/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzJfOTc2NTQ3Mjg2NzBjM2QyZmM3ZDI3OGEyYjBjZTVhN2IucG5n.jpg",
+      "status": "skipped",
+      "reason": "Rum and bourbon, alcohol"
+    },
+    {
+      "page": 33,
+      "image_url": "https://imgproxy.leaflets.schwarz/MRQPDvYCOzHCqIBxdSeQRm0Eu7_1slf8C7utol0FCC0/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzNfYjcxZjUzMjc5YTE3ODQxY2NhZDI2OTQ5NmI0ZGMwMDYucG5n.jpg",
+      "status": "skipped",
+      "reason": "Rum and rum spirits, alcohol"
+    },
+    {
+      "page": 34,
+      "image_url": "https://imgproxy.leaflets.schwarz/w5Am-rGGYDIDWSfDyNK4uWMw5l7kQ8RM6OvYyhUWVxA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzRfMjgzMjZlNmJkM2UzYTYyNDM5ZmU4ZmU2NWE0NGM2YmYucG5n.jpg",
+      "status": "skipped",
+      "reason": "Power tools and tool sets"
+    },
+    {
+      "page": 35,
+      "image_url": "https://imgproxy.leaflets.schwarz/MELO5z1dOlm9lICGcHgZ_J-3l3Mjce1ElTWSQWU42lQ/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzVfZWIxZmFiMWZjNDc4YjhlOGEzNDQ1Y2ZjN2M0ZDAyZjkucG5n.jpg",
+      "status": "skipped",
+      "reason": "Pressure washer, workwear, tools"
+    },
+    {
+      "page": 36,
+      "image_url": "https://imgproxy.leaflets.schwarz/sAorJJ0maj2dYw3DpCqV6nydj43XqjYCCw5TXRM1cGY/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzZfZTkyNjA0YmJiNzhmZGY5MDlkOTFiMmE1MDhiYjM3ZjMucG5n.jpg",
+      "status": "skipped",
+      "reason": "Toys and remote-controlled vehicles"
+    },
+    {
+      "page": 37,
+      "image_url": "https://imgproxy.leaflets.schwarz/YOHBgpRDSJmJs3SWynnlzso67vkruL7fH_9zrtCqfI4/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzdfMWM3Njk3MzlmOTMzMmIzNzAyYmM2Nzg4ZTBlY2ZiMzAucG5n.jpg",
+      "status": "skipped",
+      "reason": "Toys, racing track, puzzles, games"
+    },
+    {
+      "page": 38,
+      "image_url": "https://imgproxy.leaflets.schwarz/JlfhLlpBSqjtMTGPKX7TWNzl9SwMaQmHOo2yq3o5uyY/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzhfZjI2OWMyMDVhMzAwZjkzMGU3OTM0NGM4YTEyMTJhNzgucG5n.jpg",
+      "status": "skipped",
+      "reason": "Dolls and toys"
+    },
+    {
+      "page": 39,
+      "image_url": "https://imgproxy.leaflets.schwarz/bTLsAglgCkh7BtzMo7nOxgZTp9x7GFFRGJ5J8MTqO4w/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtMzlfYzNjNWU3ZGFiZWVhNjE5NmViY2E1MGNjZjViYWQyZGQucG5n.jpg",
+      "status": "skipped",
+      "reason": "Child car seats and toys"
+    },
+    {
+      "page": 40,
+      "image_url": "https://imgproxy.leaflets.schwarz/Bc7__OdMBgplQI__hza3gLyxarUH1354QmhvLjWHqAM/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtNDBfYWNmYjAyMzQ2NjI0MzVmOTQ3MTYyZDcwMTY0MjJmNjUucG5n.jpg",
+      "status": "skipped",
+      "reason": "Men's clothing"
+    },
+    {
+      "page": 41,
+      "image_url": "https://imgproxy.leaflets.schwarz/hduhAg6711RWIT83kgh60UxPsv_WPkeVHOcibTUcMGs/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtNDFfY2FmNzcyNzc1OTA2OWIwNTVlZTU1MjFkNzJjN2I4NGIucG5n.jpg",
+      "status": "skipped",
+      "reason": "Men's clothing"
+    },
+    {
+      "page": 42,
+      "image_url": "https://imgproxy.leaflets.schwarz/qS_PTTIamSo2qF_L2XVZLmt48tQ43QliqwIVR17sJiA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtNDJfYWNjNzgwOTNlNDY1MDYwMjExODViYjY4MmUwZmVhNGQucG5n.jpg",
+      "status": "skipped",
+      "reason": "Cookware and blender"
+    },
+    {
+      "page": 43,
+      "image_url": "https://imgproxy.leaflets.schwarz/-NT0Dk88PfpKmgXLE_bciLnBTBrefeARXk2N0Z0-_M8/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzMzctYTc4YS03MDNjLTk2ZDktZWFjMmI1NmUyMjAxL3BhZ2UtNDNfZmVjY2U5ZDJhMzg4YWZjZTRmZjhiM2Q1ZjY1ZjZmYzkucG5n.jpg",
+      "status": "skipped",
+      "reason": "Mobile phone tariff"
+    }
+  ],
+  "products": [
+    {
+      "product": "Mandarin-Orangen",
+      "brand": "Freshona",
+      "price": 0.89,
+      "original_price": null,
+      "discount": null,
+      "detail": "Leicht gezuckert. Je 314 ml Abtropfgewicht: 175 g. 1 kg = 5.09",
+      "image_bbox": [
+        0.1017,
+        0.2692,
+        0.3701,
+        0.4258
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Mandarin oranges",
+      "product_zh_tw": "橘子"
+    },
+    {
+      "product": "Feine Bandnudeln",
+      "brand": "Nudelhof",
+      "price": 1.19,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 500 g. 1 kg = 2.38",
+      "image_bbox": [
+        0.4619,
+        0.2917,
+        0.6667,
+        0.4267
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Fine ribbon noodles",
+      "product_zh_tw": "細緞帶麵"
+    },
+    {
+      "product": "Pesto",
+      "brand": "Baresa",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 190 g. 1 kg = 5.21",
+      "image_bbox": [
+        0.7246,
+        0.2692,
+        0.928,
+        0.4492
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Pesto",
+      "product_zh_tw": "青醬"
+    },
+    {
+      "product": "Brühe im Glas",
+      "brand": "Kania",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 140 g. 1 kg = 7.07",
+      "image_bbox": [
+        0.0311,
+        0.5217,
+        0.3107,
+        0.6375
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Broth in glass",
+      "product_zh_tw": "玻璃罐高湯"
+    },
+    {
+      "product": "Weiße Riesenbohnen",
+      "brand": "Freshona",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 425 ml; 1 l = 2.33. Abtropfgewicht: 240 g (Weiße Riesenbohnen). 1 kg = 4.13",
+      "image_bbox": [
+        0.4562,
+        0.5117,
+        0.6737,
+        0.6583
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "White giant beans",
+      "product_zh_tw": "白色巨型豆"
+    },
+    {
+      "product": "Champignons",
+      "brand": "Freshona",
+      "price": 0.65,
+      "original_price": null,
+      "discount": null,
+      "detail": "III. Wahl in Scheiben. Je 314 ml Abtropfgewicht: 170 g. 1 kg = 3.82",
+      "image_bbox": [
+        0.7895,
+        0.5133,
+        0.9336,
+        0.6325
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Mushrooms",
+      "product_zh_tw": "蘑菇"
+    },
+    {
+      "product": "Kartoffel Püree",
+      "brand": "Harvest Basket",
+      "price": 1.19,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 345 g. 1 kg = 3.45",
+      "image_bbox": [
+        0.1186,
+        0.7325,
+        0.3178,
+        0.8625
+      ],
+      "page": 27,
+      "category": "instant_food",
+      "product_en": "Potato purée",
+      "product_zh_tw": "馬鈴薯泥"
+    },
+    {
+      "product": "Jodsalz",
+      "brand": "Kania",
+      "price": 0.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit Fluorid. Je 500 g. 1 kg = 0.58",
+      "image_bbox": [
+        0.5014,
+        0.7308,
+        0.6285,
+        0.89
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Iodized salt",
+      "product_zh_tw": "碘鹽"
+    },
+    {
+      "product": "Flüssiger Blütenhonig",
+      "brand": "Maribel",
+      "price": 3.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 500 g. 1 kg = 6.58",
+      "image_bbox": [
+        0.6822,
+        0.7342,
+        0.8376,
+        0.9058
+      ],
+      "page": 27,
+      "category": "pantry",
+      "product_en": "Liquid blossom honey",
+      "product_zh_tw": "液態花蜜"
+    },
+    {
+      "product": "Lachsfilet­portionen XXL",
+      "brand": "Ocean Sea",
+      "price": 8.99,
+      "original_price": null,
+      "discount": "-24%",
+      "detail": "Ohne Haut. Tiefgefroren. Je 5x 120 g; 1 kg = 14.98; Standardpackung: 2x 125 g; 5 Stück",
+      "image_bbox": [
+        0.1525,
+        0.2833,
+        0.3475,
+        0.4267
+      ],
+      "page": 28,
+      "category": "seafood",
+      "product_en": "Salmon fillet portions XXL",
+      "product_zh_tw": "鮭魚片分裝 XXL"
+    },
+    {
+      "product": "Natives Olivenöl Extra XXL",
+      "brand": "Primadonna",
+      "price": 8.35,
+      "original_price": null,
+      "discount": "-30%",
+      "detail": "Je 1,5 l; 1 l = 5.57; Standardpackung: 0,75 l; 1,5 Liter",
+      "image_bbox": [
+        0.4972,
+        0.2967,
+        0.637,
+        0.4425
+      ],
+      "page": 28,
+      "category": "pantry",
+      "product_en": "Native olive oil Extra XXL",
+      "product_zh_tw": "初榨橄欖油 Extra XXL"
+    },
+    {
+      "product": "Joghurt XXL",
+      "brand": "Milbona",
+      "price": 1.29,
+      "original_price": null,
+      "discount": "-27%",
+      "detail": "Mild. 3,5 % Fett. Gekühlt. Je 1 kg; Standardpackung: 500 g",
+      "image_bbox": [
+        0.7105,
+        0.2908,
+        0.9689,
+        0.4308
+      ],
+      "page": 28,
+      "category": "dairy",
+      "product_en": "Yogurt XXL",
+      "product_zh_tw": "優格 XXL"
+    },
+    {
+      "product": "Chicken Wings XXL",
+      "brand": "Chef Select",
+      "price": 4.49,
+      "original_price": null,
+      "discount": "-24%",
+      "detail": "Mariniert. Versch. Sorten. Tiefgefroren. Je 1 kg; Standardpackung: 750 g",
+      "image_bbox": [
+        0.0297,
+        0.5125,
+        0.3192,
+        0.6183
+      ],
+      "page": 28,
+      "category": "meat",
+      "product_en": "Chicken wings XXL",
+      "product_zh_tw": "雞翅 XXL"
+    },
+    {
+      "product": "Bayerischer Mini-Leberkäse XXL",
+      "brand": "Dulano",
+      "price": 2.99,
+      "original_price": null,
+      "discount": "-31%",
+      "detail": "Versch. Sorten. Gekühlt. Je 450/500 g; 1 kg = 6.64/5.98; Standardpackung: 350/400 g",
+      "image_bbox": [
+        0.3559,
+        0.5108,
+        0.6441,
+        0.6167
+      ],
+      "page": 28,
+      "category": "meat",
+      "product_en": "Bavarian mini Leberkäse XXL",
+      "product_zh_tw": "巴伐利亞迷你 Leberkäse XXL"
+    },
+    {
+      "product": "Hirtenkäse XXL",
+      "brand": "Milbona",
+      "price": 1.65,
+      "original_price": null,
+      "discount": "-26%",
+      "detail": "Je 375 g; 1 kg = 4.40; Standardpackung: 250 g",
+      "image_bbox": [
+        0.7627,
+        0.5117,
+        0.9492,
+        0.6358
+      ],
+      "page": 28,
+      "category": "dairy",
+      "product_en": "Shepherd's cheese XXL",
+      "product_zh_tw": "牧羊人起司 XXL"
+    },
+    {
+      "product": "Mozzarella Sticks/ Chilli-Cheese Nuggets XXL",
+      "brand": "Chef Select",
+      "price": 4.49,
+      "original_price": null,
+      "discount": "-31%",
+      "detail": "Tiefgefroren. Je 750 g; 1 kg = 5.99; Standardpackung: 250 g",
+      "image_bbox": [
+        0.0297,
+        0.7333,
+        0.3432,
+        0.8417
+      ],
+      "page": 28,
+      "category": "instant_food",
+      "product_en": "Mozzarella sticks/ Chilli-cheese nuggets XXL",
+      "product_zh_tw": "莫扎瑞拉起司條/辣味起司塊 XXL"
+    },
+    {
+      "product": "Geflügelbrust/ Kochschinken XXL",
+      "brand": "Dulano",
+      "price": 3.79,
+      "original_price": null,
+      "discount": "-34%",
+      "detail": "Geflügelbrust in versch. Sorten. Gekühlt. Je 400 g; 1 kg = 9.48; Standardpackung: 200 g",
+      "image_bbox": [
+        0.387,
+        0.7317,
+        0.6469,
+        0.8433
+      ],
+      "page": 28,
+      "category": "meat",
+      "product_en": "Poultry breast/ Cooked ham XXL",
+      "product_zh_tw": "禽胸肉/煮火腿 XXL"
+    },
+    {
+      "product": "4-Käse-Mix XXL",
+      "brand": "Milbona",
+      "price": 2.49,
+      "original_price": null,
+      "discount": "-30%",
+      "detail": "Gerieben. Gekühlt. Je 400 g; 1 kg = 6.23; Standardpackung: 200 g",
+      "image_bbox": [
+        0.774,
+        0.735,
+        0.9647,
+        0.8583
+      ],
+      "page": 28,
+      "category": "dairy",
+      "product_en": "4-Cheese mix XXL",
+      "product_zh_tw": "4 種起司綜合 XXL"
+    },
+    {
+      "product": "Nuts Royal XXL",
+      "brand": "Alesto",
+      "price": 4.99,
+      "original_price": null,
+      "discount": "-41%",
+      "detail": "Naturbelassen. Je 500 g; 1 kg = 9.98. Standardpackung: 200 g. 500 g. Vegan",
+      "image_bbox": [
+        0.1243,
+        0.07,
+        0.3178,
+        0.22
+      ],
+      "page": 29,
+      "category": "sweets_snacks",
+      "product_en": "Nuts Royal XXL",
+      "product_zh_tw": "堅果 Royal XXL"
+    },
+    {
+      "product": "Mandeln XXL",
+      "brand": "Alesto",
+      "price": 4.39,
+      "original_price": null,
+      "discount": "-41%",
+      "detail": "Naturbelassen. Je 500 g; 1 kg = 8.78. Standardpackung: 200 g. 500 g. Vegan",
+      "image_bbox": [
+        0.4463,
+        0.07,
+        0.6427,
+        0.22
+      ],
+      "page": 29,
+      "category": "sweets_snacks",
+      "product_en": "Almonds XXL",
+      "product_zh_tw": "杏仁 XXL"
+    },
+    {
+      "product": "Pistazien XXL",
+      "brand": "Alesto",
+      "price": 5.29,
+      "original_price": null,
+      "discount": "-24%",
+      "detail": "Geröstet & gesalzen. Je 500 g; 1 kg = 10.58. Standardpackung: 250 g. 500 g",
+      "image_bbox": [
+        0.7669,
+        0.07,
+        0.9746,
+        0.2183
+      ],
+      "page": 29,
+      "category": "sweets_snacks",
+      "product_en": "Pistachios XXL",
+      "product_zh_tw": "開心果 XXL"
+    },
+    {
+      "product": "Walnusskerne XXL",
+      "brand": "Alesto",
+      "price": 4.49,
+      "original_price": null,
+      "discount": "-39%",
+      "detail": "Naturbelassen. Je 500 g; 1 kg = 8.98. Standardpackung: 200 g. 500 g. Vegan",
+      "image_bbox": [
+        0.1243,
+        0.29,
+        0.3178,
+        0.4333
+      ],
+      "page": 29,
+      "category": "sweets_snacks",
+      "product_en": "Walnut kernels XXL",
+      "product_zh_tw": "核桃仁 XXL"
+    },
+    {
+      "product": "Cashewkerne XXL",
+      "brand": "Alesto",
+      "price": 4.79,
+      "original_price": null,
+      "discount": "-33%",
+      "detail": "Naturbelassen. Je 500 g; 1 kg = 9.58. Standardpackung: 200 g. 500 g. Vegan",
+      "image_bbox": [
+        0.4421,
+        0.29,
+        0.6427,
+        0.4333
+      ],
+      "page": 29,
+      "category": "sweets_snacks",
+      "product_en": "Cashew kernels XXL",
+      "product_zh_tw": "腰果仁 XXL"
+    },
+    {
+      "product": "Aloe Vera Getränk XXL",
+      "brand": "Solevita",
+      "price": 1.9,
+      "original_price": null,
+      "discount": "-50%",
+      "detail": "Je 1,5 l zzgl. 0.25 Pfand; 1 l = 1.27. Standardpackung: 0,5 l. 1,5 Liter. Vegan",
+      "image_bbox": [
+        0.0678,
+        0.5317,
+        0.1921,
+        0.6983
+      ],
+      "page": 29,
+      "category": "drinks",
+      "product_en": "Aloe Vera drink XXL",
+      "product_zh_tw": "蘆薈飲料 XXL"
+    },
+    {
+      "product": "Energy Drink XXL",
+      "brand": "Kong Strong",
+      "price": 0.44,
+      "original_price": null,
+      "discount": "-25%",
+      "detail": "Versch. Sorten. Taurin- und koffeinhaltig. Je 0,5 l zzgl. 0.25 Pfand. Standardpackung: 330 ml. 0,5 Liter",
+      "image_bbox": [
+        0.3531,
+        0.515,
+        0.5056,
+        0.7083
+      ],
+      "page": 29,
+      "category": "drinks",
+      "product_en": "Energy drink XXL",
+      "product_zh_tw": "能量飲料 XXL"
+    },
+    {
+      "product": "Waschmittel XXL",
+      "brand": "Formil",
+      "price": 7.79,
+      "original_price": null,
+      "discount": "-50%",
+      "detail": "Versch. Sorten. Je 100 Waschladungen; 1 WL = -.08. Standardpackung: 1,5 l",
+      "image_bbox": [
+        0.6822,
+        0.2883,
+        0.9068,
+        0.6567
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_zh_tw": null
+    },
+    {
+      "product": "Katzenstreu XXL",
+      "brand": "Mila's World",
+      "price": 3.75,
+      "original_price": null,
+      "discount": "-28%",
+      "detail": "Je 8 l; 1 l = 0.47. Standardpackung: 6 l. 8 Liter",
+      "image_bbox": [
+        0.0636,
+        0.7317,
+        0.3178,
+        0.8683
+      ],
+      "page": 29,
+      "category": "pet_food",
+      "product_en": null,
+      "product_zh_tw": null
+    },
+    {
+      "product": "Toilettenpapier",
+      "brand": "Floralys",
+      "price": 3.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "3-lagig. Je 16x 150 Blatt. 16 Rollen. Black Week Deal",
+      "image_bbox": [
+        0.3446,
+        0.7483,
+        0.8588,
+        0.9067
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_zh_tw": null
+    }
+  ]
+}
