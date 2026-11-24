@@ -285,7 +285,7 @@ test("loadCache: a missing file is empty; a broken one is an error", async () =>
   await assert.rejects(loadCache(path.join(dir, "list.json")), /not a known-products file/);
 });
 
-test("labelFiles: every product gets category, product_en, product_cn; brands untouched", async () => {
+test("labelFiles: every product gets category, product_en, product_zh_tw; brands untouched", async () => {
   const dir = await tmp();
   const files = { edeka: path.join(dir, "edeka.json"), aldi: path.join(dir, "aldi.json"), lidl: path.join(dir, "lidl.json") };
   await writeFile(files.edeka, JSON.stringify(EDEKA));
@@ -298,7 +298,7 @@ test("labelFiles: every product gets category, product_en, product_cn; brands un
   const read = async (f) => JSON.parse(await readFile(f, "utf8")).products;
   const aldi = await read(files.aldi);
   assert.deepEqual(
-    aldi.map((p) => [p.brand, p.category, p.product_en, p.product_cn]),
+    aldi.map((p) => [p.brand, p.category, p.product_en, p.product_zh_tw]),
     [
       ["MEINE METZGEREI", "meat", "Neck steak", "頸排"],
       ["MEINE METZGEREI", "other", "EN Hähnchen-Ministeaks", "中 Hähnchen-Ministeaks"],
@@ -307,7 +307,7 @@ test("labelFiles: every product gets category, product_en, product_cn; brands un
   );
   const edeka = await read(files.edeka);
   assert.deepEqual(edeka.map((p) => p.category), ["pantry", "non_food", "alcohol", "pet_food"]);
-  assert.equal((await read(files.lidl))[1].product_cn, "頸排"); // same product at ALDI and Lidl: decided once
+  assert.equal((await read(files.lidl))[1].product_zh_tw, "頸排"); // same product at ALDI and Lidl: decided once
 
   await assert.rejects(labelFiles([path.join(dir, "known.json")], opts(path.join(dir, "known.json"), client)), /no "products" list/);
 });

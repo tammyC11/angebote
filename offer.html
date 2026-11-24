@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Ein Angebot von Lidl, ALDI SÜD oder EDEKA Braun.">
+<title>Wochenangebote</title>
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header><div class="wrap">
+  <div><h1 id="page-title">Wochenangebote</h1><p>Lidl, ALDI SÜD und EDEKA Braun</p></div>
+  <div class="selectors">
+    <label><span id="language-label">Sprache</span><select id="language">
+      <option value="en" lang="en">English</option><option value="de" lang="de" selected>Deutsch</option><option value="zh-TW" lang="zh-TW">台灣繁體中文</option>
+    </select></label>
+  </div>
+</div></header>
+<main class="wrap single">
+  <a class="pill back" id="back" href="index.html">← Alle Angebote</a>
+  <article class="card single-card" id="offer"></article>
+  <p class="empty" id="not-found" hidden></p>
+</main>
+<script src="catalog.js"></script>
+<script src="site.js"></script>
+<script>
+// One offer on its own page: offer.html?id=<offer id>&lang=de|en|zh
+const languageSelect = byId('language');
+const offer = offersById.get(new URLSearchParams(location.search).get('id'));
+
+// called by site.js when favourites change (here or in another tab)
+function favoritesChanged() {
+  syncHearts();
+}
+
+/** Back to the list, in the same language, at the offer's week. */
+function backUrl() {
+  const url = new URL('index.html', location.href);
+  url.search = '';
+  url.hash = '';
+  if (offer) url.searchParams.set('week', offer.week);
+  url.searchParams.set('lang', languageCode());
+  return url.href;
+}
+
+function show() {
+  applyTexts();
+  document.title = offer ? displayName(offer) + ' · ' + t.title : t.title;
+  languageSelect.value = language;
+  byId('page-title').textContent = t.title;
+  byId('language-label').textContent = t.language;
+  const back = byId('back');
+  back.textContent = '← ' + t.back;
+  back.href = backUrl();
+  if (!offer) {
+    byId('offer').hidden = true;
+    byId('not-found').textContent = t.notFound;
+    byId('not-found').hidden = false;
+    return;
+  }
+  byId('offer').replaceChildren(media(offer, true), detailCopy(offer), heart(offer));
+}
+
+languageSelect.addEventListener('change', () => {
+  setLanguage(languageSelect.value);
+  show();
+});
+writeLanguageToUrl();
+show();
+</script>
+</body>
+</html>

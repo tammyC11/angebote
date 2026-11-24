@@ -14,7 +14,41 @@ console.log(offers.length);
 
 On import, the builder reads all flyer JSON files under `data/lidl/`, `data/aldi/`, and `data/edeka/`. It keeps products with a recognized food or drink category, combines store-specific prices and photos with each product, and deduplicates offers by ID. Lidl photos use a crop of the flyer page.
 
-Open `index.html` in a browser to browse the catalog snapshot embedded in that file. Refreshing the flyer files affects the Node export the next time you start Node. The HTML snapshot is independent of that export.
+## The website
+
+Open `index.html` in a browser. Favourites are kept in the browser's storage. Pages opened as
+files (`file:///…`) only share it in some browsers: Chrome does, Safari and Firefox can keep each
+file separate, so a favourite saved on `offer.html` may not show on `index.html`. To try the site
+the way it works when hosted, serve the folder from this computer and open
+http://localhost:8080/:
+
+```sh
+python3 -m http.server 8080 --bind 127.0.0.1
+```
+
+`index.html` and `offer.html` share three files:
+
+- `catalog.js`: the offers, as `window.CATALOG = […]`
+- `site.js`: texts in three languages, the language choice, favourites, and how an offer is drawn
+- `site.css`: the styles
+
+`offer.html?id=<offer id>` shows one offer on its own, with a link back to the list. The
+"copy product link" button in an offer's details copies this link.
+
+The language is part of the address: `?lang=de` (German, the default), `?lang=en` (English) or
+`?lang=zh` (Traditional Chinese, Taiwan), e.g. `index.html?lang=zh` or
+`offer.html?id=…&lang=en`. Without `lang`, the page uses the last language chosen in this
+browser. (A path like `index.html/zh` can't work for pages opened as files: the browser looks
+for a file called `zh` inside a folder called `index.html`.)
+
+The pages show what is in `catalog.js`. After refreshing the flyer files, run `build-catalog.mjs`
+to save the offers as `catalog.js` again (importing it, as above, only returns them):
+
+```sh
+npm run build-catalog          # same as: node build-catalog.mjs
+```
+
+Refreshing the flyer files affects the Node export the next time you start Node.
 
 ## Refresh the offers
 
@@ -31,7 +65,7 @@ Open `index.html` in a browser to browse the catalog snapshot embedded in that f
    npm run translate-products -- data/aldi/*.json data/edeka/*.json data/lidl/*.json --dry-run
    ```
 
-3. Set `ANTHROPIC_API_KEY` in your environment, then run the same command without `--dry-run`. It writes `category`, `product_en`, and `product_cn` back to the input flyer files.
+3. Set `ANTHROPIC_API_KEY` in your environment, then run the same command without `--dry-run`. It writes `category`, `product_en`, and `product_zh_tw` back to the input flyer files.
 
 For Lidl, run the flyer extractor before translation to populate `data/lidl/`. See the command below.
 

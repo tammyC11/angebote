@@ -27,7 +27,7 @@
  * (their translations are kept). Entries with "model": "manual" are never asked again: to correct
  * one, edit it and set "model" to "manual".
  *
- * The files given are updated in place: each product gets `category`, `product_en`, `product_cn`.
+ * The files given are updated in place: each product gets `category`, `product_en`, `product_zh_tw`.
  *
  * Options
  *   --cache <file>   known products file (default: data/known-products.json)
@@ -284,7 +284,7 @@ export async function labelProducts(
 
 // ── result files ──────────────────────────────────────────────────────────────
 
-/** Add category / product_en / product_cn to every product in the result files. */
+/** Add category / product_en / product_zh_tw to every product in the result files. */
 export async function labelFiles(files, { dryRun = false, log = console.error, ...opts } = {}) {
   const docs = [];
   for (const file of files) {
@@ -300,7 +300,7 @@ export async function labelFiles(files, { dryRun = false, log = console.error, .
       const l = result.labels.get(contexts[i].key);
       p.category = l?.category ?? null; // null: not decided yet (see the run's failures)
       p.product_en = l?.en ?? null;
-      p.product_cn = l?.zh ?? null;
+      p.product_zh_tw = l?.zh ?? null;
     });
     await writeFile(`${file}.tmp`, JSON.stringify(doc, null, 2) + "\n");
     await rename(`${file}.tmp`, file);

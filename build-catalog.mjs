@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
-import { readdir, readFile } from "node:fs/promises";
+import { readdir, readFile, rename, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
+import { pathToFileURL } from "node:url";
 import { productExtras } from "./scripts/store-extras.mjs";
 import { CATEGORY_NAMES, FOOD_CATEGORIES } from "./data/categories.js";
 
@@ -9,6 +10,26 @@ export { CATEGORY_NAMES };
 export const RETAILERS = ["lidl", "aldi", "edeka"];
 
 const UNIT_LINE = /^(Grundpreis(?! mit App)|(?:1\s*)?(?:kg|l|100\s*g)\s*(?:-Preis|=))/i;
+
+function offerSource(retailer, flyerUrl, pageNumber, edeka) {
+  const url = URL.parse(flyerUrl);
+  if (!url) return null;
+  if (retailer === "edeka" && edeka?.uuid) {
+    url.hash = "angebot-" + edeka.uuid;
+    return url.href;
+  }
+  if (retailer === "lidl") {
+    const slug = url.searchParams.get("flyer_identifier");
+    if (!slug || !Number.isInteger(pageNumber) || pageNumber < 1) {
+      return "https://www.lidl.de/c/online-prospekte/s10005610";
+    }
+    return `https://www.lidl.de/l/prospekte/${encodeURIComponent(slug)}/view/flyer/page/${pageNumber}?_ab=1&lf=HHZ`;
+  }
+  if (retailer === "aldi" && Number.isInteger(pageNumber) && pageNumber > 0) {
+    url.pathname = url.pathname.replace(/\/$/, "") + "/page/" + pageNumber;
+  }
+  return url.href;
+}
 
 /** One product → the offer the page shows. */
 export function toOffer(retailer, flyer, product, { page, edeka, aldi }) {
@@ -26,10 +47,10 @@ export function toOffer(retailer, flyer, product, { page, edeka, aldi }) {
     retailer,
     week,
     weekEnd,
-    source,
+    source: offerSource(retailer, source, product.page, edeka),
     store: retailer === "edeka" ? title.split(":")[0] : null,
     name: product.product,
-    names: { en: product.product_en?.trim() || product.product, "zh-TW": product.product_cn?.trim() || product.product },
+    names: { en: product.product_en?.trim() || product.product, "zh-TW": product.product_zh_tw?.trim() || product.product },
     brand: product.brand,
     price: product.price,
     originalPrice: product.original_price,
@@ -79,4 +100,25 @@ for (const retailer of RETAILERS) {
   }
 }
 
-export default catalogOffers(flyers).offers;
+const offers = catalogOffers(flyers).offers;
+export default offers;
+
+/**
+ * The offers as a script for index.html and offer.html: `window.CATALOG = […]`.
+ * A script, not JSON, because pages opened as files may load scripts but not read JSON files.
+ * "<" is escaped so no text in the data can end a <script> early.
+ */
+export function catalogScript(list) {
+  return (
+    "// Written by build-catalog.mjs from the files in data/. Do not edit by hand.\n" +
+    "window.CATALOG = " + JSON.stringify(list).replaceAll("<", "\\u003c") + ";\n"
+  );
+}
+
+// node build-catalog.mjs → saves the offers as catalog.js (importing this file writes nothing)
+if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) {
+  const file = resolve(import.meta.dirname, "catalog.js");
+  await writeFile(file + ".tmp", catalogScript(offers));
+  await rename(file + ".tmp", file);
+  console.log(`Wrote ${offers.length} offers to catalog.js.`);
+}

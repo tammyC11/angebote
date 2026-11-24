@@ -575,7 +575,7 @@
       "page": 1,
       "category": "pantry",
       "product_en": "Nutella",
-      "product_cn": "Nutella"
+      "product_zh_tw": "Nutella"
     },
     {
       "product": "Roquefort AOP",
@@ -593,7 +593,7 @@
       "page": 1,
       "category": "dairy",
       "product_en": "Roquefort AOP",
-      "product_cn": "Roquefort AOP"
+      "product_zh_tw": "Roquefort AOP"
     },
     {
       "product": "Prosciutto di Parma D.O.P.",
@@ -611,7 +611,7 @@
       "page": 1,
       "category": "meat",
       "product_en": "Prosciutto di Parma D.O.P.",
-      "product_cn": "Prosciutto di Parma D.O.P."
+      "product_zh_tw": "Prosciutto di Parma D.O.P."
     },
     {
       "product": "Steirisches Kürbiskernöl g.g.A.",
@@ -629,7 +629,7 @@
       "page": 1,
       "category": "pantry",
       "product_en": "Styrian pumpkin seed oil g.g.A.",
-      "product_cn": "施蒂利亞南瓜籽油 g.g.A."
+      "product_zh_tw": "施蒂利亞南瓜籽油 g.g.A."
     },
     {
       "product": "Sekt",
@@ -647,7 +647,7 @@
       "page": 1,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Steinofenpizza",
@@ -665,7 +665,7 @@
       "page": 1,
       "category": "instant_food",
       "product_en": "Stone oven pizza",
-      "product_cn": "石窯披薩"
+      "product_zh_tw": "石窯披薩"
     },
     {
       "product": "Schottischer Räucherlachs",
@@ -683,7 +683,7 @@
       "page": 1,
       "category": "seafood",
       "product_en": "Scottish smoked salmon",
-      "product_cn": "蘇格蘭煙燻鮭魚"
+      "product_zh_tw": "蘇格蘭煙燻鮭魚"
     },
     {
       "product": "Hirschbraten",
@@ -701,7 +701,7 @@
       "page": 1,
       "category": "meat",
       "product_en": "Venison roast",
-      "product_cn": "鹿肉烤肉"
+      "product_zh_tw": "鹿肉烤肉"
     },
     {
       "product": "Cannoli",
@@ -719,7 +719,7 @@
       "page": 1,
       "category": "bread",
       "product_en": "Cannoli",
-      "product_cn": "卡諾利"
+      "product_zh_tw": "卡諾利"
     },
     {
       "product": "Dunkle Pflaumen",
@@ -737,7 +737,7 @@
       "page": 2,
       "category": "fruits",
       "product_en": "Dark plums",
-      "product_cn": "深色李子"
+      "product_zh_tw": "深色李子"
     },
     {
       "product": "Feldsalat",
@@ -755,7 +755,7 @@
       "page": 2,
       "category": "vegetables",
       "product_en": "Lamb's lettuce",
-      "product_cn": "羊耳菜"
+      "product_zh_tw": "羊耳菜"
     },
     {
       "product": "Mandarinen/Clementinen",
@@ -773,7 +773,7 @@
       "page": 2,
       "category": "fruits",
       "product_en": "Mandarins/Clementines",
-      "product_cn": "柑橘/克萊門氏小柑橘"
+      "product_zh_tw": "柑橘/克萊門氏小柑橘"
     },
     {
       "product": "Kiwi, rot",
@@ -791,7 +791,7 @@
       "page": 2,
       "category": "fruits",
       "product_en": "Kiwi, red",
-      "product_cn": "紅奇異果"
+      "product_zh_tw": "紅奇異果"
     },
     {
       "product": "Romana Salat",
@@ -809,7 +809,7 @@
       "page": 3,
       "category": "vegetables",
       "product_en": "Romana salad",
-      "product_cn": "羅曼娜生菜"
+      "product_zh_tw": "羅曼娜生菜"
     },
     {
       "product": "Zucchini, lose",
@@ -827,7 +827,7 @@
       "page": 3,
       "category": "vegetables",
       "product_en": "Zucchini, loose",
-      "product_cn": "散裝櫛瓜"
+      "product_zh_tw": "散裝櫛瓜"
     },
     {
       "product": "Zuckerhutfichte",
@@ -845,7 +845,7 @@
       "page": 3,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Scheinzypressen in Goldtrend-Keramik",
@@ -863,7 +863,7 @@
       "page": 3,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Bio Gurken, lose",
@@ -881,7 +881,7 @@
       "page": 3,
       "category": "vegetables",
       "product_en": "Organic cucumbers, loose",
-      "product_cn": "有機黃瓜，散裝"
+      "product_zh_tw": "有機黃瓜，散裝"
     },
     {
       "product": "Avocado, lose",
@@ -899,7 +899,7 @@
       "page": 3,
       "category": "fruits",
       "product_en": "Avocado, loose",
-      "product_cn": "酪梨，散裝"
+      "product_zh_tw": "酪梨，散裝"
     },
     {
       "product": "Weihnachtsstern",
@@ -917,7 +917,7 @@
       "page": 3,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Deutscher Spitzkohl",
@@ -935,7 +935,7 @@
       "page": 3,
       "category": "vegetables",
       "product_en": "German pointed cabbage",
-      "product_cn": "德國尖頭高麗菜"
+      "product_zh_tw": "德國尖頭高麗菜"
     },
     {
       "product": "Topfrosen Trio",
@@ -953,7 +953,7 @@
       "page": 3,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Wärmflasche mit Aromastein",
@@ -971,7 +971,7 @@
       "page": 4,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Farbrolle mit Wechselbezügen",
@@ -989,7 +989,7 @@
       "page": 4,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Flaschen-Organizer",
@@ -1007,7 +1007,7 @@
       "page": 4,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Wärmereflektierende Wandfarbe",
@@ -1025,7 +1025,7 @@
       "page": 4,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Bohrlochfüller",
@@ -1043,7 +1043,7 @@
       "page": 5,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Frischebox für den Kühlschrank",
@@ -1061,7 +1061,7 @@
       "page": 5,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Wasserhahn-Entkalker",
@@ -1079,7 +1079,7 @@
       "page": 5,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Krustenbrot",
@@ -1097,7 +1097,7 @@
       "page": 6,
       "category": "bread",
       "product_en": "Crusty bread",
-      "product_cn": "脆皮麵包"
+      "product_zh_tw": "脆皮麵包"
     },
     {
       "product": "Wild Bread mit Ruchmehl",
@@ -1115,7 +1115,7 @@
       "page": 6,
       "category": "bread",
       "product_en": "Wild Bread with Ruchmehl",
-      "product_cn": "Wild Bread 含 Ruchmehl"
+      "product_zh_tw": "Wild Bread 含 Ruchmehl"
     },
     {
       "product": "Käselaugenstange",
@@ -1133,7 +1133,7 @@
       "page": 6,
       "category": "bread",
       "product_en": "Cheese pretzel stick",
-      "product_cn": "起司鹼水條"
+      "product_zh_tw": "起司鹼水條"
     },
     {
       "product": "Steinofenbrötchen",
@@ -1151,7 +1151,7 @@
       "page": 6,
       "category": "bread",
       "product_en": "Stone oven rolls",
-      "product_cn": "石窯麵包捲"
+      "product_zh_tw": "石窯麵包捲"
     },
     {
       "product": "Erdbeer-Herz",
@@ -1169,7 +1169,7 @@
       "page": 6,
       "category": "sweets_snacks",
       "product_en": "Strawberry heart",
-      "product_cn": "草莓心形"
+      "product_zh_tw": "草莓心形"
     },
     {
       "product": "White Tiger Garnelen",
@@ -1187,7 +1187,7 @@
       "page": 7,
       "category": "seafood",
       "product_en": "White Tiger shrimp",
-      "product_cn": "White Tiger 蝦"
+      "product_zh_tw": "White Tiger 蝦"
     },
     {
       "product": "Döner Croissant",
@@ -1205,7 +1205,7 @@
       "page": 7,
       "category": "bread",
       "product_en": "Döner Croissant",
-      "product_cn": "Döner 可頌"
+      "product_zh_tw": "Döner 可頌"
     },
     {
       "product": "Frisches Schweinefilet",
@@ -1223,7 +1223,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh pork tenderloin",
-      "product_cn": "新鮮豬裡脊"
+      "product_zh_tw": "新鮮豬裡脊"
     },
     {
       "product": "Frische Hähnchenoberkeulen",
@@ -1241,7 +1241,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh chicken upper legs",
-      "product_cn": "新鮮雞腿上段"
+      "product_zh_tw": "新鮮雞腿上段"
     },
     {
       "product": "Frisches Hähnchen-Geschnetzeltes",
@@ -1259,7 +1259,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh chicken strips",
-      "product_cn": "新鮮雞肉絲"
+      "product_zh_tw": "新鮮雞肉絲"
     },
     {
       "product": "Frisches Hackfleisch, gemischt",
@@ -1277,7 +1277,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh mixed minced meat",
-      "product_cn": "新鮮混合絞肉"
+      "product_zh_tw": "新鮮混合絞肉"
     },
     {
       "product": "Frisches Hähnchen-Innenfilet",
@@ -1295,7 +1295,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh chicken tenderloins",
-      "product_cn": "新鮮雞里肌"
+      "product_zh_tw": "新鮮雞里肌"
     },
     {
       "product": "Frische Hähnchenschenkel",
@@ -1313,7 +1313,7 @@
       "page": 7,
       "category": "meat",
       "product_en": "Fresh chicken drumsticks",
-      "product_cn": "新鮮雞腿"
+      "product_zh_tw": "新鮮雞腿"
     },
     {
       "product": "Appassimento Puglia IGP, Rotwein, halbtrocken",
@@ -1331,7 +1331,7 @@
       "page": 7,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Bourbon Vanille Extrakt Zubereitung",
@@ -1349,7 +1349,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Bourbon Vanilla Extract Preparation",
-      "product_cn": "波本香草萃取製劑"
+      "product_zh_tw": "波本香草萃取製劑"
     },
     {
       "product": "Vanillin Zucker",
@@ -1367,7 +1367,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Vanillin Sugar",
-      "product_cn": "香草醛糖"
+      "product_zh_tw": "香草醛糖"
     },
     {
       "product": "Kakao zum Backen",
@@ -1385,7 +1385,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Cocoa for baking",
-      "product_cn": "烘焙用可可粉"
+      "product_zh_tw": "烘焙用可可粉"
     },
     {
       "product": "Nuss-Nougat Schnittfeste Masse",
@@ -1403,7 +1403,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Nut nougat cut-resistant mass",
-      "product_cn": "堅果牛軋糖耐切餡料"
+      "product_zh_tw": "堅果牛軋糖耐切餡料"
     },
     {
       "product": "Backpulver",
@@ -1421,7 +1421,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Baking powder",
-      "product_cn": "泡打粉"
+      "product_zh_tw": "泡打粉"
     },
     {
       "product": "Hefe",
@@ -1439,7 +1439,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Yeast",
-      "product_cn": "酵母"
+      "product_zh_tw": "酵母"
     },
     {
       "product": "Bourbon Vanilleschoten",
@@ -1457,7 +1457,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Bourbon vanilla pods",
-      "product_cn": "波本香草莢"
+      "product_zh_tw": "波本香草莢"
     },
     {
       "product": "Sahnesteif",
@@ -1475,7 +1475,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Cream stabilizer",
-      "product_cn": "鮮奶油穩定粉"
+      "product_zh_tw": "鮮奶油穩定粉"
     },
     {
       "product": "Sauerkirschen",
@@ -1493,7 +1493,7 @@
       "page": 8,
       "category": "pantry",
       "product_en": "Sour cherries",
-      "product_cn": "酸櫻桃"
+      "product_zh_tw": "酸櫻桃"
     },
     {
       "product": "Feine Marzipan Rohmasse",
@@ -1511,7 +1511,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Fine Marzipan raw mass",
-      "product_cn": "細杏仁膏原料"
+      "product_zh_tw": "細杏仁膏原料"
     },
     {
       "product": "Kandierte Früchte",
@@ -1529,7 +1529,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Candied fruits",
-      "product_cn": "蜜餞水果"
+      "product_zh_tw": "蜜餞水果"
     },
     {
       "product": "Backoblaten",
@@ -1547,7 +1547,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Baking wafers",
-      "product_cn": "烘焙威化紙"
+      "product_zh_tw": "烘焙威化紙"
     },
     {
       "product": "Kokosraspel",
@@ -1565,7 +1565,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Coconut shreds",
-      "product_cn": "椰子絲"
+      "product_zh_tw": "椰子絲"
     },
     {
       "product": "Backgewürze",
@@ -1583,7 +1583,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Baking spices",
-      "product_cn": "烘焙香料"
+      "product_zh_tw": "烘焙香料"
     },
     {
       "product": "Zimt",
@@ -1601,7 +1601,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "Cinnamon",
-      "product_cn": "肉桂"
+      "product_zh_tw": "肉桂"
     },
     {
       "product": "The Taste of Christmas Orangen-Mascarpone-Creme",
@@ -1619,7 +1619,7 @@
       "page": 9,
       "category": "dairy",
       "product_en": "The Taste of Christmas Orange Mascarpone Cream",
-      "product_cn": "The Taste of Christmas 橙味馬斯卡彭奶油"
+      "product_zh_tw": "The Taste of Christmas 橙味馬斯卡彭奶油"
     },
     {
       "product": "The Taste of Christmas Kuchen Glasur",
@@ -1637,7 +1637,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "The Taste of Christmas Cake Glaze",
-      "product_cn": "The Taste of Christmas 蛋糕淋醬"
+      "product_zh_tw": "The Taste of Christmas 蛋糕淋醬"
     },
     {
       "product": "The Taste of Christmas Zimt Mousse",
@@ -1655,7 +1655,7 @@
       "page": 9,
       "category": "dairy",
       "product_en": "The Taste of Christmas Cinnamon Mousse",
-      "product_cn": "The Taste of Christmas 肉桂慕斯"
+      "product_zh_tw": "The Taste of Christmas 肉桂慕斯"
     },
     {
       "product": "The Taste of Christmas Warme Schokoküchlein",
@@ -1673,7 +1673,7 @@
       "page": 9,
       "category": "bread",
       "product_en": "The Taste of Christmas Warm Chocolate Cakes",
-      "product_cn": "The Taste of Christmas 溫熱巧克力小蛋糕"
+      "product_zh_tw": "The Taste of Christmas 溫熱巧克力小蛋糕"
     },
     {
       "product": "The Taste of Christmas Streudekor",
@@ -1691,7 +1691,7 @@
       "page": 9,
       "category": "pantry",
       "product_en": "The Taste of Christmas Sprinkle Decor",
-      "product_cn": "The Taste of Christmas 撒糖裝飾"
+      "product_zh_tw": "The Taste of Christmas 撒糖裝飾"
     },
     {
       "product": "Energy Drink",
@@ -1709,7 +1709,7 @@
       "page": 10,
       "category": "drinks",
       "product_en": "Energy Drink",
-      "product_cn": "能量飲料"
+      "product_zh_tw": "能量飲料"
     },
     {
       "product": "Butter",
@@ -1727,7 +1727,7 @@
       "page": 10,
       "category": "dairy",
       "product_en": "Butter",
-      "product_cn": "奶油"
+      "product_zh_tw": "奶油"
     },
     {
       "product": "Weihnachtsmarkt Tee",
@@ -1745,7 +1745,7 @@
       "page": 10,
       "category": "drinks",
       "product_en": "Christmas market tea",
-      "product_cn": "聖誕市集茶"
+      "product_zh_tw": "聖誕市集茶"
     },
     {
       "product": "iO Elektrische Zahnbürste",
@@ -1763,7 +1763,7 @@
       "page": 10,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Käsescheiben XXL",
@@ -1781,7 +1781,7 @@
       "page": 11,
       "category": "dairy",
       "product_en": "Cheese slices XXL",
-      "product_cn": "起司片 XXL"
+      "product_zh_tw": "起司片 XXL"
     },
     {
       "product": "Haltbare fettarme Milch",
@@ -1799,7 +1799,7 @@
       "page": 11,
       "category": "dairy",
       "product_en": "Long-life low-fat milk",
-      "product_cn": "長效保存低脂牛奶"
+      "product_zh_tw": "長效保存低脂牛奶"
     },
     {
       "product": "Whip",
@@ -1817,7 +1817,7 @@
       "page": 11,
       "category": "pantry",
       "product_en": "Whip",
-      "product_cn": "Whip"
+      "product_zh_tw": "Whip"
     },
     {
       "product": "Cerealien",
@@ -1835,7 +1835,7 @@
       "page": 11,
       "category": "pantry",
       "product_en": "Cereals",
-      "product_cn": "穀物早餐"
+      "product_zh_tw": "穀物早餐"
     },
     {
       "product": "Chipsfrisch XXL",
@@ -1853,7 +1853,7 @@
       "page": 11,
       "category": "sweets_snacks",
       "product_en": "Chipsfrisch XXL",
-      "product_cn": "Chipsfrisch XXL"
+      "product_zh_tw": "Chipsfrisch XXL"
     },
     {
       "product": "Mandeln",
@@ -1871,7 +1871,7 @@
       "page": 11,
       "category": "sweets_snacks",
       "product_en": "Almonds",
-      "product_cn": "杏仁"
+      "product_zh_tw": "杏仁"
     },
     {
       "product": "Icetea XXL",
@@ -1889,7 +1889,7 @@
       "page": 11,
       "category": "drinks",
       "product_en": "Icetea XXL",
-      "product_cn": "Icetea XXL"
+      "product_zh_tw": "Icetea XXL"
     },
     {
       "product": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
@@ -1907,7 +1907,7 @@
       "page": 11,
       "category": "drinks",
       "product_en": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
-      "product_cn": "Coca-Cola/Fanta/Sprite/Mezzo Mix"
+      "product_zh_tw": "Coca-Cola/Fanta/Sprite/Mezzo Mix"
     },
     {
       "product": "Milch Freunde",
@@ -1925,7 +1925,7 @@
       "page": 11,
       "category": "sweets_snacks",
       "product_en": "Milk Friends",
-      "product_cn": "牛奶好友"
+      "product_zh_tw": "牛奶好友"
     },
     {
       "product": "Extra Bier",
@@ -1943,7 +1943,7 @@
       "page": 11,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Waschmittel",
@@ -1961,7 +1961,7 @@
       "page": 11,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Naturelle",
@@ -1979,7 +1979,7 @@
       "page": 11,
       "category": "drinks",
       "product_en": "Natural",
-      "product_cn": "天然"
+      "product_zh_tw": "天然"
     },
     {
       "product": "Harry Potter",
@@ -1997,7 +1997,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Harry Potter",
-      "product_cn": "Harry Potter"
+      "product_zh_tw": "Harry Potter"
     },
     {
       "product": "M&M´S",
@@ -2015,7 +2015,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "M&M´S",
-      "product_cn": "M&M´S"
+      "product_zh_tw": "M&M´S"
     },
     {
       "product": "Weihnachtsmann",
@@ -2033,7 +2033,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Weihnachtsmann",
@@ -2051,7 +2051,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Rocher Weihnachtsmann",
@@ -2069,7 +2069,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Rocher Santa Claus",
-      "product_cn": "Rocher 聖誕老人"
+      "product_zh_tw": "Rocher 聖誕老人"
     },
     {
       "product": "Rocher Tanne",
@@ -2087,7 +2087,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Rocher Fir Tree",
-      "product_cn": "Rocher 冷杉"
+      "product_zh_tw": "Rocher 冷杉"
     },
     {
       "product": "Weihnachtsmann",
@@ -2105,7 +2105,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Eisbär",
@@ -2123,7 +2123,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Polar Bear",
-      "product_cn": "北極熊"
+      "product_zh_tw": "北極熊"
     },
     {
       "product": "Backmischung Käse-Kirsch-Streuselkuchen",
@@ -2141,7 +2141,7 @@
       "page": 12,
       "category": "pantry",
       "product_en": "Baking mix cheese-cherry crumble cake",
-      "product_cn": "烘焙預拌粉 起司櫻桃奶酥蛋糕"
+      "product_zh_tw": "烘焙預拌粉 起司櫻桃奶酥蛋糕"
     },
     {
       "product": "Hohlfiguren",
@@ -2159,7 +2159,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Hollow figures",
-      "product_cn": "空心造型巧克力"
+      "product_zh_tw": "空心造型巧克力"
     },
     {
       "product": "Geschenkegruß",
@@ -2177,7 +2177,7 @@
       "page": 12,
       "category": "sweets_snacks",
       "product_en": "Gift greeting",
-      "product_cn": "禮物問候"
+      "product_zh_tw": "禮物問候"
     },
     {
       "product": "Goldmais/ Erbsen & Möhrchen",
@@ -2195,7 +2195,7 @@
       "page": 13,
       "category": "pantry",
       "product_en": "Golden corn/ Peas & Little carrots",
-      "product_cn": "金玉米/ 豌豆 & 小胡蘿蔔"
+      "product_zh_tw": "金玉米/ 豌豆 & 小胡蘿蔔"
     },
     {
       "product": "Culinesse XXL",
@@ -2213,7 +2213,7 @@
       "page": 13,
       "category": "dairy",
       "product_en": "Culinesse XXL",
-      "product_cn": "Culinesse XXL"
+      "product_zh_tw": "Culinesse XXL"
     },
     {
       "product": "Rocher",
@@ -2231,7 +2231,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Rocher",
-      "product_cn": "Rocher"
+      "product_zh_tw": "Rocher"
     },
     {
       "product": "Riegel/ Duplo",
@@ -2249,7 +2249,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Bar/ Duplo",
-      "product_cn": "棒條/ Duplo"
+      "product_zh_tw": "棒條/ Duplo"
     },
     {
       "product": "Bueno",
@@ -2267,7 +2267,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Bueno",
-      "product_cn": "Bueno"
+      "product_zh_tw": "Bueno"
     },
     {
       "product": "Linzeraugen XXL",
@@ -2285,7 +2285,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Linzer eyes XXL",
-      "product_cn": "林茲眼餅乾 XXL"
+      "product_zh_tw": "林茲眼餅乾 XXL"
     },
     {
       "product": "Muffins XXL",
@@ -2303,7 +2303,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Muffins XXL",
-      "product_cn": "瑪芬蛋糕 XXL"
+      "product_zh_tw": "瑪芬蛋糕 XXL"
     },
     {
       "product": "Jaffa Cake Orange XXL",
@@ -2321,7 +2321,7 @@
       "page": 13,
       "category": "sweets_snacks",
       "product_en": "Jaffa Cake Orange XXL",
-      "product_cn": "Jaffa Cake 橘子 XXL"
+      "product_zh_tw": "Jaffa Cake 橘子 XXL"
     },
     {
       "product": "Erdnussbutter XXL",
@@ -2339,7 +2339,7 @@
       "page": 13,
       "category": "pantry",
       "product_en": "Peanut butter XXL",
-      "product_cn": "花生醬 XXL"
+      "product_zh_tw": "花生醬 XXL"
     },
     {
       "product": "Geschirrspülmittel XXL",
@@ -2357,7 +2357,7 @@
       "page": 13,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Haarlack/ Haarspray",
@@ -2375,7 +2375,7 @@
       "page": 13,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Milchreis",
@@ -2393,7 +2393,7 @@
       "page": 14,
       "category": "dairy",
       "product_en": "Milk rice",
-      "product_cn": "牛奶米飯"
+      "product_zh_tw": "牛奶米飯"
     },
     {
       "product": "Backfisch/Matjesfilets XXL",
@@ -2411,7 +2411,7 @@
       "page": 14,
       "category": "seafood",
       "product_en": "Fried fish/Matjes fillets XXL",
-      "product_cn": "炸魚/醃鯡魚排 XXL"
+      "product_zh_tw": "炸魚/醃鯡魚排 XXL"
     },
     {
       "product": "Milchschnitte/Pingui 7/6er-Pack",
@@ -2429,7 +2429,7 @@
       "page": 14,
       "category": "sweets_snacks",
       "product_en": "Milk slice/Pingui 7/6-pack",
-      "product_cn": "牛奶酥/Pingui 7/6入裝"
+      "product_zh_tw": "牛奶酥/Pingui 7/6入裝"
     },
     {
       "product": "Joghurt",
@@ -2447,7 +2447,7 @@
       "page": 14,
       "category": "dairy",
       "product_en": "Yogurt",
-      "product_cn": "優格"
+      "product_zh_tw": "優格"
     },
     {
       "product": "Philadelphia",
@@ -2465,7 +2465,7 @@
       "page": 14,
       "category": "dairy",
       "product_en": "Philadelphia",
-      "product_cn": "Philadelphia"
+      "product_zh_tw": "Philadelphia"
     },
     {
       "product": "Mini-Kuchen",
@@ -2483,7 +2483,7 @@
       "page": 14,
       "category": "sweets_snacks",
       "product_en": "Mini Cake",
-      "product_cn": "迷你蛋糕"
+      "product_zh_tw": "迷你蛋糕"
     },
     {
       "product": "Konfitüre/Gelee",
@@ -2501,7 +2501,7 @@
       "page": 14,
       "category": "pantry",
       "product_en": "Jam/Jelly",
-      "product_cn": "果醬/果凍"
+      "product_zh_tw": "果醬/果凍"
     },
     {
       "product": "iO Kids Aufsteckbürsten",
@@ -2519,7 +2519,7 @@
       "page": 14,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "iO Aufsteckbürsten",
@@ -2537,7 +2537,7 @@
       "page": 14,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Zahncreme",
@@ -2555,7 +2555,7 @@
       "page": 14,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Reise nach Lappland (Gewinnspiel-Preis)",
@@ -2573,7 +2573,7 @@
       "page": 15,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Therme Erding Übernachtung (Gewinnspiel-Preis)",
@@ -2591,7 +2591,7 @@
       "page": 15,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Kleiner Weihnachtsmann",
@@ -2609,7 +2609,7 @@
       "page": 16,
       "category": "sweets_snacks",
       "product_en": "Small Santa Claus",
-      "product_cn": "小聖誕老人"
+      "product_zh_tw": "小聖誕老人"
     },
     {
       "product": "Weihnachtsmann",
@@ -2627,7 +2627,7 @@
       "page": 16,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Weihnachtsmann",
@@ -2645,7 +2645,7 @@
       "page": 16,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Weihnachtsmann",
@@ -2663,7 +2663,7 @@
       "page": 16,
       "category": "sweets_snacks",
       "product_en": "Santa Claus",
-      "product_cn": "聖誕老人"
+      "product_zh_tw": "聖誕老人"
     },
     {
       "product": "Gefüllte Pralinen Vollmilch",
@@ -2681,7 +2681,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Filled Pralines Whole Milk",
-      "product_cn": "填餡夾心巧克力 全脂牛奶"
+      "product_zh_tw": "填餡夾心巧克力 全脂牛奶"
     },
     {
       "product": "Mini-Figuren Vollmilch",
@@ -2699,7 +2699,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Mini Figures Whole Milk",
-      "product_cn": "迷你造型 全脂牛奶巧克力"
+      "product_zh_tw": "迷你造型 全脂牛奶巧克力"
     },
     {
       "product": "Weihnachtsmix",
@@ -2717,7 +2717,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Christmas Mix",
-      "product_cn": "聖誕綜合"
+      "product_zh_tw": "聖誕綜合"
     },
     {
       "product": "Weihnachtsfiguren",
@@ -2735,7 +2735,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Christmas Figures",
-      "product_cn": "聖誕造型"
+      "product_zh_tw": "聖誕造型"
     },
     {
       "product": "Weihnachtsfiguren",
@@ -2753,7 +2753,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Christmas Figures",
-      "product_cn": "聖誕造型"
+      "product_zh_tw": "聖誕造型"
     },
     {
       "product": "Schoko Lolly",
@@ -2771,7 +2771,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Chocolate Lolly",
-      "product_cn": "巧克力棒棒糖"
+      "product_zh_tw": "巧克力棒棒糖"
     },
     {
       "product": "Betthupferl",
@@ -2789,7 +2789,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Betthupferl",
-      "product_cn": "Betthupferl"
+      "product_zh_tw": "Betthupferl"
     },
     {
       "product": "Feingefüllte Kugeln",
@@ -2807,7 +2807,7 @@
       "page": 17,
       "category": "sweets_snacks",
       "product_en": "Finely Filled Balls",
-      "product_cn": "細緻夾心球"
+      "product_zh_tw": "細緻夾心球"
     },
     {
       "product": "Lübecker Edelmarzipan Herzen Sterne",
@@ -2825,7 +2825,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Lübecker Fine Marzipan Hearts Stars",
-      "product_cn": "Lübecker 精選杏仁膏 愛心 星星"
+      "product_zh_tw": "Lübecker 精選杏仁膏 愛心 星星"
     },
     {
       "product": "Edel Marzipan",
@@ -2843,7 +2843,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Fine Marzipan",
-      "product_cn": "精選杏仁膏"
+      "product_zh_tw": "精選杏仁膏"
     },
     {
       "product": "Edelnougat Schneemänner/ Lübecker Edelmarzipan Weihnachtsmänner",
@@ -2861,7 +2861,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Fine Nougat Snowmen/ Lübecker Fine Marzipan Santas",
-      "product_cn": "精選牛軋糖 雪人/ Lübecker 精選杏仁膏 聖誕老人"
+      "product_zh_tw": "精選牛軋糖 雪人/ Lübecker 精選杏仁膏 聖誕老人"
     },
     {
       "product": "Edelnougat-Baumstamm",
@@ -2879,7 +2879,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Fine Nougat Tree Trunk",
-      "product_cn": "精選牛軋糖 樹幹"
+      "product_zh_tw": "精選牛軋糖 樹幹"
     },
     {
       "product": "Mini-Marzipanbrote",
@@ -2897,7 +2897,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Mini Marzipan Loaves",
-      "product_cn": "迷你杏仁膏麵包"
+      "product_zh_tw": "迷你杏仁膏麵包"
     },
     {
       "product": "Mini Stollen",
@@ -2915,7 +2915,7 @@
       "page": 18,
       "category": "bread",
       "product_en": "Mini Stollen",
-      "product_cn": "迷你史多倫"
+      "product_zh_tw": "迷你史多倫"
     },
     {
       "product": "Edelmarzipan Stollen",
@@ -2933,7 +2933,7 @@
       "page": 18,
       "category": "bread",
       "product_en": "Fine Marzipan Stollen",
-      "product_cn": "精選杏仁膏史多倫"
+      "product_zh_tw": "精選杏仁膏史多倫"
     },
     {
       "product": "Gebäckteller Allerlei",
@@ -2951,7 +2951,7 @@
       "page": 18,
       "category": "sweets_snacks",
       "product_en": "Assorted Pastry Plate",
-      "product_cn": "什錦點心拼盤"
+      "product_zh_tw": "什錦點心拼盤"
     },
     {
       "product": "Mini Spekulatius",
@@ -2969,7 +2969,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Mini Spekulatius",
-      "product_cn": "迷你 Spekulatius"
+      "product_zh_tw": "迷你 Spekulatius"
     },
     {
       "product": "Mandel Spekulatius",
@@ -2987,7 +2987,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Almond Spekulatius",
-      "product_cn": "杏仁 Spekulatius"
+      "product_zh_tw": "杏仁 Spekulatius"
     },
     {
       "product": "Baumkuchen",
@@ -3005,7 +3005,7 @@
       "page": 19,
       "category": "bread",
       "product_en": "Baumkuchen",
-      "product_cn": "年輪蛋糕"
+      "product_zh_tw": "年輪蛋糕"
     },
     {
       "product": "Mini Lebkuchen-Männchen",
@@ -3023,7 +3023,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Mini Gingerbread Men",
-      "product_cn": "迷你薑餅人"
+      "product_zh_tw": "迷你薑餅人"
     },
     {
       "product": "Bio Elisen-/Oblaten-Lebkuchen",
@@ -3041,7 +3041,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Organic Elisen/Oblaten Gingerbread",
-      "product_cn": "有機 Elisen/威化 薑餅"
+      "product_zh_tw": "有機 Elisen/威化 薑餅"
     },
     {
       "product": "Gefüllte Lebkuchen Herzen",
@@ -3059,7 +3059,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Filled Gingerbread Hearts",
-      "product_cn": "填餡薑餅愛心"
+      "product_zh_tw": "填餡薑餅愛心"
     },
     {
       "product": "Runde braune Lebkuchen",
@@ -3077,7 +3077,7 @@
       "page": 19,
       "category": "sweets_snacks",
       "product_en": "Round Brown Gingerbread",
-      "product_cn": "圓形棕色薑餅"
+      "product_zh_tw": "圓形棕色薑餅"
     },
     {
       "product": "Prosciutto di Parma D.O.P.",
@@ -3095,7 +3095,7 @@
       "page": 20,
       "category": "meat",
       "product_en": "Prosciutto di Parma D.O.P.",
-      "product_cn": "Prosciutto di Parma D.O.P."
+      "product_zh_tw": "Prosciutto di Parma D.O.P."
     },
     {
       "product": "Italienische Wurstspezialität",
@@ -3113,7 +3113,7 @@
       "page": 20,
       "category": "meat",
       "product_en": "Italian Sausage Specialty",
-      "product_cn": "義大利香腸特產"
+      "product_zh_tw": "義大利香腸特產"
     },
     {
       "product": "Bresaola della Valtellina g.g.A.",
@@ -3131,7 +3131,7 @@
       "page": 20,
       "category": "meat",
       "product_en": "Bresaola della Valtellina g.g.A.",
-      "product_cn": "Bresaola della Valtellina g.g.A."
+      "product_zh_tw": "Bresaola della Valtellina g.g.A."
     },
     {
       "product": "Parmaschinken DOP",
@@ -3149,7 +3149,7 @@
       "page": 20,
       "category": "meat",
       "product_en": "Parma Ham DOP",
-      "product_cn": "帕瑪火腿 DOP"
+      "product_zh_tw": "帕瑪火腿 DOP"
     },
     {
       "product": "Jamón Serrano Reserva",
@@ -3167,7 +3167,7 @@
       "page": 21,
       "category": "meat",
       "product_en": "Jamón Serrano Reserva",
-      "product_cn": "Jamón Serrano Reserva"
+      "product_zh_tw": "Jamón Serrano Reserva"
     },
     {
       "product": "Jamón Serrano Gran Reserva",
@@ -3185,7 +3185,7 @@
       "page": 21,
       "category": "meat",
       "product_en": "Jamón Serrano Gran Reserva",
-      "product_cn": "Jamón Serrano Gran Reserva"
+      "product_zh_tw": "Jamón Serrano Gran Reserva"
     },
     {
       "product": "Länder-Käseselektion",
@@ -3203,7 +3203,7 @@
       "page": 21,
       "category": "dairy",
       "product_en": "Country Cheese Selection",
-      "product_cn": "各國起司精選"
+      "product_zh_tw": "各國起司精選"
     },
     {
       "product": "Roquefort AOP",
@@ -3221,7 +3221,7 @@
       "page": 21,
       "category": "dairy",
       "product_en": "Roquefort AOP",
-      "product_cn": "Roquefort AOP"
+      "product_zh_tw": "Roquefort AOP"
     },
     {
       "product": "Pecorino Romano DOP",
@@ -3239,7 +3239,7 @@
       "page": 21,
       "category": "dairy",
       "product_en": "Pecorino Romano DOP",
-      "product_cn": "Pecorino Romano DOP"
+      "product_zh_tw": "Pecorino Romano DOP"
     },
     {
       "product": "Griechisches Natives Olivenöl Extra Chania Kritis g.g.A.",
@@ -3257,7 +3257,7 @@
       "page": 21,
       "category": "pantry",
       "product_en": "Greek Native Olive Oil Extra Chania Kritis g.g.A.",
-      "product_cn": "希臘初榨橄欖油 Extra Chania Kritis g.g.A."
+      "product_zh_tw": "希臘初榨橄欖油 Extra Chania Kritis g.g.A."
     },
     {
       "product": "Steirisches Kürbiskernöl g.g.A.",
@@ -3275,7 +3275,7 @@
       "page": 21,
       "category": "pantry",
       "product_en": "Styrian pumpkin seed oil g.g.A.",
-      "product_cn": "施蒂利亞南瓜籽油 g.g.A."
+      "product_zh_tw": "施蒂利亞南瓜籽油 g.g.A."
     },
     {
       "product": "Österreichische Käseplatte",
@@ -3293,7 +3293,7 @@
       "page": 22,
       "category": "dairy",
       "product_en": "Austrian cheese platter",
-      "product_cn": "奧地利起司拼盤"
+      "product_zh_tw": "奧地利起司拼盤"
     },
     {
       "product": "Salami-Trio",
@@ -3311,7 +3311,7 @@
       "page": 22,
       "category": "meat",
       "product_en": "Salami trio",
-      "product_cn": "薩拉米三件組"
+      "product_zh_tw": "薩拉米三件組"
     },
     {
       "product": "Wild Aufschnitt",
@@ -3329,7 +3329,7 @@
       "page": 22,
       "category": "meat",
       "product_en": "Wild cold cuts",
-      "product_cn": "野味切片肉"
+      "product_zh_tw": "野味切片肉"
     },
     {
       "product": "Salami",
@@ -3347,7 +3347,7 @@
       "page": 22,
       "category": "meat",
       "product_en": "Salami",
-      "product_cn": "薩拉米"
+      "product_zh_tw": "薩拉米"
     },
     {
       "product": "Leberpastete",
@@ -3365,7 +3365,7 @@
       "page": 22,
       "category": "meat",
       "product_en": "Liver pâté",
-      "product_cn": "肝醬"
+      "product_zh_tw": "肝醬"
     },
     {
       "product": "Chilischoten",
@@ -3383,7 +3383,7 @@
       "page": 22,
       "category": "pantry",
       "product_en": "Chili peppers",
-      "product_cn": "辣椒"
+      "product_zh_tw": "辣椒"
     },
     {
       "product": "Würzöl",
@@ -3401,7 +3401,7 @@
       "page": 22,
       "category": "pantry",
       "product_en": "Seasoning oil",
-      "product_cn": "調味油"
+      "product_zh_tw": "調味油"
     },
     {
       "product": "Flammlachs",
@@ -3419,7 +3419,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "Flame salmon",
-      "product_cn": "火焰鮭魚"
+      "product_zh_tw": "火焰鮭魚"
     },
     {
       "product": "Lachs in Blätterteig",
@@ -3437,7 +3437,7 @@
       "page": 23,
       "category": "instant_food",
       "product_en": "Salmon in puff pastry",
-      "product_cn": "酥皮鮭魚"
+      "product_zh_tw": "酥皮鮭魚"
     },
     {
       "product": "Octopusarme",
@@ -3455,7 +3455,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "Octopus arms",
-      "product_cn": "章魚腳"
+      "product_zh_tw": "章魚腳"
     },
     {
       "product": "MSC Wildlachsfilet",
@@ -3473,7 +3473,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "MSC wild salmon fillet",
-      "product_cn": "MSC 野生鮭魚片"
+      "product_zh_tw": "MSC 野生鮭魚片"
     },
     {
       "product": "Schottischer Räucherlachs",
@@ -3491,7 +3491,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "Scottish smoked salmon",
-      "product_cn": "蘇格蘭煙燻鮭魚"
+      "product_zh_tw": "蘇格蘭煙燻鮭魚"
     },
     {
       "product": "MSC Garnelen",
@@ -3509,7 +3509,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "MSC prawns",
-      "product_cn": "MSC 蝦"
+      "product_zh_tw": "MSC 蝦"
     },
     {
       "product": "ASC White Tiger Garnelenring",
@@ -3527,7 +3527,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "ASC White Tiger shrimp ring",
-      "product_cn": "ASC White Tiger 蝦環"
+      "product_zh_tw": "ASC White Tiger 蝦環"
     },
     {
       "product": "Argentinische Rotgarnelen",
@@ -3545,7 +3545,7 @@
       "page": 23,
       "category": "seafood",
       "product_en": "Argentinian red shrimp",
-      "product_cn": "阿根廷紅蝦"
+      "product_zh_tw": "阿根廷紅蝦"
     },
     {
       "product": "Wildschweinkeule",
@@ -3563,7 +3563,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Wild boar leg",
-      "product_cn": "野豬腿"
+      "product_zh_tw": "野豬腿"
     },
     {
       "product": "Stangenspargel",
@@ -3581,7 +3581,7 @@
       "page": 24,
       "category": "vegetables",
       "product_en": "Asparagus spears",
-      "product_cn": "蘆筍"
+      "product_zh_tw": "蘆筍"
     },
     {
       "product": "Gänsebrustfilet",
@@ -3599,7 +3599,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Goose breast fillet",
-      "product_cn": "鵝胸肉排"
+      "product_zh_tw": "鵝胸肉排"
     },
     {
       "product": "Knusperente",
@@ -3617,7 +3617,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Crispy duck",
-      "product_cn": "酥脆鴨"
+      "product_zh_tw": "酥脆鴨"
     },
     {
       "product": "Barbarie Entenbrustfilet",
@@ -3635,7 +3635,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Barbarie duck breast fillet",
-      "product_cn": "Barbarie 鴨胸肉排"
+      "product_zh_tw": "Barbarie 鴨胸肉排"
     },
     {
       "product": "Hirschbraten",
@@ -3653,7 +3653,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Venison roast",
-      "product_cn": "鹿肉烤肉"
+      "product_zh_tw": "鹿肉烤肉"
     },
     {
       "product": "Merino-Lammlachse",
@@ -3671,7 +3671,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Merino lamb loin",
-      "product_cn": "Merino 羊背肉"
+      "product_zh_tw": "Merino 羊背肉"
     },
     {
       "product": "Frische Kalbsleber",
@@ -3689,7 +3689,7 @@
       "page": 24,
       "category": "meat",
       "product_en": "Fresh calf's liver",
-      "product_cn": "新鮮小牛肝"
+      "product_zh_tw": "新鮮小牛肝"
     },
     {
       "product": "Dessert",
@@ -3707,7 +3707,7 @@
       "page": 25,
       "category": "dairy",
       "product_en": "Dessert",
-      "product_cn": "甜點"
+      "product_zh_tw": "甜點"
     },
     {
       "product": "Tiramisu Torte",
@@ -3725,7 +3725,7 @@
       "page": 25,
       "category": "sweets_snacks",
       "product_en": "Tiramisu cake",
-      "product_cn": "提拉米蘇蛋糕"
+      "product_zh_tw": "提拉米蘇蛋糕"
     },
     {
       "product": "Macarons in Geschenkbox",
@@ -3743,7 +3743,7 @@
       "page": 25,
       "category": "sweets_snacks",
       "product_en": "Macarons in gift box",
-      "product_cn": "馬卡龍禮盒"
+      "product_zh_tw": "馬卡龍禮盒"
     },
     {
       "product": "Macadamia",
@@ -3761,7 +3761,7 @@
       "page": 25,
       "category": "sweets_snacks",
       "product_en": "Macadamia",
-      "product_cn": "夏威夷堅果"
+      "product_zh_tw": "夏威夷堅果"
     },
     {
       "product": "Amarone della Valpolicella DOCG, Rotwein, halbtrocken",
@@ -3779,7 +3779,7 @@
       "page": 25,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Cantuccini",
@@ -3797,7 +3797,7 @@
       "page": 25,
       "category": "sweets_snacks",
       "product_en": "Cantuccini",
-      "product_cn": "義式脆餅"
+      "product_zh_tw": "義式脆餅"
     },
     {
       "product": "Akazienhonig",
@@ -3815,7 +3815,7 @@
       "page": 25,
       "category": "pantry",
       "product_en": "Acacia honey",
-      "product_cn": "金合歡蜂蜜"
+      "product_zh_tw": "金合歡蜂蜜"
     },
     {
       "product": "Glenalba Blended Scotch Whisky Sherry Cask Finish",
@@ -3833,7 +3833,7 @@
       "page": 25,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Cannoli",
@@ -3851,7 +3851,7 @@
       "page": 25,
       "category": "bread",
       "product_en": "Cannoli",
-      "product_cn": "卡諾利"
+      "product_zh_tw": "卡諾利"
     },
     {
       "product": "Kalanchoe im Rentier",
@@ -3869,7 +3869,7 @@
       "page": 26,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Sisal-Rentier",
@@ -3887,7 +3887,7 @@
       "page": 26,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Christrose",
@@ -3905,7 +3905,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Amaryllis in Keramik",
@@ -3923,7 +3923,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Amaryllis im Weihnachtsglas",
@@ -3941,7 +3941,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Konifere in Keramik",
@@ -3959,7 +3959,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Trockenblumenstrauß Advent",
@@ -3977,7 +3977,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Gemischter Blumenstrauß",
@@ -3995,7 +3995,7 @@
       "page": 27,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Bayern Bad Füssing",
@@ -4013,7 +4013,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Mallorca Wanderreise",
@@ -4031,7 +4031,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Italien Gardasee",
@@ -4049,7 +4049,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Ägypten Nilkreuzfahrt & Baden",
@@ -4067,7 +4067,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Spanien Mallorca",
@@ -4085,7 +4085,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Marokkos Königsstädte Rundreise & Baden",
@@ -4103,7 +4103,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Schottland Rundreise",
@@ -4121,7 +4121,7 @@
       "page": 28,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Polnische Ostsee Kolberg",
@@ -4139,7 +4139,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Norwegen Kreuzfahrt",
@@ -4157,7 +4157,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Korfu Standort-Rundreise",
@@ -4175,7 +4175,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Westliches Mittelmeer Kreuzfahrt & Baden",
@@ -4193,7 +4193,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Movie Park's Hollywood Christmas mit Lidl Plus",
@@ -4211,7 +4211,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "experimenta - Das Science Center in Heilbronn",
@@ -4229,7 +4229,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Hongkong, Indonesien & Bali Rundreise & Baden",
@@ -4247,7 +4247,7 @@
       "page": 29,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Orangen",
@@ -4265,7 +4265,7 @@
       "page": 30,
       "category": "fruits",
       "product_en": "Oranges",
-      "product_cn": "柳橙"
+      "product_zh_tw": "柳橙"
     },
     {
       "product": "Zitronen",
@@ -4283,7 +4283,7 @@
       "page": 30,
       "category": "fruits",
       "product_en": "Lemons",
-      "product_cn": "檸檬"
+      "product_zh_tw": "檸檬"
     },
     {
       "product": "XXL-Basilikum im Topf",
@@ -4301,7 +4301,7 @@
       "page": 30,
       "category": "vegetables",
       "product_en": "XXL-Basil in pot",
-      "product_cn": "XXL-羅勒 盆栽"
+      "product_zh_tw": "XXL-羅勒 盆栽"
     },
     {
       "product": "Romatomaten",
@@ -4319,7 +4319,7 @@
       "page": 30,
       "category": "vegetables",
       "product_en": "Roma tomatoes",
-      "product_cn": "羅馬番茄"
+      "product_zh_tw": "羅馬番茄"
     },
     {
       "product": "US T-Bone-Steak",
@@ -4337,7 +4337,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "US T-Bone steak",
-      "product_cn": "US T骨牛排"
+      "product_zh_tw": "US T骨牛排"
     },
     {
       "product": "Doradenfilets",
@@ -4355,7 +4355,7 @@
       "page": 31,
       "category": "seafood",
       "product_en": "Dorada fillets",
-      "product_cn": "Dorada魚片"
+      "product_zh_tw": "Dorada魚片"
     },
     {
       "product": "Frisches Gulasch, gemischt",
@@ -4373,7 +4373,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Fresh goulash, mixed",
-      "product_cn": "新鮮燉肉，混合"
+      "product_zh_tw": "新鮮燉肉，混合"
     },
     {
       "product": "Frische Schweineschnitzel",
@@ -4391,7 +4391,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Fresh pork schnitzel",
-      "product_cn": "新鮮豬肉排"
+      "product_zh_tw": "新鮮豬肉排"
     },
     {
       "product": "Frische Schweine-Filetmedaillons",
@@ -4409,7 +4409,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Fresh pork fillet medallions",
-      "product_cn": "新鮮豬里脊肉排"
+      "product_zh_tw": "新鮮豬里脊肉排"
     },
     {
       "product": "Hähnchen-Hacksteaks",
@@ -4427,7 +4427,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Chicken mince steaks",
-      "product_cn": "雞肉漢堡排"
+      "product_zh_tw": "雞肉漢堡排"
     },
     {
       "product": "Frische Schweine-Rückensteaks",
@@ -4445,7 +4445,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Fresh pork back steaks",
-      "product_cn": "新鮮豬背排"
+      "product_zh_tw": "新鮮豬背排"
     },
     {
       "product": "Putengeschnetzeltes Gyros",
@@ -4463,7 +4463,7 @@
       "page": 31,
       "category": "meat",
       "product_en": "Turkey strips Gyros",
-      "product_cn": "火雞切片 Gyros"
+      "product_zh_tw": "火雞切片 Gyros"
     },
     {
       "product": "Müllermilch/Shake",
@@ -4481,7 +4481,7 @@
       "page": 32,
       "category": "dairy",
       "product_en": "Müllermilch/Shake",
-      "product_cn": "Müllermilch/奶昔"
+      "product_zh_tw": "Müllermilch/奶昔"
     },
     {
       "product": "Essig-Essenz",
@@ -4499,7 +4499,7 @@
       "page": 32,
       "category": "pantry",
       "product_en": "Vinegar essence",
-      "product_cn": "醋精"
+      "product_zh_tw": "醋精"
     },
     {
       "product": "Trinkgenuss/Selection",
@@ -4517,7 +4517,7 @@
       "page": 32,
       "category": "drinks",
       "product_en": "Trinkgenuss/Selection",
-      "product_cn": "Trinkgenuss/Selection"
+      "product_zh_tw": "Trinkgenuss/Selection"
     },
     {
       "product": "Streichzart",
@@ -4535,7 +4535,7 @@
       "page": 32,
       "category": "dairy",
       "product_en": "Streichzart",
-      "product_cn": "Streichzart"
+      "product_zh_tw": "Streichzart"
     },
     {
       "product": "Collezione",
@@ -4553,7 +4553,7 @@
       "page": 32,
       "category": "pantry",
       "product_en": "Collezione",
-      "product_cn": "Collezione"
+      "product_zh_tw": "Collezione"
     },
     {
       "product": "Choco Crossies/Choclait Chips",
@@ -4571,7 +4571,7 @@
       "page": 32,
       "category": "sweets_snacks",
       "product_en": "Choco Crossies/Choclait Chips",
-      "product_cn": "Choco Crossies/Choclait Chips"
+      "product_zh_tw": "Choco Crossies/Choclait Chips"
     },
     {
       "product": "Golden Longs",
@@ -4589,7 +4589,7 @@
       "page": 33,
       "category": "instant_food",
       "product_en": "Golden Longs",
-      "product_cn": "Golden Longs"
+      "product_zh_tw": "Golden Longs"
     },
     {
       "product": "Fischstäbchen/Knusper-Fisch/Backfischstäbchen",
@@ -4607,7 +4607,7 @@
       "page": 33,
       "category": "instant_food",
       "product_en": "Fish sticks/Crispy fish/Battered fish sticks",
-      "product_cn": "魚條/酥炸魚/炸魚條"
+      "product_zh_tw": "魚條/酥炸魚/炸魚條"
     },
     {
       "product": "Knusperstück",
@@ -4625,7 +4625,7 @@
       "page": 33,
       "category": "sweets_snacks",
       "product_en": "Crunchy piece",
-      "product_cn": "酥脆塊"
+      "product_zh_tw": "酥脆塊"
     },
     {
       "product": "Weichkäse",
@@ -4643,7 +4643,7 @@
       "page": 33,
       "category": "dairy",
       "product_en": "Soft cheese",
-      "product_cn": "軟質起司"
+      "product_zh_tw": "軟質起司"
     },
     {
       "product": "Brotaufstrich",
@@ -4661,7 +4661,7 @@
       "page": 33,
       "category": "pantry",
       "product_en": "Bread spread",
-      "product_cn": "麵包抹醬"
+      "product_zh_tw": "麵包抹醬"
     },
     {
       "product": "Schokolade",
@@ -4679,7 +4679,7 @@
       "page": 33,
       "category": "sweets_snacks",
       "product_en": "Chocolate",
-      "product_cn": "巧克力"
+      "product_zh_tw": "巧克力"
     },
     {
       "product": "Reis Express",
@@ -4697,7 +4697,7 @@
       "page": 33,
       "category": "pantry",
       "product_en": "Rice Express",
-      "product_cn": "Express 米"
+      "product_zh_tw": "Express 米"
     },
     {
       "product": "Saucen",
@@ -4715,7 +4715,7 @@
       "page": 33,
       "category": "pantry",
       "product_en": "Sauces",
-      "product_cn": "醬汁"
+      "product_zh_tw": "醬汁"
     },
     {
       "product": "Kaustreifen XXL",
@@ -4733,7 +4733,7 @@
       "page": 33,
       "category": "pet_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Thunfisch Filets in eigenem Saft",
@@ -4751,7 +4751,7 @@
       "page": 33,
       "category": "seafood",
       "product_en": "Tuna Filets in own juice",
-      "product_cn": "鮪魚排 於自身的汁液中"
+      "product_zh_tw": "鮪魚排 於自身的汁液中"
     },
     {
       "product": "Reines Rapsöl",
@@ -4769,7 +4769,7 @@
       "page": 33,
       "category": "pantry",
       "product_en": "Pure Rapeseed Oil",
-      "product_cn": "純菜籽油"
+      "product_zh_tw": "純菜籽油"
     },
     {
       "product": "Eiscreme",
@@ -4787,7 +4787,7 @@
       "page": 34,
       "category": "sweets_snacks",
       "product_en": "Ice Cream",
-      "product_cn": "冰淇淋"
+      "product_zh_tw": "冰淇淋"
     },
     {
       "product": "Brotaufstrich",
@@ -4805,7 +4805,7 @@
       "page": 34,
       "category": "pantry",
       "product_en": "Bread Spread",
-      "product_cn": "麵包抹醬"
+      "product_zh_tw": "麵包抹醬"
     },
     {
       "product": "Maultaschen",
@@ -4823,7 +4823,7 @@
       "page": 34,
       "category": "instant_food",
       "product_en": "Maultaschen",
-      "product_cn": "Maultaschen"
+      "product_zh_tw": "Maultaschen"
     },
     {
       "product": "Sahneheringsfilets",
@@ -4841,7 +4841,7 @@
       "page": 34,
       "category": "seafood",
       "product_en": "Cream Herring Filets",
-      "product_cn": "奶油鯡魚排"
+      "product_zh_tw": "奶油鯡魚排"
     },
     {
       "product": "Monte Snack",
@@ -4859,7 +4859,7 @@
       "page": 34,
       "category": "dairy",
       "product_en": "Monte Snack",
-      "product_cn": "Monte 點心"
+      "product_zh_tw": "Monte 點心"
     },
     {
       "product": "Körniger Frischkäse XXL",
@@ -4877,7 +4877,7 @@
       "page": 34,
       "category": "dairy",
       "product_en": "Grainy Fresh Cheese XXL",
-      "product_cn": "顆粒新鮮起司 XXL"
+      "product_zh_tw": "顆粒新鮮起司 XXL"
     },
     {
       "product": "Frischkäse Portionen",
@@ -4895,7 +4895,7 @@
       "page": 34,
       "category": "dairy",
       "product_en": "Fresh Cheese Portions",
-      "product_cn": "新鮮起司 分裝"
+      "product_zh_tw": "新鮮起司 分裝"
     },
     {
       "product": "Goldfischli",
@@ -4913,7 +4913,7 @@
       "page": 34,
       "category": "sweets_snacks",
       "product_en": "Goldfischli",
-      "product_cn": "Goldfischli"
+      "product_zh_tw": "Goldfischli"
     },
     {
       "product": "Chocolaterie",
@@ -4931,7 +4931,7 @@
       "page": 34,
       "category": "sweets_snacks",
       "product_en": "Chocolaterie",
-      "product_cn": "Chocolaterie"
+      "product_zh_tw": "Chocolaterie"
     },
     {
       "product": "Family Cappuccino",
@@ -4949,7 +4949,7 @@
       "page": 34,
       "category": "drinks",
       "product_en": "Family Cappuccino",
-      "product_cn": "Family 卡布奇諾"
+      "product_zh_tw": "Family 卡布奇諾"
     },
     {
       "product": "Baby-Dry/Pants Premium/Protection",
@@ -4967,7 +4967,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Feuchttücher",
@@ -4985,7 +4985,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Renew Waschmittel",
@@ -5003,7 +5003,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Unstoppables Wäscheparfüm",
@@ -5021,7 +5021,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Reiniger",
@@ -5039,7 +5039,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Desinfektion Wäsche-Hygienespüler Himmelsfrische",
@@ -5057,7 +5057,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Wohlfühl-Duftkerze",
@@ -5075,7 +5075,7 @@
       "page": 35,
       "category": "non_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Portionsbeutel",
@@ -5093,7 +5093,7 @@
       "page": 35,
       "category": "pet_food",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Glühweine",
@@ -5111,7 +5111,7 @@
       "page": 36,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Hähnchen-Rouladen",
@@ -5129,7 +5129,7 @@
       "page": 36,
       "category": "meat",
       "product_en": "Chicken Rouladen",
-      "product_cn": "雞肉 Rouladen"
+      "product_zh_tw": "雞肉 Rouladen"
     },
     {
       "product": "Home Barista",
@@ -5147,7 +5147,7 @@
       "page": 36,
       "category": "drinks",
       "product_en": "Home Barista",
-      "product_cn": "Home Barista"
+      "product_zh_tw": "Home Barista"
     },
     {
       "product": "Erdnüsse XXL",
@@ -5165,7 +5165,7 @@
       "page": 36,
       "category": "sweets_snacks",
       "product_en": "Peanuts XXL",
-      "product_cn": "花生 XXL"
+      "product_zh_tw": "花生 XXL"
     },
     {
       "product": "Irish Whiskey D.E.W.",
@@ -5183,7 +5183,7 @@
       "page": 36,
       "category": "alcohol",
       "product_en": null,
-      "product_cn": null
+      "product_zh_tw": null
     },
     {
       "product": "Grand Dessert",
@@ -5201,7 +5201,7 @@
       "page": 36,
       "category": "dairy",
       "product_en": "Grand Dessert",
-      "product_cn": "Grand 甜點"
+      "product_zh_tw": "Grand 甜點"
     }
   ]
 }

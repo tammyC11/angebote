@@ -10,6 +10,7 @@
     "get-edeka-offers": "node scripts/get-edeka-offers.mjs",
     "get-aldi-offers": "node scripts/get-aldi-offers.mjs",
     "translate-products": "node scripts/translate-products.mjs",
+    "build-catalog": "node build-catalog.mjs",
     "test": "node --test"
   },
   "dependencies": {
