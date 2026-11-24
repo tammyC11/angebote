@@ -1,0 +1,970 @@
+{
+ "promotion-tree": {
+  "data": {
+   "promotions": [
+    {
+     "key": "2026-11-19",
+     "title": "Ab Donnerstag, 19. November",
+     "onSaleDateFrom": "2026-11-19",
+     "themes": [
+      {
+       "key": "Garten & Pflanzen",
+       "title": "Garten & Pflanzen",
+       "urlSlugText": "garten-pflanzen",
+       "urlSlugTextAlternatives": {
+        "de-DE": "garten-pflanzen"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-20",
+     "title": "Ab Freitag, 20. November",
+     "onSaleDateFrom": "2026-11-20",
+     "themes": [
+      {
+       "key": "Aktionen & Angebote",
+       "title": "Aktionen & Angebote",
+       "urlSlugText": "aktionen-angebote",
+       "urlSlugTextAlternatives": {
+        "de-DE": "aktionen-angebote"
+       }
+      },
+      {
+       "key": "Markenartikel",
+       "title": "Markenartikel",
+       "urlSlugText": "markenartikel",
+       "urlSlugTextAlternatives": {
+        "de-DE": "markenartikel"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-21",
+     "title": "Ab Samstag, 21. November",
+     "onSaleDateFrom": "2026-11-21",
+     "themes": [
+      {
+       "key": "Weihnachten & Advent",
+       "title": "Weihnachten & Advent",
+       "urlSlugText": "weihnachten-advent",
+       "urlSlugTextAlternatives": {
+        "de-DE": "weihnachten-advent"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-23",
+     "title": "Ab Montag, 23. November",
+     "onSaleDateFrom": "2026-11-23",
+     "themes": [
+      {
+       "key": "Aktionen & Angebote",
+       "title": "Aktionen & Angebote",
+       "urlSlugText": "aktionen-angebote",
+       "urlSlugTextAlternatives": {
+        "de-DE": "aktionen-angebote"
+       }
+      },
+      {
+       "key": "Bekleidung",
+       "title": "Bekleidung",
+       "urlSlugText": "bekleidung",
+       "urlSlugTextAlternatives": {
+        "de-DE": "bekleidung"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-26",
+     "title": "Ab Donnerstag, 26. November",
+     "onSaleDateFrom": "2026-11-26",
+     "themes": [
+      {
+       "key": "Bekleidung",
+       "title": "Bekleidung",
+       "urlSlugText": "bekleidung",
+       "urlSlugTextAlternatives": {
+        "de-DE": "bekleidung"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-27",
+     "title": "Ab Freitag, 27. November",
+     "onSaleDateFrom": "2026-11-27",
+     "themes": [
+      {
+       "key": "Aktionen & Angebote",
+       "title": "Aktionen & Angebote",
+       "urlSlugText": "aktionen-angebote",
+       "urlSlugTextAlternatives": {
+        "de-DE": "aktionen-angebote"
+       }
+      },
+      {
+       "key": "Frischekracher",
+       "title": "Frischekracher",
+       "urlSlugText": "frischekracher",
+       "urlSlugTextAlternatives": {
+        "de-DE": "frischekracher"
+       }
+      }
+     ]
+    },
+    {
+     "key": "2026-11-28",
+     "title": "Ab Samstag, 28. November",
+     "onSaleDateFrom": "2026-11-28",
+     "themes": []
+    },
+    {
+     "key": "2026-11-30",
+     "title": "Ab Montag, 30. November",
+     "onSaleDateFrom": "2026-11-30",
+     "themes": [
+      {
+       "key": "Bekleidung",
+       "title": "Bekleidung",
+       "urlSlugText": "bekleidung",
+       "urlSlugTextAlternatives": {
+        "de-DE": "bekleidung"
+       }
+      },
+      {
+       "key": "Spielzeug",
+       "title": "Spielzeug",
+       "urlSlugText": "spielzeug",
+       "urlSlugTextAlternatives": {
+        "de-DE": "spielzeug"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "products": {
+  "2026-11-23": [
+   {
+    "sku": "000000000745569004",
+    "name": "Poncho-Decke, Damen und Herren, Off White",
+    "brandName": "CRANE",
+    "urlSlugText": "crane-poncho-decke-damen-und-herren-off-white",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": null,
+    "energyClass": null,
+    "onSaleDateDisplay": "Verfügbar ab 23.11.2026",
+    "onSaleDate": "2026-11-23",
+    "isAbstract": false,
+    "abstractSku": "000000000000745569",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": null,
+    "price": {
+     "amount": 999,
+     "amountRelevant": 999,
+     "amountRelevantDisplay": "9,99 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": null,
+     "comparisonDisplay": null,
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161426582153",
+      "name": "Kleidung",
+      "urlSlugText": "kleidung"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/9380a71d-07e8-41d3-b44a-e04b023eb8a9/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Aktion",
+        "color": "red",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "2026-11-27": [
+   {
+    "sku": "000000000000620246",
+    "name": "Duplo Weihnachtsmann 75 g",
+    "brandName": "KINDER",
+    "urlSlugText": "kinder-duplo-weihnachtsmann-75-g",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "75 g",
+    "energyClass": null,
+    "onSaleDateDisplay": "Verfügbar ab 27.11.2026",
+    "onSaleDate": "2026-11-27",
+    "isAbstract": false,
+    "abstractSku": "000000000000620246A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "kg",
+    "price": {
+     "amount": 229,
+     "amountRelevant": 229,
+     "amountRelevantDisplay": "2,29 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 3053,
+     "comparisonDisplay": "30,53 €/1 kg",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467162",
+      "name": "Süßigkeiten & salzige Snacks",
+      "urlSlugText": "suessigkeiten-salzige-snacks"
+     },
+     {
+      "id": "1588161425467171",
+      "name": "Schokolade",
+      "urlSlugText": "suessigkeiten-salzige-snacks/schokolade"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/5268f32f-b7ef-46d1-9112-6364ef6b8402/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Aktion",
+        "color": "red",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "sku": "000000000000182548",
+    "name": "Rum Especial 700 ml",
+    "brandName": "HAVANA CLUB",
+    "urlSlugText": "havana-club-rum-especial-700-ml",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": 18,
+    "alcohol": "40 %",
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "700 ml",
+    "energyClass": null,
+    "onSaleDateDisplay": "Verfügbar ab 27.11.2026",
+    "onSaleDate": "2026-11-27",
+    "isAbstract": false,
+    "abstractSku": "000000000000182548A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "l",
+    "price": {
+     "amount": 1049,
+     "amountRelevant": 1049,
+     "amountRelevantDisplay": "10,49 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 1499,
+     "comparisonDisplay": "14,99 €/1 l",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467197",
+      "name": "Alkoholische Getränke",
+      "urlSlugText": "alkoholische-getraenke"
+     },
+     {
+      "id": "1588161425467199",
+      "name": "Spirituosen",
+      "urlSlugText": "alkoholische-getraenke/spirituosen"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/d5806f0f-9273-4408-aab4-13517d83d10c/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Aktion",
+        "color": "red",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "sku": "000000000203326001",
+    "name": "Naturjoghurt 500 g, 3,5 % Fett",
+    "brandName": "WEIHENSTEPHAN",
+    "urlSlugText": "weihenstephan-naturjoghurt-500-g-3-5-fett",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "500 g",
+    "energyClass": null,
+    "onSaleDateDisplay": "Verfügbar ab 27.11.2026",
+    "onSaleDate": "2026-11-27",
+    "isAbstract": false,
+    "abstractSku": "000000000000203326",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "kg",
+    "price": {
+     "amount": 89,
+     "amountRelevant": 89,
+     "amountRelevantDisplay": "0,89 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 178,
+     "comparisonDisplay": "1,78 €/1 kg",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467093",
+      "name": "Milchprodukte & Eier",
+      "urlSlugText": "milchprodukte-eier"
+     },
+     {
+      "id": "1588161425467097",
+      "name": "Naturjoghurt & Skyr",
+      "urlSlugText": "milchprodukte-eier/naturjoghurt-skyr"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/a2806281-69d0-45c6-b2e0-c0ae82786b01/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Kühlung",
+        "color": "cyan",
+        "mimeType": "text/plain"
+       },
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Aktion",
+        "color": "red",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "wochenangebote": [
+   {
+    "sku": "000000000000211760",
+    "name": "Kabeljau Rückenfilet 250 g",
+    "brandName": "GOLDEN SEAFOOD",
+    "urlSlugText": "golden-seafood-kabeljau-rueckenfilet-250-g",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "250 g",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000211760A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "kg",
+    "price": {
+     "amount": 679,
+     "amountRelevant": 679,
+     "amountRelevantDisplay": "6,79 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 2716,
+     "comparisonDisplay": "27,16 €/1 kg",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": "7,99 €",
+     "additionalInfo": null,
+     "savingsDisplay": "15 %",
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467052",
+      "name": "Fleisch & Fisch",
+      "urlSlugText": "fleisch-fisch"
+     },
+     {
+      "id": "1588161425467055",
+      "name": "Fisch & Meeresfrüchte",
+      "urlSlugText": "fleisch-fisch/fisch-meeresfruechte"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/eae82db4-b7f1-4b53-8d61-703cce06a42a/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Kühlung",
+        "color": "cyan",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "sku": "000000000000211078",
+    "name": "Hähnchenbrustfilet Teilstück 1 kg",
+    "brandName": "MEINE METZGEREI",
+    "urlSlugText": "meine-metzgerei-haehnchenbrustfilet-teilstueck-1-kg",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": null,
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000211078A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": null,
+    "price": {
+     "amount": 819,
+     "amountRelevant": 819,
+     "amountRelevantDisplay": "8,19 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": null,
+     "comparisonDisplay": null,
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": "9,99 €",
+     "additionalInfo": null,
+     "savingsDisplay": "18 %",
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161426582123",
+      "name": "Wochenangebote",
+      "urlSlugText": "wochenangebote"
+     },
+     {
+      "id": "1588161427299187",
+      "name": "Frischeprodukte im Angebot",
+      "urlSlugText": "wochenangebote/frischeprodukte-im-angebot"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/f08fffef-afed-4c9f-9d40-2a92fee7e003/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Kühlung",
+        "color": "cyan",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "sku": "000000000000649385",
+    "name": "Erdbeerkonfitüre 450 g",
+    "brandName": "GRANDESSA",
+    "urlSlugText": "grandessa-erdbeerkonfituere-450-g",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "450 g",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000649385A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "kg",
+    "price": {
+     "amount": 159,
+     "amountRelevant": 159,
+     "amountRelevantDisplay": "1,59 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 353,
+     "comparisonDisplay": "3,53 €/1 kg",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467101",
+      "name": "Backwaren, Aufstriche & Cerealien",
+      "urlSlugText": "backwaren-aufstriche-cerealien"
+     },
+     {
+      "id": "1588161425467112",
+      "name": "Fruchtaufstriche & Marmelade",
+      "urlSlugText": "backwaren-aufstriche-cerealien/fruchtaufstriche-marmelade"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/b3312e53-63fd-4e64-8995-ee96ca52e410/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Vegan",
+        "color": "yellow",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "sku": "000000000000186882",
+    "name": "Backpulver 150 g",
+    "brandName": "BACK FAMILY",
+    "urlSlugText": "back-family-backpulver-150-g",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "150 g",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000186882A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "kg",
+    "price": {
+     "amount": 35,
+     "amountRelevant": 35,
+     "amountRelevantDisplay": "0,35 €",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "0,00 €",
+     "comparison": 233,
+     "comparisonDisplay": "2,33 €/1 kg",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": "0,45 €",
+     "additionalInfo": null,
+     "savingsDisplay": "22 %",
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467155",
+      "name": "Backzutaten, Mehl & Zucker",
+      "urlSlugText": "backzutaten-mehl-zucker"
+     },
+     {
+      "id": "1588161425467158",
+      "name": "Backaromen & Backhelfer",
+      "urlSlugText": "backzutaten-mehl-zucker/backaromen-backhelfer"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/85f13e94-c835-4912-9893-334044d15ce8/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": []
+   },
+   {
+    "sku": "000000000000182451",
+    "name": "Hefe-Weißbier 0,5 l",
+    "brandName": "PAULANER",
+    "urlSlugText": "paulaner-hefe-weissbier-0-5-l",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": 16,
+    "alcohol": "5.5 %",
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "500 ml",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000182451A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "l",
+    "price": {
+     "amount": 89,
+     "amountRelevant": 89,
+     "amountRelevantDisplay": "0,89 €",
+     "bottleDeposit": 25,
+     "bottleDepositDisplay": "0,25 €",
+     "comparison": 178,
+     "comparisonDisplay": "1,78 €/1 l",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": "1,19 €",
+     "additionalInfo": null,
+     "savingsDisplay": "25 %",
+     "bottleDepositType": "EINWEG",
+     "feeText": ""
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467197",
+      "name": "Alkoholische Getränke",
+      "urlSlugText": "alkoholische-getraenke"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/c99ff8b2-9605-42e0-9be5-4904b1e797f6/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": []
+   },
+   {
+    "sku": "000000000720191001",
+    "name": "Müllermilch 400 ml, Erdbeere",
+    "brandName": "MÜLLER",
+    "urlSlugText": "mueller-muellermilch-400-ml-erdbeere",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "400 ml",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000720191",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "contentUnit": "l",
+    "price": {
+     "amount": 66,
+     "amountRelevant": 66,
+     "amountRelevantDisplay": "0,66 €",
+     "bottleDeposit": 25,
+     "bottleDepositDisplay": "0,25 €",
+     "comparison": 165,
+     "comparisonDisplay": "1,65 €/1 l",
+     "currencyCode": "EUR",
+     "currencySymbol": "€",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": "1,49 €",
+     "additionalInfo": null,
+     "savingsDisplay": "55 %",
+     "bottleDepositType": "EINWEG",
+     "feeText": ""
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161425467173",
+      "name": "Getränke",
+      "urlSlugText": "getraenke"
+     },
+     {
+      "id": "1588161425467194",
+      "name": "Kakao-, Milch- & Kaffeegetränke",
+      "urlSlugText": "getraenke/kakao-milch-kaffeegetraenke"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/4fa90843-eb58-47a2-8687-6c46925091ea/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": [
+     {
+      "position": "4",
+      "items": [
+       {
+        "url": null,
+        "alt": null,
+        "displayText": "Kühlung",
+        "color": "cyan",
+        "mimeType": "text/plain"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

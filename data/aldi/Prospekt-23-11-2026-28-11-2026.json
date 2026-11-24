@@ -1,0 +1,4988 @@
+{
+  "source": {
+    "flyer_url": "https://prospekt.aldi-sued.de/kw48-26-op-mp/",
+    "flyer_id": "3538171",
+    "title": "ALDI SÜD Prospekt KW48: 23.11.2026 – 28.11.2026",
+    "offer_start": "2026-11-23",
+    "offer_end": "2026-11-28",
+    "image_key": "at1200"
+  },
+  "model": null,
+  "prompt_sha256": null,
+  "extracted_at": "2026-11-24T18:46:59.455Z",
+  "complete": true,
+  "failed_pages": [],
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "pages": [
+    {
+      "page": 1,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/fc299480-1b54-4376-bb36-ce6c496df306-at1200.jpg",
+      "status": "ok",
+      "offers": 0,
+      "aldi": []
+    },
+    {
+      "page": 2,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/aae4f8aa-eb23-4680-8297-3c50a6e76d97-at1200.jpg",
+      "status": "ok",
+      "offers": 0,
+      "aldi": []
+    },
+    {
+      "page": 3,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/d433524b-2ae4-42e8-9ea5-6ca2713f5073-at1200.jpg",
+      "status": "ok",
+      "offers": 3,
+      "skipped": [
+        {
+          "title": "Saftiger Zitronenkuchen mit Glasur",
+          "reason": "recipe"
+        }
+      ],
+      "aldi": [
+        {
+          "id": "482464_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.38",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Obst - Zitrusfrüchte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/482464_001_2026_Zitronen-02.png"
+        },
+        {
+          "id": "636403_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Obst - Exotische Früchte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/761242_001-48_2026_Ananas-0010.png"
+        },
+        {
+          "id": "457123_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Obst - Avocados",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/457123_001_AvocadoGrossSchwarzGruen_mit_Kern.png"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/8182c8d1-58e1-4067-8d03-b7ce1af29198-at1200.jpg",
+      "status": "ok",
+      "offers": 4,
+      "skipped": [
+        {
+          "title": "Kartoffelgratin mit Orangen-Feldsalat",
+          "reason": "recipe"
+        }
+      ],
+      "aldi": [
+        {
+          "id": "228577_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Gemüse - Kartoffeln",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/228577_001_2020_KleineKartoffeln-Drillinge04.png"
+        },
+        {
+          "id": "228479_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Salate - Blattsalate",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/228479_001_Eisbergsalat-FS-02_V3.png"
+        },
+        {
+          "id": "266098_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 1.25",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Obst - Zitrusfrüchte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/266098_001_Orangen-02.png"
+        },
+        {
+          "id": "229921_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Gemüse - Gemüse (hart)",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/229921001_25-2026_Gurke-0032_v3.png"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/7230505b-9d64-4e7c-a3ea-4a87b0c3ba9b-at1200.jpg",
+      "status": "ok",
+      "offers": 2,
+      "aldi": [
+        {
+          "id": "451038_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 11.98",
+          "badges": [],
+          "product_type": "Kaffee/Kakao - Bohnenkaffee",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/451038_001_Mahlkaffee-Kaffee-Unser-Bester-2x250g_Produkt_001.png"
+        },
+        {
+          "id": "571076_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 19.98",
+          "badges": [],
+          "product_type": "Kaffee/Kakao - Bohnenkaffee",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/571076_001_Kroenung-Jacobs-Kroenung_Produkt_001_.png"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/b2bd31a6-92d0-4bfe-91e2-3daf040abc3f-at1200.jpg",
+      "status": "ok",
+      "offers": 8,
+      "aldi": [
+        {
+          "id": "486763_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 8.74",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Geflügel frisch - Hühnchen frisch",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/486763_001_Haehnchen-Ministeaks-Haehnchen-Ministeaks_Produkt_001.png"
+        },
+        {
+          "id": "597361_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 8.99",
+          "badges": [],
+          "product_type": "Geflügel frisch - Hühnchen frisch",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/597361_001_Bio-Landhaehnchen-Schenkel-Landhaehnchen-Schenkel_Produkt_001.png"
+        },
+        {
+          "id": "725302_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 6.49",
+          "badges": [
+            "XXL"
+          ],
+          "product_type": "Frischfleisch (ohne Schwein/Geflügel) - Hackfleisch diverse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/725302_001_Gemischtes-Hackfleisch-Hackfleisch-gemischt_Produkt_001.png"
+        },
+        {
+          "id": "318846_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 38.90",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/318846_001_Bio-Filetsteak_Produkt_001.png"
+        },
+        {
+          "id": "999000_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.25 bzw. 8.63",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/999000_002_Backfisch-Sortiment_Produkt_001_2_.png"
+        },
+        {
+          "id": "341244_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 10.98",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/341244_001_Puten-Schnitzel-Puten-Schnitzel_Produkt_001.png"
+        },
+        {
+          "id": "767183_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 6.98",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/767183_001_Bauchscheiben-HF-3-Schwein-Bauchscheiben-natur_Produkt_001.png"
+        },
+        {
+          "id": "731631_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 7.58",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/731631_001_Nackensteak_Zusatz_001.png"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/929a0142-d5aa-4cf0-8e74-b7678503e2c2-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "202753_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 0.70; zzgl. Pfand 0.25",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "CO2 Erfrischungsgetränke - Softdrinks/Fruchthaltige Erfrischungsget",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/202753001_808774_16-2025_CocaCola-01.png"
+        },
+        {
+          "id": "275046_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 79.00 bzw. 43.89",
+          "badges": [],
+          "product_type": "Backartikel - Backzutaten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/275046_003_Finesse-Finesse-Geriebene-Orangenschale-3er_Produktbilder_001.png"
+        },
+        {
+          "id": "342250_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.93",
+          "badges": [],
+          "product_type": "Backartikel - Backzutaten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/342250_002_Glasur-Kakao_Produktbilder_001.png"
+        },
+        {
+          "id": "747666_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 4.82 bzw. 4.59",
+          "badges": [],
+          "product_type": "TK Fertiggerichte/Pizzas - Pizza/Baguettes",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/747666_002_Die-Ofenfrische-Vier-Kaese_Produktbilder_001.png"
+        },
+        {
+          "id": "564916_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 7.98",
+          "badges": [],
+          "product_type": "Nährmittel - Kräuter/Gewürze/Würzzutaten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/564916_001_Sojasauce-Kikkoman-Sojasauce-500ml_Produktbilder_001.png"
+        },
+        {
+          "id": "156741_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 8.89 bzw. 8.45",
+          "badges": [],
+          "product_type": "Dressings/Öle/Soßen - Soßen/Pesto",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/156741_002_Pesto-Barilla-Pesto-Mixtray-I-Rosso_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/0e6bcdc4-b2ee-4eff-a4e2-1a1986c7c6d2-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "449545_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 4.06 bzw. 3.71",
+          "badges": [],
+          "product_type": "Bonbons/Kaugummi - Fruchtgummi",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/449545_002_Lakritz-Schnecken-oder-Konfekties-Konfekties_Produktbilder_001.png"
+        },
+        {
+          "id": "310220_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 10.17",
+          "badges": [
+            "1 Riegel gratis"
+          ],
+          "product_type": "Schokolade/Pralinen - Schokoriegel",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/310220_001_kinder-Country-Ki-Country-91-235g_Produktbilder_001.png"
+        },
+        {
+          "id": "750744_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 17.20 bzw. 7.33",
+          "badges": [],
+          "product_type": "Gebäck - Gebäck",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/750744_003_Mikado-oder-Oreo-Mikado-Milch-Schokolade_Produktbilder_001.png"
+        },
+        {
+          "id": "187303_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Bake-Off - Feinbackwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/187303_001_Berliner-BerlinerKrapfen-Mehrfr_Produktbilder_001.png"
+        },
+        {
+          "id": "187441_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Bake-Off - Feinbackwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/187441_001_Buttercroissant-Buttercroissant_Produktbilder_001.png"
+        },
+        {
+          "id": "734782_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "Anwendungs-Preis 0.05",
+          "badges": [],
+          "product_type": "Wasch-/Putz-/Reinigungsmittel - Waschhilfsmittel",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/734782_003_Weichspueler-Goldene-Orchidee_Produktbilder_001.png"
+        },
+        {
+          "id": "523716_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 13.62, 13.39 bzw. 13.17",
+          "badges": [],
+          "product_type": "Backartikel - Dessertpulver",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/523716_002_Seelenwaermer-Schokolade_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/f55710a3-5a88-41c4-b1ee-96170c8b982f-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "766849_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 12.72",
+          "badges": [],
+          "product_type": "Gekühlte Wurstwaren - Schinken gekocht/gepökelt",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/766849_003_Handgelegter-Kochschinken-Wacholder_Produktbilder_001.png"
+        },
+        {
+          "id": "673924_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 29.00",
+          "badges": [],
+          "product_type": "Gekühlte Wurstwaren - Schinken roh/gepökelt/luftgetrocknet",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/673924_001_Black-Angus-Rinder-Carpaccio-Black-Angus-Carpaccio_Produktbilder_001.png"
+        },
+        {
+          "id": "205450_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 29.80 bzw. 21.29",
+          "badges": [],
+          "product_type": "Gekühlte Wurstwaren - Rohwurst",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/205450_001_Iberico-Spezialitaeten-Spanische-C_Produktbilder_001.png"
+        },
+        {
+          "id": "203715_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 19.90",
+          "badges": [],
+          "product_type": "Gekühlte Wurstwaren - Rohwurst",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/203715_003_Salame-Cremona-oder-Cacciatora-Cacciatore_Produktbilder_001.png"
+        },
+        {
+          "id": "541314_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 23.92",
+          "badges": [],
+          "product_type": "Gekühlter verzehrfertiger Fisch - Fisch/Meeresfrüchte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/541314_001_Lachs-Carpaccio-Lachs-Carpaccio-125g_Produktbilder_001.png"
+        },
+        {
+          "id": "606822_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 13.88",
+          "badges": [],
+          "product_type": "Gekühlte Wurstwaren - Sonstige Wurst",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/606822_001_Gebackene-Entenbrust-Gebackene-Enten-Gaensebrust-Entenbrust_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/13833c40-9c45-4cf8-9ded-d466ff91acdc-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "463239_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 25.52",
+          "badges": [],
+          "product_type": "Gekühlter verzehrfertiger Fisch - Fisch/Meeresfrüchte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/463239_001_Lachsrueckenfilet-Norw-Lachsrueckenfilet-125g_Produktbilder_001.png"
+        },
+        {
+          "id": "580136_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Wein - Weinhaltige Getränke/Weine sortiert",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/580136_001_Gluehwein-1l-BRIK-Gluehwein-1l-BRIK_Produkt_001.png"
+        },
+        {
+          "id": "182696_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 5.32",
+          "badges": [],
+          "product_type": "Wein - Rotwein",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/182696_001_Faustino-Rioja-Crianza-Faustino-Rioja-Crianza-750ml_Produktbilder_001.png"
+        },
+        {
+          "id": "675715_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 16.25",
+          "badges": [],
+          "product_type": "Käse/Käseersatzprodukte - Hart-/Schnittkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/675715_001_Appenzeller-Kaese-APPENZELLER-KAeSE-200G_Produktbilder_001.png"
+        },
+        {
+          "id": "202769_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 14.83",
+          "badges": [],
+          "product_type": "Joghurts/Quark - Joghurt Frucht",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/202769_008_Dessert-Erdb-Pistazie_Produktbilder_002_freigestellt.png"
+        },
+        {
+          "id": "605463_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 6.76",
+          "badges": [],
+          "product_type": "Gekühlte Fertiggerichte - Teigwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/605463_002_Gefuellte-Ravioli-oder-Mezzelune-ZiegkaeZwiebe_Produktbilder_001.png"
+        },
+        {
+          "id": "212011_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 4.69",
+          "badges": [],
+          "product_type": "Gekühlte Fertiggerichte - Teigwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/212011_001_Metzger-Maultaschen-Metzgermaultaschen-360g_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/377b1f7e-c6fb-4475-8fc0-f8685b2a40d3-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "211159_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.36",
+          "badges": [],
+          "product_type": "Margarine/pflanzliche Fette - Margarine/pflanzliche Fette",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/211159_001_Vitareform-Margarine-Vitareform-Margarine-250g_Produkt_001.png"
+        },
+        {
+          "id": "191450_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 4.25",
+          "badges": [],
+          "product_type": "Wurst-/Fleisch-/Fischkonserven - Fischkonserven",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/191450_010_Heringsfilets-MSC-Heringsfilet-verschCrPaprika-Creme_Produkt_001.png"
+        },
+        {
+          "id": "202480_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.94",
+          "badges": [],
+          "product_type": "Käse/Käseersatzprodukte - Weichkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/202480_002_Kaese-fuer-den-Ofen-Kraeuter_Produktbilder_001.png"
+        },
+        {
+          "id": "740090_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 20.15 (Einzelpreis 1.99, l-Preis 30.15)",
+          "badges": [
+            "3 FÜR"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/740090_001_Zero-Sirup-Ice-Tea-Zitrone_Produktbilder_001.png"
+        },
+        {
+          "id": "724234_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.48",
+          "badges": [],
+          "product_type": "Brot/Kuchen - Frischbrot",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/724234_001_Koerniges-Sauerteigbrot-Koerniges-Sauerteigbrot_Produktbilder_001.png"
+        },
+        {
+          "id": "475487_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 19.78",
+          "badges": [],
+          "product_type": "Tee - Kräutertee",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/475487_001_Ingwertee-Ingwer-Orange_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/c02a7186-9691-49ec-9427-73d212a24e34-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "157946_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.95",
+          "badges": [],
+          "product_type": "Schokolade/Pralinen - Tafelschokolade",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/157946_011_Mini-Tafeln-Nugat_Produktbilder_001.png"
+        },
+        {
+          "id": "264171_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 6.45 bzw. 6.14",
+          "badges": [],
+          "product_type": "Gebäck - Gebäck",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/264171_007_Premium-Cookies-Soft-Milk-Chocolate-Coconut_Produktbilder_001.png"
+        },
+        {
+          "id": "684795_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.76",
+          "badges": [],
+          "product_type": "Salzgebäck - Salzgebäck/Kräcker",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/684795_001_Salzbrezeln-Salzbrezeln_Produktbilder_001.png"
+        },
+        {
+          "id": "202693_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 1.85 (Einzelpreis 0.49; kg-Preis 2.45)",
+          "badges": [
+            "3 FÜR"
+          ],
+          "product_type": "Joghurts/Quark - Joghurt Frucht",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/45/202693_008_Premium-Joghurt-Himbeere_Produkt_001.png"
+        },
+        {
+          "id": "728662_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 7.48",
+          "badges": [],
+          "product_type": "TK Fleisch/Fisch - Hühnchen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/728662_002_Chicken-Stripes-Garlic-Pepper_Produktbilder_001.png"
+        },
+        {
+          "id": "202719_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.90",
+          "badges": [],
+          "product_type": "Gekühlte Feinkost - Feinkost",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/202719_005_Oliven-Variationen-Schw-Oliven_Produktbilder_001.png"
+        },
+        {
+          "id": "194691_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 59.33 bzw. 35.60",
+          "badges": [],
+          "product_type": "Nährmittel - Kräuter/Gewürze/Würzzutaten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/194691_003_Gefriergetrocknete-Kraeuter-Zwiebel_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/57913dba-f759-4b0f-9c83-7da84b9706fb-at1200.jpg",
+      "status": "ok",
+      "offers": 3,
+      "aldi": [
+        {
+          "id": "749138_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/749138_001_Luxus-Daunen-3-Kammer-Kissen-40x80_Produktbilder_001.png"
+        },
+        {
+          "id": "749818_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Elektr. Körperpflegegeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/749818_004_Heizkissen-Herz_Produktbilder_002.png"
+        },
+        {
+          "id": "749089_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Heimtextilien - Bettwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/749089_001_Steppbett-Luxusdaune-135x200_Produktbilder_002.png"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/390a6f78-9ad8-4da0-aed2-60e0abf71f19-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "727060_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Heimtextilien - Teppiche/Badteppiche/Fußmatten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/727060_001_Teppich-Hellgrau_Produktbilder_001.png"
+        },
+        {
+          "id": "739350_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion, 2er-Set"
+          ],
+          "product_type": "Beleuchtung - Innenbeleuchtung",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/739350_002_LED-Wandspots-Wandspots-Schwarz_Produktbilder_001.png"
+        },
+        {
+          "id": "754806_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 26.60 bzw. 19.95",
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/754806_004_Socken-Wolle-oder-Garn-Sockenwolle-Braun_Produkt_003.png"
+        },
+        {
+          "id": "743145_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Heimtextilien - Teppiche/Badteppiche/Fußmatten",
+          "photo_url": "https://aldi-assets.publitas.com/2025-Image-Upload/Pubitas-Tagging/KW48/743145_001_KW48-2026_Lamfell-Teppich-Weiss_Produktbilder_001(2).png"
+        },
+        {
+          "id": "748744_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Elektr. Körperpflegegeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/748744_002_Heizsortiment-Fusswaermer_Produktbilder_001.png"
+        },
+        {
+          "id": "739786_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Beleuchtung - Innenbeleuchtung",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/739786_002_Nachtlicht_mit_Bewegungsmelder_Eckige_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/99ab0244-1238-47b4-b264-969ea621db69-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "755927_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/755927_001_Jelly-Blox-Box-Jelly-Blox-Box_Produktbilder_001.png"
+        },
+        {
+          "id": "760742_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion, 4er-Set"
+          ],
+          "product_type": "Spielwaren - Kleinkinderspielzeug",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/760742_001_Schaum-Bausteine-Schaum-Bausteine_Produktbilder_001.png"
+        },
+        {
+          "id": "756920_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Spielwaren - Spiele/Puzzles/Kreativspielzeug",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/756920_002_Spielklassiker-Maerger-dnicht_Produktbilder_003.png"
+        },
+        {
+          "id": "758571_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/758571_005_Vorlesebuch-Weihnachten-Die-Elfen_Produktbilder_001.png"
+        },
+        {
+          "id": "762203_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "40er-Set"
+          ],
+          "product_type": "Spielwaren - Spielzeugautos/-fahrzeuge",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/762203_001_Strassen-oder-Rennbahnset-Rennstrecke_Produktbilder_001.png"
+        },
+        {
+          "id": "753524_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Spielwaren - Spielzeugautos/-fahrzeuge",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/753524_002_Paw-Patrol-Fahrzeug-Marshall_Produktbilder_001.png"
+        },
+        {
+          "id": "754903_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Spielwaren - Spiele/Puzzles/Kreativspielzeug",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/754903_001_Guess-What-Puzzle-Weihnachten_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/60872489-a8bb-4c64-a8a8-519383f8c9ae-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "758582_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Pflanzen/Blumen - Sträucher/Bäume/Stauden",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/758582_003_Dekorierter-Weihnachtsbaum-Weisse-Sterne_Produktbilder_001.jpg"
+        },
+        {
+          "id": "675654_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/675654_043_Weihnachtsdeko-oder-Accesoire-Glasuntersetzer_Produktbilder_001.png"
+        },
+        {
+          "id": "742900_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Kinder-Textilien - Socken Strümpfe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/742900_007_Ski-Socken-Eisbaer-3134_Produktbilder_001.png"
+        },
+        {
+          "id": "741866_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Schuhe - Kinderschuhe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/741866_007_Sportliche-Winterstiefel-Schwarz-31_Produkt_001.png"
+        },
+        {
+          "id": "755575_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Schuhe - Kinderschuhe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/755575_009_KK-Stiefel-Wasserabweisend-Pink-24_Produktbilder_001.png"
+        },
+        {
+          "id": "737495_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Lederwaren/Schirme - Schirme",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/737495_004_Reflektierender-Taschenschirm-Reflektierend-Fee_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/a4ab4ce3-2a57-41b5-90fd-aa7360a4aca1-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "743258_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "2er-Set"
+          ],
+          "product_type": "Sport & Sportbekleidung - Socken Strümpfe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/743258_006_D-H-Haussocken-2Er-MarineBeige-4346_Produktbilder_005.png"
+        },
+        {
+          "id": "744936_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "2er-Set"
+          ],
+          "product_type": "Damen-Textilien - Socken Feinstrümpfe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/744936_005_Damensocken_blau-Punkt_Produkt_001.png"
+        },
+        {
+          "id": "746530_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Damen-Textilien - Nachtwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/746530_007_Damen_Pyjama_Grau_S_36-38_Produkt_001.png"
+        },
+        {
+          "id": "748703_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Damen-Textilien - Hosen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/748703_001_Damen_Fleece_Leggings_Blau_36-38_Produkt_001.png"
+        },
+        {
+          "id": "747852_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Herren-Textilien - Unterwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/747852_005_H_Lang_Unterwaesche_Pants_Schwarz_M_Produkt_001.png"
+        },
+        {
+          "id": "744597_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Schuhe - Unisexschuhe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/744597_001_Winter-Clogs-Rosa-37_Produkt_001.png"
+        },
+        {
+          "id": "745569_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Sport & Sportbekleidung - Accessoires",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/745569_002_Damen_Herren_Tragbare_Decke_Karomuster_Einheitsgroesse_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/a27a5f77-c30a-4ec6-b303-d39cee3560fe-at1200.jpg",
+      "status": "ok",
+      "offers": 4,
+      "aldi": [
+        {
+          "id": "749685_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/749685_006_Hotel-Badematte-Petrol-2pk-40x60-cm_Produktbilder_001.png"
+        },
+        {
+          "id": "751776_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Heimtextilien - Frottierwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/751776_003_Hotel-Bademantel-Beige-S_Produktbilder_001.png"
+        },
+        {
+          "id": "748827_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/748827_006_Hotel_Handtuchserie_Petrol_2pk_50x100cm_001.png"
+        },
+        {
+          "id": "750333_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Beleuchtung - Innenbeleuchtung",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/750333_002_Akku-Leuchte-mit-Wellenprojektion-Beige_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/4364566d-93ec-4fd9-9fd9-8909f879a94f-at1200.jpg",
+      "status": "ok",
+      "offers": 5,
+      "aldi": [
+        {
+          "id": "721769_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Heimtextilien - Bettwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/721769_001_Tagesdecke-Tagesdecke-Weiss_Produktbilder_001.png"
+        },
+        {
+          "id": "748769_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Haushaltsgeräte - Elektr. Körperpflegegeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/748769_001_2-in-1-Beauty-Box-mit-LED-Spiegel-Anthrazit_Produktbilder_001.png"
+        },
+        {
+          "id": "629435_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": "Anwendungs-Preis 0.08",
+          "badges": [
+            "XXL"
+          ],
+          "product_type": "Wasch-/Putz-/Reinigungsmittel - Waschmittel",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/629435_002_Waschmittel-Pink-Flowers_Produktbilder_001.png"
+        },
+        {
+          "id": "740606_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "2er-Set"
+          ],
+          "product_type": "Heimtextilien - Bettwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/740606_003_Seiden-Kissenbezuege-Dunkelgrau_Produktbilder_001.png"
+        },
+        {
+          "id": "751521_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Med. Haushaltsgeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/751521_001_Medizinisches-Diagnose-Sortiment-Oberarm-Blutdr_Produkt_003.png"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/a7caaa3f-472f-491b-ba8f-919879064926-at1200.jpg",
+      "status": "ok",
+      "offers": 5,
+      "aldi": [
+        {
+          "id": "760024_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Pflanzen/Blumen - Zimmerpflanzen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/760024_001_Zuckerhut-Fichte-Zuckerhutfichte_Produkt_001.png"
+        },
+        {
+          "id": "776007_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": "l-Preis 3.59",
+          "badges": [],
+          "product_type": "Wasch-/Putz-/Reinigungsmittel - Autopflege",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/776007_001_Scheibenenteiser-Scheibenenteiser-750ml_Produktbilder_001.png"
+        },
+        {
+          "id": "720901_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": "l-Preis 5.78",
+          "badges": [
+            "2er-Set"
+          ],
+          "product_type": "Wasch-/Putz-/Reinigungsmittel - Putzmittel",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/720901_001_Waschmaschinen-Pflege-Waschmaschinenpfl-2x250_Produkt_002.png"
+        },
+        {
+          "id": "667660_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Papierwaren - Toilettenpapier",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/667660_001_Toilettenpapier-Gluecksblatt-Toilettenpapier_Produkt_001.png"
+        },
+        {
+          "id": "618911_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Folien/Tücher - Reinigungstücher/Schwämme/Handschuhe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/618911_008_Einmalhandschuhe-Gruen-M_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/bed2a4ee-edc3-403c-ac0b-eac3db3c5820-at1200.jpg",
+      "status": "ok",
+      "offers": 5,
+      "aldi": [
+        {
+          "id": "738114_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Damen-Textilien - Jacken/Westen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/738114_006_Leichtsteppmantel-Braun-M-4042_Produkt_001.png"
+        },
+        {
+          "id": "737505_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Damen-Textilien - Tops/Shirts/Pullover",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/737505_004_Damen-Cardigan-Beige-S-3638_Produktbilder_001.png"
+        },
+        {
+          "id": "527962_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "2er-Set"
+          ],
+          "product_type": "Damen-Textilien - Unterwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/527962_003_D-Slips-2Er-Pg-Nur-Die-M-4042-We-Midi_Produktbilder_001.png"
+        },
+        {
+          "id": "223860_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Damen-Textilien - Unterwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/223860_005_Baumwoll-BH-We-90B_Produktbilder_001.png"
+        },
+        {
+          "id": "737250_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Damen-Textilien - Socken Feinstrümpfe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/737250_002_Thermo-Strumpfhose-M4244-Schwarz_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/bb73ef3c-7057-4786-bd99-5ebecfbc0e85-at1200.jpg",
+      "status": "ok",
+      "offers": 5,
+      "aldi": [
+        {
+          "id": "741621_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Herren-Textilien - Hosen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/741621_001_H-Thermo-Jeans-Blau-48_Produkt_001.png"
+        },
+        {
+          "id": "744559_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Damen-Textilien - Nachtwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/744559_004_D_Pyjama_Gruen_S_36-38_Produkt_002.png"
+        },
+        {
+          "id": "746161_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Lederwaren/Schirme - Accessoires",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/746161_001_Lederhandschuhe-Herren-Schwarz-85_Produktbilder_001.png"
+        },
+        {
+          "id": "745716_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [
+            "3er-Set"
+          ],
+          "product_type": "Herren-Textilien - Socken Strümpfe",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/745716_001_Grobstricksocken_blau_Produkt_001.png"
+        },
+        {
+          "id": "747758_kw48",
+          "start_date": "2026-11-26",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Herren-Textilien - Nachtwäsche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/747758_001_Herren_Winter_Pyjama_Beige_M_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/4c53a28e-6272-44cb-a9c4-d1a2cba8280d-at1200.jpg",
+      "status": "ok",
+      "offers": 4,
+      "aldi": [
+        {
+          "id": "751468_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Elektr. Haushaltsgeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/751468_002_Singer-Naehmaschine-Gelb_Produktbilder_001.png"
+        },
+        {
+          "id": "264605_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Elektr. Küchengeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/264605_001_Kaffemaschine-Magnifica-S-DeLonghi-Magnifica-S_Produktbilder_002.png"
+        },
+        {
+          "id": "755147_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Haushaltsgeräte - Elektr. Küchengeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/755147_001_Glas-Heissluftfritteuse-Glas-Heissluftfritteuse_Produktbilder_011.png"
+        },
+        {
+          "id": "739825_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [],
+          "product_type": "Unterhaltungselektronik - Foto/Kamera/Optik",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/739825_002_Video-Tuerklingel-Schwarz_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/85cd5f64-1d25-4d97-915e-3cedb5ec89d5-at1200.jpg",
+      "status": "ok",
+      "offers": 9,
+      "aldi": [
+        {
+          "id": "599342_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 2.47",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Margarine/pflanzliche Fette - Margarine/pflanzliche Fette",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/599342_001_Original-Rama-Original-60-Fett-725g_Produkt_001.png"
+        },
+        {
+          "id": "203996_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 9.96",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Käse/Käseersatzprodukte - Hart-/Schnittkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/203996_001_Kaesescheiben-Sylter_Produktbilder_001.png"
+        },
+        {
+          "id": "784498_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 11.06, 10.05 bzw. 8.96",
+          "badges": [
+            "Aktion, 3er-Pack, AUFSTELLER",
+            "XXL"
+          ],
+          "product_type": "Backartikel - Dessertpulver",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/784498_001_Paradiescreme-Schokolade_Produkt_001.png"
+        },
+        {
+          "id": "699107_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "l-Preis 5.90",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Körperhygiene - Zahn-/Mundhygiene",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/699107_003_Mundspuelung-Listerine-Duopack-500ml600m-Fresh-Mint_Produkt_001.png"
+        },
+        {
+          "id": "999997_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "l-Preis 2.02; zzgl. Pfand 6 x 0.25 = 1.50",
+          "badges": [
+            "Aktion, AUFSTELLER",
+            "XXL"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/999997_001_Spezi-Spezi_Produkt_001.png"
+        },
+        {
+          "id": "649270_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 20.36 bzw. 15.27",
+          "badges": [
+            "Aktion, AUFSTELLER",
+            "XXL"
+          ],
+          "product_type": "Tee - Gemischte Sorten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/649270_005_Teekanne-Kraeu-Fruechtetee-XXL-Teekanne-Kraeu-Fruechte-Fruechtemischung_Produkt_001.png"
+        },
+        {
+          "id": "543043_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 13.74",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Frischfleisch (ohne Schwein/Geflügel) - Rind frisch",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/543043_001_Gulasch-HF3-Rind-Gulasch-XXL_Produkt_001.png"
+        },
+        {
+          "id": "212439_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 8.66",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Geflügel frisch - Hühnchen frisch",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/212439_001_Haehnchen-Brustfilet-Teilstuecke-Haehnchen-Brustfilet_Produkt_001.png"
+        },
+        {
+          "id": "202507_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 9.96",
+          "badges": [
+            "Aktion",
+            "XXL"
+          ],
+          "product_type": "Gekühlte Wurstwaren - Schinken roh/gepökelt/luftgetrocknet",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/202507_001_Schwarzwaelder-Schinken-Schwarzw-Schinken-250g_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/de597304-c0c5-40d5-9020-426453fc7b2a-at1200.jpg",
+      "status": "ok",
+      "offers": 10,
+      "aldi": [
+        {
+          "id": "185123_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Kaffee/Kakao - Bohnenkaffee",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/185123_001_Barista-Espresso-Barista-Espresso_Produkt_001.png"
+        },
+        {
+          "id": "309958_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 14.92",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Gekühlte Wurstwaren - Restliche Pökelware",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/309958_003_Krusten-Karree-oder-Braten-Thymian-Honig_Produktbilder_001.png"
+        },
+        {
+          "id": "203306_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 10.36",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Käse/Käseersatzprodukte - Weichkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/203306_001_Camembert-LAromatique-President-Camembert-L-Arom-250g_Produktbilder_001.png"
+        },
+        {
+          "id": "182740_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 7.37",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Konfitüren/Brotaufstriche - Fruchtaufstriche",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/182740_002_Schwartau-Samt-Schwartau-Samt-Himbeere_Produkt_001.png"
+        },
+        {
+          "id": "444956_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 22.38",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Käse/Käseersatzprodukte - Käseerzeugnisse eigener Art",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/444956_001_Fransen-Kaese-Cheestrings-4x20g_Produkt_001.png"
+        },
+        {
+          "id": "781020_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Eier - Gekochte Eier",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/781020_001_Adventseier-Adventseier-gekocht-6er_Produkt_001.png"
+        },
+        {
+          "id": "204543_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 9.93",
+          "badges": [
+            "Aktion, 1 Riegel gratis"
+          ],
+          "product_type": "Gekühlte Feinkost - Desserts",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/204543_001_Milch-Schnitte-Milchschnitte-5davon1-gratis_Produkt_002.png"
+        },
+        {
+          "id": "203326_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 1.78",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Joghurts/Quark - Joghurt Natur",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/203326_002_Naturjoghurt-Naturjoghurt-15-Fett_Produktbilder_001.png"
+        },
+        {
+          "id": "205615_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 3.98",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Gekühlte Feinkost - Desserts",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/205615_001_Loeffelglueck-Dr-Oetker-Sahnepudding-Schoko_Produkt_001.png"
+        },
+        {
+          "id": "203337_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 2.60",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Joghurts/Quark - Joghurt Frucht",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/203337_004_Froop-Pfirsich-Maracuja_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/88ee9556-76be-45e0-9ede-5e14537c4342-at1200.jpg",
+      "status": "ok",
+      "offers": 9,
+      "aldi": [
+        {
+          "id": "321353_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 14.90",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Schokolade/Pralinen - Tafelschokolade",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/321353_001_Toblerone-100g-Toblerone-100g-Vollmilch_Produkt_001.png"
+        },
+        {
+          "id": "655658_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "l-Preis 18.58",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "TK Desserts/Backwaren/Eis - Eis",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/655658_004_Mangnum-Bonbon-Magnum-Bonbon-12x17ml-Mag-choccherry_Produkt_001.png"
+        },
+        {
+          "id": "266377_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 14.90, 11.46 bzw. 9.93",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Salzgebäck - Salzgebäck/Kräcker",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/266377_004_Saltletts-LaugenCracker_Produkt_001.png"
+        },
+        {
+          "id": "309064_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 12.44 bzw. 11.06",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Gekühltes verzehrfertiges Fleisch/Fleisc - Fleischersatzprodukte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/309064_003_Vegetarische-Vielfalt-Crispy-Sticks-160-g_Produktbilder_001.png"
+        },
+        {
+          "id": "754670_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 8.99",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": null,
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/754670_001_Spare-Ribs-HF3-Spare-Ribs-vorgegart_Produkt_001.png"
+        },
+        {
+          "id": "212135_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 10.99",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Fisch frisch - Fisch",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/212135_001_Geraeucherte-Lachsforelle-Geraeucherte-Lachsforelle_Produkt_001.png"
+        },
+        {
+          "id": "271231_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "l-Preis 35.18",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Dressings/Öle/Soßen - Soßen/Pesto",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/271231_010_Tessiner-Senfsaucen-Traube_Produkt_001.png"
+        },
+        {
+          "id": "183401_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "l-Preis 26.64",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Sekt/Schaumwein - Sekt/Schaumwein",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/183401_001_Champagner-Brut-FR-Champagne-Brut-375ml_Produkt_001.png"
+        },
+        {
+          "id": "191487_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 5.97",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "TK Fertiggerichte/Pizzas - Pizza/Baguettes",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/191487_001_Flammkuchen-Elsaesser-Art-Wagn-Flammk-Elsaesse-Art-03-Kg_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/d587316b-b5f5-46b0-89af-5fb40d9ee7a5-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "771148_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 23.76",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/771148_001_Weihnachtsmischung-Milka-Weihnachtsmischung-210g_Produkt_001.png"
+        },
+        {
+          "id": "765160_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 6.98",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/765160_001_Haribo-Xmas-Mix-Haribo-Xmas-Mix-500g_Produkt_001.png"
+        },
+        {
+          "id": "712589_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 19.26",
+          "badges": [
+            "XXL"
+          ],
+          "product_type": "Kaffee/Kakao - Kaffeekapseln",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/712589_001_Lungo-Fortemente-Kapseln-NCC-XXL-Lungo-Fortemente-Kapseln_Produktbilder_001.png"
+        },
+        {
+          "id": "102864_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 14.21",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Brot/Kuchen - Haltbarer Kuchen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/102864_008_Dr-Oetker-Kleine-Kuchen-FK-snack-Schoko-4er-RAC-MB_Produktbilder_001.png"
+        },
+        {
+          "id": "713439_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 6.74",
+          "badges": [],
+          "product_type": "Kaffee/Kakao - Bohnenkaffee",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/713439_001_Kaffee-Crema-Kaffeebohnen-Crema-1kg_Produktbilder_001.png"
+        },
+        {
+          "id": "592682_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 11.24",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "TK Desserts/Backwaren/Eis - Desserts/Mehlspeisen",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/592682_001_Fest-Sahne-Platte-CW-Fest-Sahne-Platte-800g_Produkt_001.png"
+        },
+        {
+          "id": "620246_kw48",
+          "start_date": "2026-11-27",
+          "unit_price": "kg-Preis 39.87",
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/620246_001_Duplo-Weihnachtsmann-Duplo-Weihnachtsmann-75g_Produktbilder_001.png"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/58656298-f4bc-440b-8dc9-2e223cce18ed-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "194532_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 12.90",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/194532_001_Baumstamm-GL-Nougat-Baumstamm-100g_Produkt_001.png"
+        },
+        {
+          "id": "277439_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 8.95",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/277439_001_Schokoladen-Kraenze-Schokokraenze-200g_Produkt_001.png"
+        },
+        {
+          "id": "331638_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 15.92",
+          "badges": [
+            "10 Stück"
+          ],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/331638_001_Nougat-Happen-Nougat_Produkt_001.png"
+        },
+        {
+          "id": "744126_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 13.45",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/744126_001_Edelmarzipan-Brote-9010-Mini-Edelmarzipan-Brote_Produkt_003.png"
+        },
+        {
+          "id": "194153_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.97",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/194153_001_Lebkuchen-Herzen-Zartbitter_Produkt_001.png"
+        },
+        {
+          "id": "743499_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 16.60",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/743499_004_Feine-Schokoladenkugeln-Nuss-Mandel_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/c5b3e61a-716b-4eec-9170-0468521ae247-at1200.jpg",
+      "status": "ok",
+      "offers": 2,
+      "aldi": [
+        {
+          "id": "755222_kw48",
+          "start_date": "2026-11-28",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Haushaltsgeräte - Elektr. Körperpflegegeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/755222_001_Luftstrom-Haarglaetter-Champagner_Produktbilder_004.png"
+        },
+        {
+          "id": "760560_kw48",
+          "start_date": "2026-11-28",
+          "unit_price": null,
+          "badges": [
+            "Aktion"
+          ],
+          "product_type": "Haushaltsgeräte - Elektr. Körperpflegegeräte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/760560_002_5-in-1-Hairstyler-Mauve_Produktbilder_003.png"
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/a3c11457-0bb5-4083-9ee7-bbe610a15844-at1200.jpg",
+      "status": "ok",
+      "offers": 5,
+      "aldi": [
+        {
+          "id": "332165_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 11.92",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/332165_001_Marzipankartoffeln-Klassik_Produkt_001.png"
+        },
+        {
+          "id": "667163_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 9.00",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/667163_001_Schoko-Weihnachtsmann-Schoko-Santa-110g_Produkt_001.png"
+        },
+        {
+          "id": "660692_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 17.20",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/660692_002_Adventskalender-Gruen_Produkt_001.png"
+        },
+        {
+          "id": "194106_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 11.27",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/194106_001_Choco-Lolly-Vollmilch_Produkt_001.png"
+        },
+        {
+          "id": "742981_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 15.92",
+          "badges": [],
+          "product_type": "Saisonartikel Süßwaren - Weihnachten",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/742981_003_Mini-Weihnachtsfiguren-Mini-Baerchen-mit-Milchcremefuellung_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/3ffd2e38-cef7-4b24-bb8a-4dfc16df28db-at1200.jpg",
+      "status": "ok",
+      "offers": 7,
+      "aldi": [
+        {
+          "id": "487869_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 15.27",
+          "badges": [],
+          "product_type": "Käse/Käseersatzprodukte - Hart-/Schnittkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/487869_001_Heumilchkaese-Kaesescheiben-Emmentaler_Produkt_001.png"
+        },
+        {
+          "id": "591941_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.48",
+          "badges": [],
+          "product_type": "Joghurts/Quark - Joghurt Natur",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/591941_001_Bio-Joghurt-Bio-PNL-Naturjoghurt_Produkt_001.png"
+        },
+        {
+          "id": "649671_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 1.25",
+          "badges": [],
+          "product_type": "Backartikel - Mehl",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/649671_003_Bio-Dinkelmehl-Bio-Dinkelmehl-Vollkorn_Produkt_001.png"
+        },
+        {
+          "id": "677834_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 18.45",
+          "badges": [],
+          "product_type": "Käse/Käseersatzprodukte - Weichkäse",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/677834_001_Bio-Bergbauern-Weichkaese-Standard-mild-cremig_Produkt_001.png"
+        },
+        {
+          "id": "603817_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 2.65",
+          "badges": [],
+          "product_type": "Fruchtsäfte/Sirupe - Fruchtsäfte (Säfte Nektar)",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/603817_001_Bio-Apfelsaft-Apfelsaft_Produkt_001.png"
+        },
+        {
+          "id": "534958_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 3.19",
+          "badges": [],
+          "product_type": "Konserven - Obstkonserven",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/534958_003_Bio-Fruchtmus-Apfel-Banane_Produkt_001.png"
+        },
+        {
+          "id": "651434_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 5.44",
+          "badges": [],
+          "product_type": "Bake-Off - Brötchen/Semmeln",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/651434_001_Bio-Sauerteig-Vollkorn-Krusti-Sauerteig-Vollkorn-Krusti_Produkt_001.png"
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/660b389e-78ac-4a6d-acfd-de76fd5b7378-at1200.jpg",
+      "status": "ok",
+      "offers": 6,
+      "aldi": [
+        {
+          "id": "573047_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "l-Preis 6.12",
+          "badges": [],
+          "product_type": "Dressings/Öle/Soßen - Soßen/Pesto",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/573047_001_Bio-Tomatensauce-Basilikum_Produkt_001.png"
+        },
+        {
+          "id": "486241_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.90",
+          "badges": [],
+          "product_type": "Nährmittel - Teigwaren",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/486241_001_Bio-Dinkel-Spaghetti-BIO-PNL-Dinkel-Spaghetti-500g_Produkt_001_2_.png"
+        },
+        {
+          "id": "510156_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 7.36 / Abtropfgewicht",
+          "badges": [],
+          "product_type": "Konserven - Sauerkonserven",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/510156_001_Bio-Gewuerzgurken-BIO-PNL-Gewuerzgurken_Produkt_001.png"
+        },
+        {
+          "id": "591777_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 14.95",
+          "badges": [],
+          "product_type": "Gekühltes verzehrfertiges Fleisch/Fleisc - Fleischersatzprodukte",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/591777_002_Bio-Tempeh-Curry_Produkt_001.png"
+        },
+        {
+          "id": "586762_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 2.87 / Abtropfgewicht",
+          "badges": [],
+          "product_type": "Konserven - Sauerkonserven",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/586762_001_Bio-Rotkohl-oder-Bio-Sauerkraut-Rotkohl_Produkt_001.png"
+        },
+        {
+          "id": "582786_kw48",
+          "start_date": "2026-11-23",
+          "unit_price": "kg-Preis 17.09",
+          "badges": [],
+          "product_type": "Konserven - Antipasti ungekühlt",
+          "photo_url": "https://aldi-assets.publitas.com/feed-images/2026/48/582786_001_Oliven-mariniert-Oliven-mariniert_Produkt_002.png"
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/c2765f29-6768-48cc-a715-74cbd7d57807-at1200.jpg",
+      "status": "ok",
+      "offers": 0,
+      "aldi": []
+    },
+    {
+      "page": 34,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/398b69b5-9e9b-4010-bcf8-630620654d09-at1200.jpg",
+      "status": "ok",
+      "offers": 0,
+      "aldi": []
+    },
+    {
+      "page": 35,
+      "image_url": "https://prospekt.aldi-sued.de/73714/3538171/pages/51e2a678-a571-47f6-8cd2-ec67e70a30b4-at1200.jpg",
+      "status": "ok",
+      "offers": 0,
+      "aldi": []
+    }
+  ],
+  "products": [
+    {
+      "product": "Bio-Naturland-Zitronen",
+      "brand": null,
+      "price": 1.19,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: Spanien; Klasse: II; 500-g-Netz\nkg-Preis 2.38",
+      "image_bbox": [
+        0,
+        0.4851,
+        0.4854,
+        0.9528
+      ],
+      "page": 3,
+      "category": "fruits",
+      "product_en": "Organic Naturland Lemons",
+      "product_cn": "有機 Naturland 檸檬"
+    },
+    {
+      "product": "Ananas, lose",
+      "brand": null,
+      "price": 1.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: Costa Rica; Klasse: I; Stück",
+      "image_bbox": [
+        0.4854,
+        0.4851,
+        0.9666,
+        0.9418
+      ],
+      "page": 3,
+      "category": "fruits",
+      "product_en": "Pineapple, loose",
+      "product_cn": "鳳梨，散裝"
+    },
+    {
+      "product": "Avocado",
+      "brand": null,
+      "price": 0.77,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: siehe Etikett; Klasse: I; Stück",
+      "image_bbox": [
+        0.0596,
+        0.0128,
+        0.9666,
+        0.358
+      ],
+      "page": 3,
+      "category": "fruits",
+      "product_en": "Avocado",
+      "product_cn": "酪梨"
+    },
+    {
+      "product": "Drillinge",
+      "brand": "KLEINE SCHÄTZE",
+      "price": 1.69,
+      "original_price": 2.19,
+      "discount": "-22%",
+      "detail": "Ursprung: siehe Etikett; 1-kg-Schale",
+      "image_bbox": [
+        0.0168,
+        0.7184,
+        0.4648,
+        0.9504
+      ],
+      "page": 4,
+      "category": "vegetables",
+      "product_en": "Drillinge",
+      "product_cn": "Drillinge 小馬鈴薯"
+    },
+    {
+      "product": "Eisbergsalat",
+      "brand": null,
+      "price": 0.75,
+      "original_price": 0.99,
+      "discount": "-24%",
+      "detail": "Ursprung: Spanien; Klasse: I; Stück",
+      "image_bbox": [
+        0,
+        0.2484,
+        0.4648,
+        0.5959
+      ],
+      "page": 4,
+      "category": "vegetables",
+      "product_en": "Iceberg lettuce",
+      "product_cn": "冰山萵苣"
+    },
+    {
+      "product": "Orangen",
+      "brand": null,
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: Spanien; Klasse: I; 2-kg-Netz\nkg-Preis 1.25",
+      "image_bbox": [
+        0.0334,
+        0,
+        0.9753,
+        0.2624
+      ],
+      "page": 4,
+      "category": "fruits",
+      "product_en": "Oranges",
+      "product_cn": "柳橙"
+    },
+    {
+      "product": "Gurke",
+      "brand": null,
+      "price": 0.59,
+      "original_price": 0.75,
+      "discount": null,
+      "detail": "Ursprung: Spanien/Griechenland/Marokko; Klasse: I; Stück",
+      "image_bbox": [
+        0.4899,
+        0.2624,
+        0.9753,
+        0.6585
+      ],
+      "page": 4,
+      "category": "vegetables",
+      "product_en": "Cucumber",
+      "product_cn": "黃瓜"
+    },
+    {
+      "product": "Unser Bester",
+      "brand": "BARISSIMO",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gemahlen; 2 x 250 g = 500-g-Packung\nkg-Preis 11.98",
+      "image_bbox": [
+        0.4607,
+        0.3137,
+        0.9255,
+        0.6717
+      ],
+      "page": 5,
+      "category": "drinks",
+      "product_en": "Our Best",
+      "product_cn": "我們的最佳"
+    },
+    {
+      "product": "Krönung",
+      "brand": "JACOBS",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gemahlen; 500-g-Packung\nkg-Preis 19.98",
+      "image_bbox": [
+        0.0309,
+        0.3137,
+        0.4607,
+        0.6717
+      ],
+      "page": 5,
+      "category": "drinks",
+      "product_en": "Krönung",
+      "product_cn": "Krönung"
+    },
+    {
+      "product": "Hähnchen-Ministeaks",
+      "brand": "MEINE METZGEREI",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "800-g-Packung\nkg-Preis 8.74",
+      "image_bbox": [
+        0.5126,
+        0.7662,
+        0.9815,
+        0.9486
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Chicken Mini Steaks",
+      "product_cn": "雞肉迷你肉排"
+    },
+    {
+      "product": "Bio-Landhähnchen-Schenkel",
+      "brand": "NUR NUR NATUR",
+      "price": 6.49,
+      "original_price": 7.57,
+      "discount": "-14%",
+      "detail": "Versch. Gewichte, z. B. 722 g\nkg-Preis 8.99",
+      "image_bbox": [
+        0.5126,
+        0.0315,
+        0.9815,
+        0.3522
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Organic Free-Range Chicken Legs",
+      "product_cn": "有機放養雞腿"
+    },
+    {
+      "product": "Gemischtes Hackfleisch",
+      "brand": "MEINE METZGEREI",
+      "price": 5.19,
+      "original_price": 6.49,
+      "discount": "-20%",
+      "detail": "Aus 50 % Rindfleisch und 50 % Schweinefleisch; 800-g-Packung\nkg-Preis 6.49",
+      "image_bbox": [
+        0.5126,
+        0.5574,
+        0.9815,
+        0.7662
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Mixed Minced Meat",
+      "product_cn": "混合絞肉"
+    },
+    {
+      "product": "Bio-Filetsteak",
+      "brand": null,
+      "price": 11.99,
+      "original_price": 15.09,
+      "discount": "-20%",
+      "detail": "Vom Rind; versch. Gewichte, z. B. 308 g\nkg-Preis 38.90",
+      "image_bbox": [
+        0.5126,
+        0.3522,
+        0.9815,
+        0.5493
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Organic Fillet Steak",
+      "product_cn": "有機菲力牛排"
+    },
+    {
+      "product": "Knusper-Backfisch oder -Kibbelinge",
+      "brand": "GOLDEN SEAFOOD",
+      "price": 2.59,
+      "original_price": 3.49,
+      "discount": "-25%",
+      "detail": "280- bzw. 300-g-Packung\nkg-Preis 9.25 bzw. 8.63",
+      "image_bbox": [
+        0.0332,
+        0.7154,
+        0.4949,
+        0.9486
+      ],
+      "page": 6,
+      "category": "instant_food",
+      "product_en": "Crispy Battered Fish or Kibbelinge",
+      "product_cn": "酥脆炸魚或 Kibbelinge"
+    },
+    {
+      "product": "Puten-Schnitzel",
+      "brand": "MEINE METZGEREI",
+      "price": 5.49,
+      "original_price": 6.99,
+      "discount": "-21%",
+      "detail": "500-g-Packung\nkg-Preis 10.98",
+      "image_bbox": [
+        0.0332,
+        0.5277,
+        0.4949,
+        0.7154
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Turkey Schnitzel",
+      "product_cn": "火雞排"
+    },
+    {
+      "product": "Bauchscheiben",
+      "brand": "MEINE METZGEREI",
+      "price": 4.19,
+      "original_price": 4.99,
+      "discount": "-16%",
+      "detail": "Vom Schwein; 600-g-Packung\nkg-Preis 6.98",
+      "image_bbox": [
+        0.0332,
+        0.3411,
+        0.4949,
+        0.5277
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Belly Slices",
+      "product_cn": "五花肉片"
+    },
+    {
+      "product": "Nackensteak",
+      "brand": "MEINE METZGEREI",
+      "price": 3.79,
+      "original_price": 4.79,
+      "discount": "-20%",
+      "detail": "Vom Schwein; 500-g-Packung\nkg-Preis 7.58",
+      "image_bbox": [
+        0.0332,
+        0.1648,
+        0.4949,
+        0.3411
+      ],
+      "page": 6,
+      "category": "meat",
+      "product_en": "Neck Steak",
+      "product_cn": "頸肉排"
+    },
+    {
+      "product": "Coca-Cola®, Fanta®, Sprite® oder MezzoMix®",
+      "brand": "COCA-COLA",
+      "price": 0.88,
+      "original_price": null,
+      "discount": null,
+      "detail": "Teilweise koffeinhaltig; versch. Sorten; je 1,25-l-Flasche\nl-Preis 0.70; zzgl. Pfand 0.25",
+      "image_bbox": [
+        0.5024,
+        0.6932,
+        0.9543,
+        0.9486
+      ],
+      "page": 7,
+      "category": "drinks",
+      "product_en": "Coca-Cola®, Fanta®, Sprite® or MezzoMix®",
+      "product_cn": "Coca-Cola®、Fanta®、Sprite® 或 MezzoMix®"
+    },
+    {
+      "product": "Finesse",
+      "brand": "DR. OETKER",
+      "price": 0.79,
+      "original_price": 0.99,
+      "discount": "-20%",
+      "detail": "Versch. Sorten; je 2 x 5 g = 10- bzw. 3 x 6 g = 18-g-Packung\nkg-Preis 79.00 bzw. 43.89",
+      "image_bbox": [
+        0.5024,
+        0.4734,
+        0.9543,
+        0.6932
+      ],
+      "page": 7,
+      "category": "pantry",
+      "product_en": "Finesse",
+      "product_cn": "Finesse"
+    },
+    {
+      "product": "Glasur",
+      "brand": "PICKERD",
+      "price": 1.49,
+      "original_price": 1.99,
+      "discount": "-25%",
+      "detail": "Versch. Sorten; je 150-g-Packung\nkg-Preis 9.93",
+      "image_bbox": [
+        0.5024,
+        0.2962,
+        0.9543,
+        0.4734
+      ],
+      "page": 7,
+      "category": "pantry",
+      "product_en": "Icing",
+      "product_cn": "糖霜"
+    },
+    {
+      "product": "Die Ofenfrische",
+      "brand": "DR. OETKER",
+      "price": 1.88,
+      "original_price": 3.69,
+      "discount": "-49%",
+      "detail": "Versch. Sorten; je 390- bzw. 410-g-Packung\nkg-Preis 4.82 bzw. 4.59",
+      "image_bbox": [
+        0.5024,
+        0.0571,
+        0.9543,
+        0.2962
+      ],
+      "page": 7,
+      "category": "instant_food",
+      "product_en": "Die Ofenfrische",
+      "product_cn": "Die Ofenfrische"
+    },
+    {
+      "product": "Sojasauce",
+      "brand": "KIKKOMAN",
+      "price": 3.99,
+      "original_price": 6.99,
+      "discount": "-42%",
+      "detail": "500-ml-Flasche\nl-Preis 7.98",
+      "image_bbox": [
+        0.0135,
+        0.7154,
+        0.5024,
+        0.9486
+      ],
+      "page": 7,
+      "category": "pantry",
+      "product_en": "Soy sauce",
+      "product_cn": "醬油"
+    },
+    {
+      "product": "Pesto",
+      "brand": "BARILLA",
+      "price": 1.69,
+      "original_price": 3.49,
+      "discount": "-51%",
+      "detail": "Versch. Sorten; je 190- bzw. 200-g-Glas\nkg-Preis 8.89 bzw. 8.45",
+      "image_bbox": [
+        0.0135,
+        0.4734,
+        0.5024,
+        0.7154
+      ],
+      "page": 7,
+      "category": "pantry",
+      "product_en": "Pesto",
+      "product_cn": "青醬"
+    },
+    {
+      "product": "Fruchtgummi",
+      "brand": "HARIBO",
+      "price": 0.65,
+      "original_price": 1.19,
+      "discount": "-45%",
+      "detail": "Versch. Sorten; je 160- bzw. 175-g-Packung\nkg-Preis 4.06 bzw. 3.71",
+      "image_bbox": [
+        0.5167,
+        0.0443,
+        0.9836,
+        0.281
+      ],
+      "page": 8,
+      "category": "sweets_snacks",
+      "product_en": "Fruit gummies",
+      "product_cn": "水果軟糖"
+    },
+    {
+      "product": "Kinder Country",
+      "brand": "FERRERO",
+      "price": 2.39,
+      "original_price": 3.29,
+      "discount": "-27%",
+      "detail": "1 Riegel gratis; 10 x 23,5 g = 235-g-Packung\nkg-Preis 10.17",
+      "image_bbox": [
+        0.5167,
+        0.498,
+        0.9836,
+        0.6974
+      ],
+      "page": 8,
+      "category": "sweets_snacks",
+      "product_en": "Kinder Country",
+      "product_cn": "Kinder Country"
+    },
+    {
+      "product": "Mikado oder Kekse",
+      "brand": "LU / OREO",
+      "price": 1.29,
+      "original_price": 2.19,
+      "discount": "-41%",
+      "detail": "Versch. Sorten; je 75- bzw. 176-g-Packung\nkg-Preis 17.20 bzw. 7.33",
+      "image_bbox": [
+        0.5167,
+        0.2811,
+        0.9836,
+        0.498
+      ],
+      "page": 8,
+      "category": "sweets_snacks",
+      "product_en": "Mikado or biscuits",
+      "product_cn": "Mikado 或餅乾"
+    },
+    {
+      "product": "Berliner",
+      "brand": null,
+      "price": 0.29,
+      "original_price": 0.45,
+      "discount": "-35%",
+      "detail": "Siedegebäck mit Mehrfrucht-Konfitüre-Füllung;",
+      "image_bbox": [
+        0.4817,
+        0.7079,
+        0.9712,
+        0.9458
+      ],
+      "page": 8,
+      "category": "bread",
+      "product_en": "Berliner",
+      "product_cn": "柏林甜甜圈"
+    },
+    {
+      "product": "Buttercroissant",
+      "brand": null,
+      "price": 0.35,
+      "original_price": 0.49,
+      "discount": "-28%",
+      "detail": "Zart blättrig und buttrig;",
+      "image_bbox": [
+        0.0334,
+        0.7569,
+        0.4817,
+        0.9458
+      ],
+      "page": 8,
+      "category": "bread",
+      "product_en": "Butter croissant",
+      "product_cn": "奶油可頌"
+    },
+    {
+      "product": "Weichspüler",
+      "brand": "LENOR",
+      "price": 3.69,
+      "original_price": 4.49,
+      "discount": "-17%",
+      "detail": "Versch. Sorten; je 71 Waschladungen; Preis je Anwendung 0.05\nAnwendungs-Preis 0.05",
+      "image_bbox": [
+        0.0334,
+        0.2461,
+        0.4961,
+        0.4641
+      ],
+      "page": 8,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Seelenwärmer",
+      "brand": "DR. OETKER",
+      "price": 0.79,
+      "original_price": 1.29,
+      "discount": "-38%",
+      "detail": "Versch. Sorten; je 58-, 59- bzw. 60-g-Packung\nkg-Preis 13.62, 13.39 bzw. 13.17",
+      "image_bbox": [
+        0.0334,
+        0.0268,
+        0.4961,
+        0.2461
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Seelenwärmer",
+      "product_cn": "Seelenwärmer"
+    },
+    {
+      "product": "Handgelegter Kochschinken",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.59,
+      "original_price": 1.99,
+      "discount": "-20%",
+      "detail": "Vom Schwein; versch. Sorten; je 125-g-Packung\nkg-Preis 12.72",
+      "image_bbox": [
+        0.5023,
+        0.5458,
+        0.9692,
+        0.7295
+      ],
+      "page": 9,
+      "category": "meat",
+      "product_en": "Hand-laid cooked ham",
+      "product_cn": "手工疊放煮火腿"
+    },
+    {
+      "product": "Irisches Black Angus Rinder-Carpaccio",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 3.19,
+      "original_price": 3.99,
+      "discount": "-20%",
+      "detail": "Mit Parmigiano Reggiano und Olivenöl; 90 + 10 + 10 g = 110-g-Packung\nkg-Preis 29.00",
+      "image_bbox": [
+        0.5023,
+        0.7301,
+        0.9692,
+        0.9458
+      ],
+      "page": 9,
+      "category": "meat",
+      "product_en": "Irish Black Angus beef carpaccio",
+      "product_cn": "愛爾蘭 Black Angus 牛肉卡帕喬"
+    },
+    {
+      "product": "Iberico-Spezialität",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.49,
+      "original_price": 1.99,
+      "discount": "-25%",
+      "detail": "Versch. Sorten; je 50- bzw. 70-g-Packung\nkg-Preis 29.80 bzw. 21.29",
+      "image_bbox": [
+        0.5023,
+        0.3627,
+        0.9692,
+        0.5458
+      ],
+      "page": 9,
+      "category": "meat",
+      "product_en": "Iberico specialty",
+      "product_cn": "Iberico 特產"
+    },
+    {
+      "product": "Salame Cremona oder Cacciatora",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.99,
+      "original_price": 2.79,
+      "discount": "-28%",
+      "detail": "Je 100-g-Packung\nkg-Preis 19.90",
+      "image_bbox": [
+        0.5023,
+        0,
+        0.9692,
+        0.3627
+      ],
+      "page": 9,
+      "category": "meat",
+      "product_en": "Salame Cremona or Cacciatora",
+      "product_cn": "薩拉米 Cremona 或 Cacciatora"
+    },
+    {
+      "product": "Lachs-Carpaccio",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 2.99,
+      "original_price": 3.99,
+      "discount": "-25%",
+      "detail": "Mit Vinaigrette und Parmesan; je 100 + 15 + 10 = 125-g-Packung\nkg-Preis 23.92",
+      "image_bbox": [
+        0.0185,
+        0.7219,
+        0.4833,
+        0.9412
+      ],
+      "page": 9,
+      "category": "seafood",
+      "product_en": "Salmon carpaccio",
+      "product_cn": "鮭魚卡帕喬"
+    },
+    {
+      "product": "Gebackene Entenbrust",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.11,
+      "original_price": 1.99,
+      "discount": "-44%",
+      "detail": "80-g-Packung\nkg-Preis 13.88",
+      "image_bbox": [
+        0.0185,
+        0.386,
+        0.4833,
+        0.6741
+      ],
+      "page": 9,
+      "category": "meat",
+      "product_en": "Baked duck breast",
+      "product_cn": "烤鴨胸"
+    },
+    {
+      "product": "Lachsrückenfilet",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 3.19,
+      "original_price": 3.99,
+      "discount": "-20%",
+      "detail": "125-g-Packung\nkg-Preis 25.52",
+      "image_bbox": [
+        0.5126,
+        0,
+        1,
+        0.47
+      ],
+      "page": 10,
+      "category": "seafood",
+      "product_en": "Salmon back fillet",
+      "product_cn": "鮭魚背肉排"
+    },
+    {
+      "product": "Glühwein",
+      "brand": null,
+      "price": 1.19,
+      "original_price": 1.45,
+      "discount": "-17%",
+      "detail": "Würzig-aromatisch; 1-l-Packung",
+      "image_bbox": [
+        0.5126,
+        0.7177,
+        0.9733,
+        0.9451
+      ],
+      "page": 10,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "2023 Faustino Rioja Crianza DOCa",
+      "brand": null,
+      "price": 3.99,
+      "original_price": 5.99,
+      "discount": "-33%",
+      "detail": "Spanien; trocken; 0,75-l-Flasche\nl-Preis 5.32",
+      "image_bbox": [
+        0.6745,
+        0.47,
+        0.9733,
+        0.7102
+      ],
+      "page": 10,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Appenzeller® Käse",
+      "brand": "MEINE KÄSETHEKE",
+      "price": 3.25,
+      "original_price": 3.99,
+      "discount": "-18%",
+      "detail": "Am Stück; 200-g-Packung\nkg-Preis 16.25",
+      "image_bbox": [
+        0.0272,
+        0.7177,
+        0.4982,
+        0.9451
+      ],
+      "page": 10,
+      "category": "dairy",
+      "product_en": "Appenzeller® cheese",
+      "product_cn": "Appenzeller® 起司"
+    },
+    {
+      "product": "Dessert",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 0.89,
+      "original_price": 1.19,
+      "discount": "-25%",
+      "detail": "Versch. Sorten; je 60-g-Gläschen\nkg-Preis 14.83",
+      "image_bbox": [
+        0.0272,
+        0.4938,
+        0.4982,
+        0.7177
+      ],
+      "page": 10,
+      "category": "dairy",
+      "product_en": "Dessert",
+      "product_cn": "甜點"
+    },
+    {
+      "product": "Ravioloni oder Mezzelune",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.69,
+      "original_price": 2.29,
+      "discount": "-26%",
+      "detail": "Versch. Sorten; je 250-g-Packung\nkg-Preis 6.76",
+      "image_bbox": [
+        0.0272,
+        0.2605,
+        0.4982,
+        0.4938
+      ],
+      "page": 10,
+      "category": "instant_food",
+      "product_en": "Ravioloni or Mezzelune",
+      "product_cn": "Ravioloni 或 Mezzelune"
+    },
+    {
+      "product": "Schwäbische Maultaschen",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 1.69,
+      "original_price": 2.49,
+      "discount": "-32%",
+      "detail": "Vom Schwein (Füllung); 12 Stück; 360-g-Packung\nkg-Preis 4.69",
+      "image_bbox": [
+        0.0272,
+        0.063,
+        0.4982,
+        0.2601
+      ],
+      "page": 10,
+      "category": "instant_food",
+      "product_en": "Swabian Maultaschen",
+      "product_cn": "施瓦本 Maultaschen"
+    },
+    {
+      "product": "Vitareform Margarine",
+      "brand": "BELLASAN",
+      "price": 0.59,
+      "original_price": 0.79,
+      "discount": "-25%",
+      "detail": "250-g-Packung\nkg-Preis 2.36",
+      "image_bbox": [
+        0.4998,
+        0.807,
+        0.9687,
+        0.9509
+      ],
+      "page": 11,
+      "category": "dairy",
+      "product_en": "Vitareform margarine",
+      "product_cn": "Vitareform 人造奶油"
+    },
+    {
+      "product": "Heringsfilets",
+      "brand": "ALMARE SEAFOOD",
+      "price": 0.85,
+      "original_price": 1.09,
+      "discount": "-22%",
+      "detail": "Versch. Sorten; je 200-g-Dose\nkg-Preis 4.25",
+      "image_bbox": [
+        0.4998,
+        0.5761,
+        0.9687,
+        0.807
+      ],
+      "page": 11,
+      "category": "pantry",
+      "product_en": "Herring fillets",
+      "product_cn": "鯡魚排"
+    },
+    {
+      "product": "Käse für den Ofen",
+      "brand": "MILSANI",
+      "price": 1.79,
+      "original_price": 2.49,
+      "discount": "-28%",
+      "detail": "Versch. Sorten; je 180-g-Packung\nkg-Preis 9.94",
+      "image_bbox": [
+        0.4998,
+        0.3545,
+        0.9687,
+        0.5761
+      ],
+      "page": 11,
+      "category": "dairy",
+      "product_en": "Cheese for the oven",
+      "product_cn": "烤箱用起司"
+    },
+    {
+      "product": "Zero Sirup",
+      "brand": "ALDI SPORTS",
+      "price": 3.99,
+      "original_price": 5.97,
+      "discount": "-33%",
+      "detail": "Versch. Sorten; je 3 x 66-ml-Flasche = 198 ml\nl-Preis 20.15 (Einzelpreis 1.99, l-Preis 30.15)",
+      "image_bbox": [
+        0.4998,
+        0.0641,
+        0.9687,
+        0.3545
+      ],
+      "page": 11,
+      "category": "drinks",
+      "product_en": "Zero syrup",
+      "product_cn": "Zero 糖漿"
+    },
+    {
+      "product": "Körniges Sauerteigbrot",
+      "brand": "GOLDÄHREN",
+      "price": 0.99,
+      "original_price": 1.29,
+      "discount": "-23%",
+      "detail": "400-g-Packung\nkg-Preis 2.48",
+      "image_bbox": [
+        0.0185,
+        0.7304,
+        0.4957,
+        0.9451
+      ],
+      "page": 11,
+      "category": "bread",
+      "product_en": "Grainy sourdough bread",
+      "product_cn": "顆粒酸種麵包"
+    },
+    {
+      "product": "Ingwer-Tee",
+      "brand": "WESTMINSTER",
+      "price": 0.89,
+      "original_price": 1.19,
+      "discount": "-25%",
+      "detail": "Versch. Sorten; je 25 Beutel; je 45-g-Packung\nkg-Preis 19.78",
+      "image_bbox": [
+        0.0185,
+        0.4972,
+        0.4628,
+        0.7304
+      ],
+      "page": 11,
+      "category": "drinks",
+      "product_en": "Ginger tea",
+      "product_cn": "薑茶"
+    },
+    {
+      "product": "Mini-Tafeln",
+      "brand": "CHOCEUR",
+      "price": 1.99,
+      "original_price": 2.79,
+      "discount": "-28%",
+      "detail": "Versch. Sorten; je 5 x 40 g = 200-g-Packung\nkg-Preis 9.95",
+      "image_bbox": [
+        0.6653,
+        0.0589,
+        0.9815,
+        0.2653
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Mini bars",
+      "product_cn": "迷你巧克力板"
+    },
+    {
+      "product": "Cookies",
+      "brand": "BISCOTTO",
+      "price": 1.29,
+      "original_price": 1.79,
+      "discount": "-27%",
+      "detail": "Versch. Sorten; je 200- bzw. 210-g-Packung\nkg-Preis 6.45 bzw. 6.14",
+      "image_bbox": [
+        0.5146,
+        0.2653,
+        0.9815,
+        0.5131
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Cookies",
+      "product_cn": "餅乾"
+    },
+    {
+      "product": "Salzbrezeln",
+      "brand": "SUN SNACKS",
+      "price": 0.69,
+      "original_price": 0.89,
+      "discount": "-22%",
+      "detail": "250-g-Packung\nkg-Preis 2.76",
+      "image_bbox": [
+        0.5146,
+        0.5131,
+        0.9815,
+        0.7067
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Salted pretzels",
+      "product_cn": "鹽味扭結餅"
+    },
+    {
+      "product": "Premium-Joghurt",
+      "brand": "MILSANI",
+      "price": 1.11,
+      "original_price": 1.47,
+      "discount": "-24%",
+      "detail": "Versch. Sorten; je 3 x 200-g-Becher = 600 g\nkg-Preis 1.85 (Einzelpreis 0.49; kg-Preis 2.45)",
+      "image_bbox": [
+        0.5146,
+        0.7067,
+        0.9815,
+        0.9446
+      ],
+      "page": 12,
+      "category": "dairy",
+      "product_en": "Premium yogurt",
+      "product_cn": "優質優格"
+    },
+    {
+      "product": "Chicken Stripes",
+      "brand": "JACK’S FARM",
+      "price": 2.99,
+      "original_price": 3.99,
+      "discount": "-25%",
+      "detail": "Versch. Sorten; je 400-g-Packung\nkg-Preis 7.48",
+      "image_bbox": [
+        0.0309,
+        0.6647,
+        0.4813,
+        0.9271
+      ],
+      "page": 12,
+      "category": "meat",
+      "product_en": "Chicken stripes",
+      "product_cn": "雞肉條"
+    },
+    {
+      "product": "Olivenvariationen",
+      "brand": "WONNEMEYER",
+      "price": 0.99,
+      "original_price": 1.19,
+      "discount": "-16%",
+      "detail": "Versch. Sorten; je 100-g-Packung\nkg-Preis 9.90",
+      "image_bbox": [
+        0.0309,
+        0.351,
+        0.4936,
+        0.6647
+      ],
+      "page": 12,
+      "category": "pantry",
+      "product_en": "Olive variations",
+      "product_cn": "橄欖多種口味"
+    },
+    {
+      "product": "Küchenkräuter",
+      "brand": "LE GUSTO",
+      "price": 0.89,
+      "original_price": 1.29,
+      "discount": "-31%",
+      "detail": "Gefriergetrocknet; versch. Sorten; je 15- bzw. 25-g-Streuer\nkg-Preis 59.33 bzw. 35.60",
+      "image_bbox": [
+        0.0309,
+        0.098,
+        0.4936,
+        0.351
+      ],
+      "page": 12,
+      "category": "pantry",
+      "product_en": "Kitchen herbs",
+      "product_cn": "廚房香草"
+    },
+    {
+      "product": "Luxus-3-Kammer-Kissen",
+      "brand": "NOVITESSE",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Füllung außen ca.: 200 bzw. je 100 g, 60 % Daunen, 40 % Federn; Füllung innen ca.: 800 bzw. je 400 g Federn; DIN EN 12934:1999; Maße ca.: 80 x 80 cm bzw. je 40 x 80 cm; Bezug außen: 100 % Baumwolle, innen: 100 % Polypropylen",
+      "image_bbox": [
+        0,
+        0.4583,
+        0.4854,
+        0.9155
+      ],
+      "page": 13,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Akku-Heizkissen",
+      "brand": "AMBIANO",
+      "price": 34.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "3 Temperaturstufen; mit Abschaltautomatik und Überhitzungsschutz; inkl. USB-C-Ladekabel; 3 Jahre Garantie;",
+      "image_bbox": [
+        0.5002,
+        0.447,
+        0.9712,
+        0.9504
+      ],
+      "page": 13,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Luxus-Daunendecke",
+      "brand": "NOVITESSE",
+      "price": 69.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Bezug: 100 % Baumwolle; Füllung ca.: 900 g, 60 % Daunen, 40 % Federn, DIN EN 12934:1999; Maße ca.: 135 x 200 cm;",
+      "image_bbox": [
+        0.5002,
+        0.2126,
+        0.9712,
+        0.447
+      ],
+      "page": 13,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Teppich",
+      "brand": "HOME CREATION",
+      "price": 27.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Polyester; rutschfeste Unterseite; für Fußbodenheizung geeignet; Maße ca.: 160 x 220 cm;",
+      "image_bbox": [
+        0.5023,
+        0.4851,
+        1,
+        0.6659
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "LED-Wandspots",
+      "brand": "CASALUX",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Für den Innenbereich; Lichtfarbe: warmweiß, kaltweiß bzw. RGB-Farbwechsel; mit Timer; dimmbar; inkl. Montage-Material, Fernbedienung und USB-C-Ladekabel",
+      "image_bbox": [
+        0.5167,
+        0.0502,
+        1,
+        0.4851
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Socken-Garn oder -Wolle",
+      "brand": "HOME CREATION",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Materialien, teilweise mit metallisierten Fasern; für 1 bzw. 2 Paar Socken; je 2 x 75 g = 150-g-Packung; je 1 x 150-g-Knäuel bzw. je 2 x 100 g = 200-g-Packung\nkg-Preis 26.60 bzw. 19.95",
+      "image_bbox": [
+        0.5167,
+        0.6659,
+        0.9794,
+        0.9481
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Lammfell-Teppich",
+      "brand": "HOME CREATION",
+      "price": 29.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Nutzschicht: 100 % Lammfell; für Fußbodenheizung geeignet; Maße ca.: 60 x 80–90 cm, je Stück",
+      "image_bbox": [
+        0.0354,
+        0.6076,
+        0.4982,
+        0.9481
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Heizsortiment",
+      "brand": "AMBIANO",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 W; aus Mikrofaser; 9 Temperaturstufen; mit Abschaltautomatik und Überhitzungsschutz; für versch. Körperzonen; 3 Jahre Garantie;",
+      "image_bbox": [
+        0.0354,
+        0.2496,
+        0.4982,
+        0.6076
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Steckdosen-Nachtlicht",
+      "brand": "CASALUX",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "8 LEDs; Lichtfarbe: Bernstein; 3 Modi; mit Bewegungsmelder; 2 Jahre Garantie;",
+      "image_bbox": [
+        0.0354,
+        0.0478,
+        0.4982,
+        0.2496
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Soft-Bausteine",
+      "brand": "JELLY BLOX",
+      "price": 15.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "30 Bausteine mit sensorischer Füllung; formbar; Box-Maße: 17 x 34 x 17 cm;",
+      "image_bbox": [
+        0,
+        0.4735,
+        0.4874,
+        0.7289
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Schaumstoff-Bausteine",
+      "brand": "TOYLINO",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Aus EVA-Schaumstoff; Maße: je 20 x 9 x 6 cm; ab 2 Jahren",
+      "image_bbox": [
+        0,
+        0,
+        0.4874,
+        0.3907
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Spielklassiker",
+      "brand": "PROFESSOR PUZZLE",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ab 6 bzw. 8 Jahren;",
+      "image_bbox": [
+        0.5023,
+        0.7604,
+        0.9671,
+        0.9481
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Weihnachts-Vorlesebuch",
+      "brand": null,
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Titel; je 2 bzw. 3 Geschichten; je 56–72 Seiten; ab 3 Jahren;",
+      "image_bbox": [
+        0.5023,
+        0.6111,
+        0.9671,
+        0.7872
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Straßen- oder Rennbahn-Set",
+      "brand": "TOYLINO",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Für den Innen- und Außenbereich; ab 3 Jahren",
+      "image_bbox": [
+        0.5023,
+        0.2449,
+        0.9671,
+        0.6111
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Fahrzeug mit Spielfigur",
+      "brand": "PAW PATROL",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit Abschussvorrichtung und 2 Projektilen; ab 3 Jahren;",
+      "image_bbox": [
+        0.5023,
+        0.0443,
+        0.9671,
+        0.2449
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Guess What 1000-Teile-Puzzle",
+      "brand": null,
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Themen; zum Rätseln; je 70 x 50 cm;",
+      "image_bbox": [
+        0.0149,
+        0.7289,
+        0.4874,
+        0.9481
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Dekorierter Weihnachtsbaum",
+      "brand": "GARDENLINE",
+      "price": 14.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Zuckerhut-Fichte im 21-cm-Kulturtopf mit Jutesack; 20 LEDs; Lichterfarbe: warmweiß; mit Timer; Höhe ca.: 80—90 cm;",
+      "image_bbox": [
+        0.5146,
+        0.0338,
+        1,
+        0.4257
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Weihnachtsdeko oder -Accessoire",
+      "brand": "JES COLLECTION",
+      "price": 1,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Modelle",
+      "image_bbox": [
+        0.5064,
+        0.6916,
+        1,
+        0.9481
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Ski-Socken",
+      "brand": "CRANE",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Materialien; Größen: 23/26–35/38;",
+      "image_bbox": [
+        0.0313,
+        0.7242,
+        0.4961,
+        0.9481
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Winterstiefel",
+      "brand": "LILY & DAN",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Obermaterial aus Textil mit Synthetik, Warmfutter, EVA-Decksohle mit Aluminium-Schicht und Textil bezogen, TPR-Laufsohle; Größen: 31–36;",
+      "image_bbox": [
+        0.0313,
+        0.463,
+        0.4961,
+        0.7242
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Winterstiefel",
+      "brand": "LILY & DAN",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Obermaterial aus Textil mit Synthetik, Warmfutter, EVA-Decksohle mit Aluminium-Schicht und Textil bezogen, TPR-Laufsohle; Größen: 24–29;",
+      "image_bbox": [
+        0.0313,
+        0.2239,
+        0.4961,
+        0.4548
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Taschenschirm",
+      "brand": "LILY & DAN",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Bespannung: 100 % Polyester; Ø: 89 cm;",
+      "image_bbox": [
+        0.0313,
+        0.0443,
+        0.4961,
+        0.2239
+      ],
+      "page": 16,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Haussocken",
+      "brand": "UP2FASHION",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "79 % Baumwolle, 10 % Polyamid, 10 % Polyester, 1 % Elasthan (LYCRA®); Größen: 35/38–43/46",
+      "image_bbox": [
+        0.5043,
+        0.7569,
+        0.9794,
+        0.9481
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Kuschel-Socken",
+      "brand": "UP2FASHION",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "99 % Polyester, 1 % Elasthan (LYCRA®); Größen: 35/38–39/42",
+      "image_bbox": [
+        0.5043,
+        0.5773,
+        0.9692,
+        0.7569
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Fleece-Pyjama",
+      "brand": "UP2FASHION",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Oberteil: 100 % Polyester, Hose: 100 % Baumwolle; Größen: S (36/38) — L (44/46);",
+      "image_bbox": [
+        0.5043,
+        0.2682,
+        0.9692,
+        0.5773
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Fleece-Leggings",
+      "brand": "UP2FASHION",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "94 % Polyester, 6 % Elasthan; Größen: S (36/38) – L (44/46);",
+      "image_bbox": [
+        0.5043,
+        0.0443,
+        0.9692,
+        0.2682
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Unterhemd oder lange Unterhose",
+      "brand": "UP2FASHION",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Baumwolle; Größen: M–XXL;",
+      "image_bbox": [
+        0.0272,
+        0.709,
+        0.4813,
+        0.9481
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Winter-Clogs",
+      "brand": "UP2FASHION",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Obermaterial aus chromfrei gegerbtem Rindveloursleder, Tieffußbett mit chromfrei gegerbtem Leder bezogen; EVA-Laufsohle; Größen: 37–45;",
+      "image_bbox": [
+        0,
+        0.4875,
+        0.4813,
+        0.709
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Poncho-Decke",
+      "brand": "CRANE",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Polyester; Einheitsgröße;",
+      "image_bbox": [
+        0,
+        0.0175,
+        0.4813,
+        0.4058
+      ],
+      "page": 17,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Premium-Badematte",
+      "brand": "NOVITESSE PREMIUM",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Baumwolle; Maße: 50 x 80 cm bzw. je 40 x 60 cm\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5146,
+        0.6134,
+        1,
+        0.9399
+      ],
+      "page": 18,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Bademantel",
+      "brand": "NOVITESSE",
+      "price": 14.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Baumwolle; Größen: S–XL;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5146,
+        0.0187,
+        1,
+        0.5306
+      ],
+      "page": 18,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Premium-Handtücher oder -Duschtuch",
+      "brand": "NOVITESSE PREMIUM",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Baumwolle; Maße: 70 x 140 cm bzw. je 50 x 100 cm\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0313,
+        0.4176,
+        0.4963,
+        0.6459
+      ],
+      "page": 18,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Akku-Leuchte mit Wellenprojektion",
+      "brand": "CASALUX",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "IP44-Spritzwasserschutz; Touch-Schalter; dimmbar; inkl. Fernbedienung und USB-Ladekabel;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0313,
+        0.0187,
+        0.4963,
+        0.4176
+      ],
+      "page": 18,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Tagesdecke",
+      "brand": "NOVITESSE",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Polyester; Maße: 200 x 220 cm;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0,
+        0.4921,
+        0.4835,
+        0.6857
+      ],
+      "page": 19,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Beauty-Box mit LED-Spiegel",
+      "brand": "AMBIANO",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versetzbare Trennwände; 3 Lichtfarben; dimmbar; inkl. USB-Ladekabel und 4 x AAA-Batterien; 3 Jahre Garantie;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0,
+        0,
+        0.4835,
+        0.4093
+      ],
+      "page": 19,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Flüssigwaschmittel",
+      "brand": "TANDIL",
+      "price": 7.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 100 Waschladungen; Preis je Anwendung 0.08\nAnwendungs-Preis 0.08\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.4998,
+        0.6577,
+        0.9687,
+        0.9271
+      ],
+      "page": 19,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Seiden-Kissenbezüge",
+      "brand": "LACURA",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vorderseite: 100 % Seide, Rückseite: 100 % Lyocell; Maße: 40 x 80 cm\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0165,
+        0.6857,
+        0.4835,
+        0.9493
+      ],
+      "page": 19,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Medizinisches Messgerät",
+      "brand": "AMBIANO",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Medizinprodukt; Oberarm- bzw. Handgelenk-Blutdruckmessgerät: WHO-Anzeige und IHB-Indikator; Ohr- und Stirnthermometer: Warnanzeige zur Reinigung der Messspitze;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.4998,
+        0.0706,
+        0.9687,
+        0.6459
+      ],
+      "page": 19,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Zuckerhut-Fichte",
+      "brand": "GARDENLINE",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Im 17-cm-Pappbecher;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.1156,
+        0.4758,
+        0.5023,
+        0.6997
+      ],
+      "page": 20,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Scheiben-Enteiser",
+      "brand": "RIDE+GO",
+      "price": 2.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "750-ml-Flasche\nl-Preis 3.59\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5496,
+        0.2624,
+        0.9877,
+        0.47
+      ],
+      "page": 20,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Waschmaschinen-Pfleger",
+      "brand": "TANDIL",
+      "price": 2.89,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gegen Kalk, Schmutz und Gerüche; 2 x 250-ml-Flasche = 500-ml-Packung\nl-Preis 5.78\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5496,
+        0.0478,
+        0.9877,
+        0.2624
+      ],
+      "page": 20,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Toilettenpapier",
+      "brand": "GLÜCKSBLATT",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "3-lagig; 16 Rollen à 150 Blatt;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0375,
+        0.2437,
+        0.5023,
+        0.4606
+      ],
+      "page": 20,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Einmal-Handschuhe",
+      "brand": "POWER FORCE",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Nitril; puderfrei; Größen: S–L; 100 Stück;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0375,
+        0.0525,
+        0.5023,
+        0.2437
+      ],
+      "page": 20,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Leichtsteppmantel",
+      "brand": "UP2FASHION",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Oberstoff: 100 % Polyamid, Futter und Füllung: 100 % Polyester, Kapuzen-Futter: 100 % Polyester (Teddy-Fleece); Größen: S (36/38) – L (44/46);\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0,
+        0.5108,
+        0.4854,
+        0.9504
+      ],
+      "page": 21,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Cardigan",
+      "brand": "UP2FASHION",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "70 % Acryl, 25 % Polyester, 5 % Elasthan; Größen: S (36/38) – L (44/46);\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0,
+        0,
+        0.4854,
+        0.428
+      ],
+      "page": 21,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Midi- oder Maxi-Slips",
+      "brand": "nur die",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "95 % Baumwolle, 5 % Elasthan; Größen: M (40/42) – L (44/46) bzw. M (40/42) – XL (48/50); UVP 9.99\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5023,
+        0.6822,
+        0.965,
+        0.9411
+      ],
+      "page": 21,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Baumwoll-BH",
+      "brand": "nur die",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "84 % Baumwolle, 16 % Elasthan; frontseitig verstellbare Träger; Größen: 85B–95C; UVP 14.99;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5023,
+        0.4863,
+        0.965,
+        0.6822
+      ],
+      "page": 21,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Thermo-Strumpfhose",
+      "brand": "UP2FASHION",
+      "price": 1.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "90 % Polyester, 10 % Elasthan; Größen: S (38/40) – L (46/48);\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5023,
+        0.0525,
+        0.965,
+        0.3778
+      ],
+      "page": 21,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Thermo-Jeans",
+      "brand": "UP2FASHION",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "98 % Baumwolle, 2 % Elasthan; Größen: 48–56;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5146,
+        0.0653,
+        1,
+        0.4
+      ],
+      "page": 22,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Pyjama",
+      "brand": "UP2FASHION",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "95 % Modal, 5 % Elasthan; Größen: S (36/38) – L (44/46), je Set\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.5146,
+        0.484,
+        1,
+        0.9504
+      ],
+      "page": 22,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Leder-Handschuhe",
+      "brand": "UP2FASHION",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Oberstoff: 100 % Schafsleder, Futter: 100 % Wolle; Größen: 7–10;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0292,
+        0.6787,
+        0.5023,
+        0.9504
+      ],
+      "page": 22,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Grobstrick-Socken",
+      "brand": "UP2FASHION",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "85 % Baumwolle, 13 % Polyamid, 2 % Elasthan (LYCRA®); Größen: 39/42 – 43/46\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0292,
+        0.4618,
+        0.5023,
+        0.695
+      ],
+      "page": 22,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Pyjama",
+      "brand": "UP2FASHION",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "100 % Baumwolle; Größen: M–XL;\nVerfügbar ab 26.11.2026",
+      "image_bbox": [
+        0.0292,
+        0.0175,
+        0.5023,
+        0.4618
+      ],
+      "page": 22,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Freiarm-Nähmaschine Simple 3223Y",
+      "brand": "SINGER",
+      "price": 139,
+      "original_price": null,
+      "discount": null,
+      "detail": "Verstellbare Stichlänge; 3 Einstellräder: Stichwahl-, Stichbreiten- und Stichlängenrad; extra hoher Nähfußhub; LED-Beleuchtung; Anschiebetisch mit Zubehörbox; inkl. Fußpedal; 3 Jahre Garantie; UVP 259.00;\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0,
+        0.1784,
+        0.4874,
+        0.6566
+      ],
+      "page": 23,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Magnifica S ECAM21.113.B Kaffeevollautomat",
+      "brand": "DELONGHI",
+      "price": 239,
+      "original_price": null,
+      "discount": null,
+      "detail": "1450 W; Pumpendruck: 15 bar; extra leises Kegelmahlwerk mit 13 Stufen; Vorbrüh-Aroma-System; für Kaffeebohnen und -pulver geeignet; 250-g-Bohnenbehälter, 1,8-l-Wassertank; Maße: 35,1 x 23,8 x 43 cm; 2 Jahre Garantie; UVP 530.00;\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.5018,
+        0.4595,
+        0.9687,
+        0.9388
+      ],
+      "page": 23,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Glas-Heißluftfritteuse",
+      "brand": "AMBIANO",
+      "price": 59.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "4 voreingestellte Kochprogramme; 40–200 °C; 2,2-l- und 4,2-l-Glasbehälter mit Deckel; 2 Frittiergitter-Einsätze; mit Timer; 3 Jahre Garantie;\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.5018,
+        0,
+        0.9687,
+        0.4478
+      ],
+      "page": 23,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Video-Türklingel",
+      "brand": "BAUHN",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "70°-Sicht; Nachtsicht-Funktion; Aufnahme-Speicherung; inkl. wiederaufladbarer Batterien, USB-C-Ladekabel und Montagematerial; 2 Jahre Garantie;\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0185,
+        0.6601,
+        0.4874,
+        0.9504
+      ],
+      "page": 23,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Margarine",
+      "brand": "RAMA",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "725-g-Packung\nkg-Preis 2.47\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6767,
+        0.7447,
+        0.979,
+        0.9504
+      ],
+      "page": 24,
+      "category": "dairy",
+      "product_en": "Margarine",
+      "product_cn": "人造奶油"
+    },
+    {
+      "product": "Käsescheiben",
+      "brand": "MILRAM",
+      "price": 2.59,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 260-g-Packung\nkg-Preis 9.96\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6767,
+        0.4233,
+        0.979,
+        0.7447
+      ],
+      "page": 24,
+      "category": "dairy",
+      "product_en": "Cheese slices",
+      "product_cn": "起司片"
+    },
+    {
+      "product": "Paradiescreme",
+      "brand": "DR. OETKER",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 180-, 198- bzw. 222-g-Packung\nkg-Preis 11.06, 10.05 bzw. 8.96\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6767,
+        0.1271,
+        0.979,
+        0.4233
+      ],
+      "page": 24,
+      "category": "pantry",
+      "product_en": "Paradise cream",
+      "product_cn": "天堂奶油"
+    },
+    {
+      "product": "Mundspülung",
+      "brand": "LISTERINE",
+      "price": 6.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; 500- + 600-ml-Flasche = 1,1 l-Packung\nl-Preis 5.90\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3476,
+        0.7627,
+        0.6725,
+        0.9481
+      ],
+      "page": 24,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Spezi",
+      "brand": "PAULANER",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 6 x 330 ml = 1,98-l-Packung\nl-Preis 2.02; zzgl. Pfand 6 x 0.25 = 1.50\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3476,
+        0.4187,
+        0.6725,
+        0.7627
+      ],
+      "page": 24,
+      "category": "drinks",
+      "product_en": "Spezi",
+      "product_cn": "Spezi"
+    },
+    {
+      "product": "Kräuter- oder Früchtetee",
+      "brand": "TEEKANNE",
+      "price": 2.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 50 Beutel; 112,5- bzw. 150-g-Packung\nkg-Preis 20.36 bzw. 15.27\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3476,
+        0.1271,
+        0.6725,
+        0.4187
+      ],
+      "page": 24,
+      "category": "drinks",
+      "product_en": "Herbal or fruit tea",
+      "product_cn": "草本茶或果香茶"
+    },
+    {
+      "product": "Gulasch",
+      "brand": "MEINE METZGEREI",
+      "price": 10.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vom Rind; flüssig gewürzt; 800-g-Packung\nkg-Preis 13.74\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0309,
+        0.7055,
+        0.3373,
+        0.9481
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Goulash",
+      "product_cn": "燉牛肉"
+    },
+    {
+      "product": "Hähnchen-Brustfilet-Teilstücke",
+      "brand": "MEINE METZGEREI",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "1,5-kg-Packung\nkg-Preis 8.66\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0309,
+        0.4571,
+        0.3373,
+        0.7055
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Chicken breast fillet pieces",
+      "product_cn": "雞胸肉分切塊"
+    },
+    {
+      "product": "Schwarzwälder Schinken",
+      "brand": "GUT DREI EICHEN",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vom Schwein; geräuchert; 250-g-Packung\nkg-Preis 9.96\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0309,
+        0.1271,
+        0.3373,
+        0.4571
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Black Forest ham",
+      "product_cn": "黑森林火腿"
+    },
+    {
+      "product": "Ganze Bohnen",
+      "brand": "JACOBS",
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 1-kg-Packung\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6602,
+        0.6904,
+        0.9589,
+        0.9481
+      ],
+      "page": 25,
+      "category": "drinks",
+      "product_en": "Whole beans",
+      "product_cn": "整顆咖啡豆"
+    },
+    {
+      "product": "Braten-Aufschnitt",
+      "brand": "STEINHAUS",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 120-g-Packung\nkg-Preis 14.92\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6602,
+        0.4653,
+        0.9589,
+        0.6904
+      ],
+      "page": 25,
+      "category": "meat",
+      "product_en": "Roast cold cuts",
+      "product_cn": "烤肉冷切片"
+    },
+    {
+      "product": "Camembert L’Aromatique",
+      "brand": "PRÉSIDENT",
+      "price": 2.59,
+      "original_price": null,
+      "discount": null,
+      "detail": "250-g-Packung\nkg-Preis 10.36\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6602,
+        0.2496,
+        0.9589,
+        0.4233
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Camembert L'Aromatique",
+      "product_cn": "卡門貝爾 L'Aromatique"
+    },
+    {
+      "product": "Samt",
+      "brand": "SCHWARTAU",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 270-g-Glas\nkg-Preis 7.37\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6602,
+        0.056,
+        0.9589,
+        0.2496
+      ],
+      "page": 25,
+      "category": "pantry",
+      "product_en": "Samt",
+      "product_cn": "Samt"
+    },
+    {
+      "product": "Cheestrings®",
+      "brand": "CHEESTRINGS",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mozzarella, schnittfest; 4 x 20 g = 80-g-Packung\nkg-Preis 22.38\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3414,
+        0.7494,
+        0.6499,
+        0.9481
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Cheestrings®",
+      "product_cn": "Cheestrings®"
+    },
+    {
+      "product": "Advents-Eier",
+      "brand": "LANDFREUDE",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Bunte Eier gekocht; aus Bodenhaltung; Güteklasse A; Gewichtsklasse siehe Etikett; 6 Stück;\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3414,
+        0.4408,
+        0.6499,
+        0.7494
+      ],
+      "page": 25,
+      "category": "eggs",
+      "product_en": "Advent Eggs",
+      "product_cn": "降臨節雞蛋"
+    },
+    {
+      "product": "Milch-Schnitte®",
+      "brand": "FERRERO",
+      "price": 1.39,
+      "original_price": null,
+      "discount": null,
+      "detail": "1 Riegel gratis; 5 x 28-g-Riegel = 140-g-Packung\nkg-Preis 9.93\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3414,
+        0.2414,
+        0.6602,
+        0.4408
+      ],
+      "page": 25,
+      "category": "sweets_snacks",
+      "product_en": "Milch-Schnitte®",
+      "product_cn": "Milch-Schnitte®"
+    },
+    {
+      "product": "Joghurt",
+      "brand": "WEIHENSTEPHAN",
+      "price": 0.89,
+      "original_price": null,
+      "discount": null,
+      "detail": "1,5 % bzw. 3,5 % Fett; je 500-g-Becher\nkg-Preis 1.78\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0103,
+        0.7195,
+        0.327,
+        0.9481
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Yogurt",
+      "product_cn": "優格"
+    },
+    {
+      "product": "Löffelglück",
+      "brand": "DR. OETKER",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 500-g-Becher\nkg-Preis 3.98\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0103,
+        0.4653,
+        0.327,
+        0.7195
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Löffelglück",
+      "product_cn": "Löffelglück"
+    },
+    {
+      "product": "Froop",
+      "brand": "MÜLLER",
+      "price": 0.39,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 150-g-Becher\nkg-Preis 2.60\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0165,
+        0.2146,
+        0.327,
+        0.4653
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Froop",
+      "product_cn": "Froop"
+    },
+    {
+      "product": "Toblerone",
+      "brand": "TOBLERONE",
+      "price": 1.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 100-g-Packung\nkg-Preis 14.90\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.675,
+        0.5854,
+        0.9835,
+        0.7172
+      ],
+      "page": 26,
+      "category": "sweets_snacks",
+      "product_en": "Toblerone",
+      "product_cn": "Toblerone"
+    },
+    {
+      "product": "Magnum® Bonbon",
+      "brand": "LANGNESE",
+      "price": 3.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 12 x 17 ml = 204-ml-Becher\nl-Preis 18.58\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.675,
+        0.3615,
+        0.9835,
+        0.5854
+      ],
+      "page": 26,
+      "category": "sweets_snacks",
+      "product_en": "Magnum® Bonbon",
+      "product_cn": "Magnum® Bonbon"
+    },
+    {
+      "product": "Saltletts",
+      "brand": "LORENZ",
+      "price": 1.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 100-, 130- bzw. 150-g-Packung\nkg-Preis 14.90, 11.46 bzw. 9.93\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.675,
+        0.7172,
+        0.9835,
+        0.9516
+      ],
+      "page": 26,
+      "category": "sweets_snacks",
+      "product_en": "Saltletts",
+      "product_cn": "Saltletts"
+    },
+    {
+      "product": "Vegetarische Vielfalt",
+      "brand": "VALESS",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 160- bzw. 180-g-Packung\nkg-Preis 12.44 bzw. 11.06\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.675,
+        0.0554,
+        0.9835,
+        0.3615
+      ],
+      "page": 26,
+      "category": "meat",
+      "product_en": "Vegetarian variety",
+      "product_cn": "素食多樣組合"
+    },
+    {
+      "product": "Spare Ribs",
+      "brand": "BBQ",
+      "price": 8.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vom Schwein; mariniert; vorgegart; versch. Gewichte, z. B. 1000 g\nkg-Preis 8.99\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3571,
+        0.4909,
+        0.6594,
+        0.7358
+      ],
+      "page": 26,
+      "category": "meat",
+      "product_en": "Spare Ribs",
+      "product_cn": "肋排"
+    },
+    {
+      "product": "Geräucherte Lachsforelle",
+      "brand": "GOURMET FINEST CUISINE",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ganz; ausgenommen; versch. Gewichte, z. B. 727 g\nkg-Preis 10.99\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3571,
+        0.2271,
+        0.6594,
+        0.4909
+      ],
+      "page": 26,
+      "category": "seafood",
+      "product_en": "Smoked salmon trout",
+      "product_cn": "煙燻鮭鱒魚"
+    },
+    {
+      "product": "Senfsauce",
+      "brand": "Wolfram Berge",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 85-ml-Glas\nl-Preis 35.18\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3571,
+        0.0554,
+        0.6594,
+        0.2271
+      ],
+      "page": 26,
+      "category": "pantry",
+      "product_en": "Mustard sauce",
+      "product_cn": "芥末醬"
+    },
+    {
+      "product": "Champagner brut",
+      "brand": "VEUVE MONSIGNY",
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Frankreich; 0,375-l-Flasche\nl-Preis 26.64\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0334,
+        0.3434,
+        0.3357,
+        0.5521
+      ],
+      "page": 26,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Flammkuchen",
+      "brand": "ORIGINAL WAGNER",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 300- bzw. 320-g-Packung\nkg-Preis 5.97\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0334,
+        0.0554,
+        0.3357,
+        0.3434
+      ],
+      "page": 26,
+      "category": "instant_food",
+      "product_en": "Tarte flambée",
+      "product_cn": "火焰烤餅"
+    },
+    {
+      "product": "Weihnachtsmischung",
+      "brand": "MILKA",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "210-g-Packung\nkg-Preis 23.76\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3394,
+        0.3125,
+        0.6458,
+        0.6146
+      ],
+      "page": 27,
+      "category": "sweets_snacks",
+      "product_en": "Christmas mix",
+      "product_cn": "聖誕綜合"
+    },
+    {
+      "product": "Xmas Mix",
+      "brand": "HARIBO",
+      "price": 3.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "500-g-Packung\nkg-Preis 6.98\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3394,
+        0.0793,
+        0.6458,
+        0.3125
+      ],
+      "page": 27,
+      "category": "sweets_snacks",
+      "product_en": "Xmas Mix",
+      "product_cn": "聖誕綜合"
+    },
+    {
+      "product": "Lungo Fortemente",
+      "brand": "BARISSIMO",
+      "price": 13.98,
+      "original_price": 20.97,
+      "discount": "-33%",
+      "detail": "3 x 44 Kapseln; 3 x 242-g-Packung = 726 g; (Einzelpreis: 6.99)\nkg-Preis 19.26\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6648,
+        0.1481,
+        0.9692,
+        0.407
+      ],
+      "page": 27,
+      "category": "drinks",
+      "product_en": "Lungo Fortemente",
+      "product_cn": "Lungo Fortemente"
+    },
+    {
+      "product": "Kleine Kuchen",
+      "brand": "DR. OETKER",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 4 x 35 g = 140-g-Packung\nkg-Preis 14.21\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6648,
+        0.7522,
+        0.9692,
+        0.9481
+      ],
+      "page": 27,
+      "category": "sweets_snacks",
+      "product_en": "Small cakes",
+      "product_cn": "小蛋糕"
+    },
+    {
+      "product": "Crema",
+      "brand": "BARISSIMO",
+      "price": 53.94,
+      "original_price": 71.92,
+      "discount": "-25%",
+      "detail": "Ganze Bohnen; 8 x 1-kg-Packung = 8 kg; (Einzelpreis: 8.99)\nkg-Preis 6.74\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.6648,
+        0.5061,
+        0.9692,
+        0.7522
+      ],
+      "page": 27,
+      "category": "drinks",
+      "product_en": "Crema",
+      "product_cn": "Crema"
+    },
+    {
+      "product": "Bunte Sahne-Platte oder Unsere Klassiker",
+      "brand": "CONDITOREI COPPENRATH & WIESE",
+      "price": 8.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 780- bzw. 800-g-Packung\nkg-Preis 11.24\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.3394,
+        0.6146,
+        0.6458,
+        0.9516
+      ],
+      "page": 27,
+      "category": "bread",
+      "product_en": "Colorful cream platter or Our classics",
+      "product_cn": "彩色奶油蛋糕拼盤或經典系列"
+    },
+    {
+      "product": "Duplo-Weihnachtsmann",
+      "brand": "FERRERO",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "75-g-Figur\nkg-Preis 39.87\nVerfügbar ab 27.11.2026",
+      "image_bbox": [
+        0.0165,
+        0.7405,
+        0.327,
+        0.9481
+      ],
+      "page": 27,
+      "category": "sweets_snacks",
+      "product_en": "Duplo Christmas Santa",
+      "product_cn": "Duplo 聖誕老人"
+    },
+    {
+      "product": "Baumstamm",
+      "brand": "WINTERTRAUM",
+      "price": 1.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "100-g-Packung\nkg-Preis 12.90",
+      "image_bbox": [
+        0.0329,
+        0.0443,
+        0.496,
+        0.2194
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Tree trunk",
+      "product_cn": "樹幹"
+    },
+    {
+      "product": "Schokoladen-Kränze",
+      "brand": "WINTERTRAUM",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "200-g-Packung\nkg-Preis 8.95",
+      "image_bbox": [
+        0.0329,
+        0.2194,
+        0.496,
+        0.3605
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Chocolate wreaths",
+      "product_cn": "巧克力花環"
+    },
+    {
+      "product": "Edelmarzipan- oder -Nougathappen",
+      "brand": "WINTERTRAUM",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 10 Stück; je 125-g-Packung\nkg-Preis 15.92",
+      "image_bbox": [
+        0.1032,
+        0.7219,
+        0.4837,
+        0.9542
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Edelmarzipan or nougat bites",
+      "product_cn": "Edelmarzipan 或牛軋糖小塊"
+    },
+    {
+      "product": "Edelmarzipan-Brote",
+      "brand": "WINTERTRAUM",
+      "price": 2.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "200-g-Packung\nkg-Preis 13.45",
+      "image_bbox": [
+        0.1032,
+        0.5014,
+        0.4837,
+        0.7219
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Edelmarzipan loaves",
+      "product_cn": "Edelmarzipan 小條"
+    },
+    {
+      "product": "Lebkuchen-Herzen",
+      "brand": "WINTERTRAUM",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 300-g-Packung\nkg-Preis 9.97",
+      "image_bbox": [
+        0.5105,
+        0.4805,
+        0.9815,
+        0.6974
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Lebkuchen hearts",
+      "product_cn": "Lebkuchen 愛心"
+    },
+    {
+      "product": "Schokokugeln",
+      "brand": "MOSER ROTH",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 150-g-Packung\nkg-Preis 16.60",
+      "image_bbox": [
+        0.5105,
+        0.2717,
+        0.9815,
+        0.4805
+      ],
+      "page": 28,
+      "category": "sweets_snacks",
+      "product_en": "Chocolate balls",
+      "product_cn": "巧克力球"
+    },
+    {
+      "product": "Luftstrom-Haarglätter",
+      "brand": "Ambiano",
+      "price": 24.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "1200 W; 3 Temperatur- und 2 Gebläsestufen; Auto-Pause-Funktion; LCD-Anzeige; 3 Jahre Garantie;\nVerfügbar ab 28.11.2026",
+      "image_bbox": [
+        0.0236,
+        0.0152,
+        0.4838,
+        0.6064
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "5-in-1-Hairstyler",
+      "brand": "AMBIANO",
+      "price": 39.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "1500 W; starker, gleichmäßiger Luftstrom; Ionen-Technologie; 3 Temperatur- und 2 Gebläsestufen; 5 Wechselaufsätze; 360°-Drehkabel; 3 Jahre Garantie;\nVerfügbar ab 28.11.2026",
+      "image_bbox": [
+        0.4838,
+        0.1633,
+        0.9794,
+        0.5913
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Marzipan-Kartoffeln",
+      "brand": "WINTERTRAUM",
+      "price": 1.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "125-g-Packung\nkg-Preis 11.92",
+      "image_bbox": [
+        0.5043,
+        0.6006,
+        1,
+        0.7778
+      ],
+      "page": 30,
+      "category": "sweets_snacks",
+      "product_en": "Marzipan potatoes",
+      "product_cn": "杏仁膏馬鈴薯"
+    },
+    {
+      "product": "Schoko-Weihnachtsmann",
+      "brand": "WINTERTRAUM",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "110-g-Figur\nkg-Preis 9.00",
+      "image_bbox": [
+        0.5043,
+        0.3825,
+        1,
+        0.6006
+      ],
+      "page": 30,
+      "category": "sweets_snacks",
+      "product_en": "Chocolate Santa Claus",
+      "product_cn": "巧克力聖誕老人"
+    },
+    {
+      "product": "Advents-Kalender",
+      "brand": "WINTERTRAUM",
+      "price": 1.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Motive; 24 Vollmilch-Schokoladenfiguren; je 75-g-Packung\nkg-Preis 17.20",
+      "image_bbox": [
+        0.019,
+        0.6987,
+        0.4797,
+        0.9319
+      ],
+      "page": 30,
+      "category": "sweets_snacks",
+      "product_en": "Advent calendar",
+      "product_cn": "降臨日曆"
+    },
+    {
+      "product": "Choco Lolly",
+      "brand": "WINTERTRAUM",
+      "price": 1.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "10 x 15 g = 150-g-Packung\nkg-Preis 11.27",
+      "image_bbox": [
+        0.019,
+        0.4198,
+        0.4797,
+        0.6262
+      ],
+      "page": 30,
+      "category": "sweets_snacks",
+      "product_en": "Choco Lolly",
+      "product_cn": "Choco Lolly"
+    },
+    {
+      "product": "Mini-Schokofiguren",
+      "brand": "WINTERTRAUM",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Formen; je 125-g-Packung\nkg-Preis 15.92",
+      "image_bbox": [
+        0.5043,
+        0.7778,
+        0.965,
+        0.9493
+      ],
+      "page": 30,
+      "category": "sweets_snacks",
+      "product_en": "Mini chocolate figures",
+      "product_cn": "迷你巧克力造型"
+    },
+    {
+      "product": "Bio-Käsescheiben",
+      "brand": "NUR NUR NATUR",
+      "price": 2.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 150-g-Packung\nkg-Preis 15.27",
+      "image_bbox": [
+        0.0206,
+        0.723,
+        0.4422,
+        0.9493
+      ],
+      "page": 31,
+      "category": "dairy",
+      "product_en": "Organic cheese slices",
+      "product_cn": "有機起司片"
+    },
+    {
+      "product": "Bio-Joghurt",
+      "brand": "NUR NUR NATUR",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "400-g-Becher\nkg-Preis 2.48",
+      "image_bbox": [
+        0.0206,
+        0.5341,
+        0.4422,
+        0.723
+      ],
+      "page": 31,
+      "category": "dairy",
+      "product_en": "Organic yogurt",
+      "product_cn": "有機優格"
+    },
+    {
+      "product": "Bio-Dinkelmehl",
+      "brand": "NUR NUR NATUR",
+      "price": 1.25,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 1-kg-Packung\nkg-Preis 1.25",
+      "image_bbox": [
+        0.4895,
+        0.7394,
+        0.9646,
+        0.9493
+      ],
+      "page": 31,
+      "category": "pantry",
+      "product_en": "Organic spelt flour",
+      "product_cn": "有機斯佩爾特麵粉"
+    },
+    {
+      "product": "Bio-Bergbauern-Weichkäse",
+      "brand": "NUR NUR NATUR",
+      "price": 3.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 200-g-Packung\nkg-Preis 18.45",
+      "image_bbox": [
+        0.4895,
+        0.5516,
+        0.9646,
+        0.7394
+      ],
+      "page": 31,
+      "category": "dairy",
+      "product_en": "Organic Bergbauern soft cheese",
+      "product_cn": "有機 Bergbauern 軟質起司"
+    },
+    {
+      "product": "Bio-Apfelsaft",
+      "brand": "NUR NUR NATUR",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "0,75-l-Flasche\nl-Preis 2.65",
+      "image_bbox": [
+        0.4998,
+        0.3324,
+        0.9646,
+        0.5656
+      ],
+      "page": 31,
+      "category": "drinks",
+      "product_en": "Organic apple juice",
+      "product_cn": "有機蘋果汁"
+    },
+    {
+      "product": "Bio-Fruchtmus",
+      "brand": "NUR NUR NATUR",
+      "price": 1.15,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 360-g-Glas\nkg-Preis 3.19",
+      "image_bbox": [
+        0.4998,
+        0,
+        0.9646,
+        0.3324
+      ],
+      "page": 31,
+      "category": "pantry",
+      "product_en": "Organic fruit puree",
+      "product_cn": "有機果泥"
+    },
+    {
+      "product": "Bio-Sauerteig-Vollkorn-Krusti",
+      "brand": "NUR NUR NATUR",
+      "price": 0.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Weizen-Sauerteig-Brötchen;\nkg-Preis 5.44",
+      "image_bbox": [
+        0.0206,
+        0.2612,
+        0.4833,
+        0.5341
+      ],
+      "page": 31,
+      "category": "bread",
+      "product_en": "Organic sourdough wholegrain Krusti",
+      "product_cn": "有機酸種全麥 Krusti"
+    },
+    {
+      "product": "Bio-Tomatensauce",
+      "brand": "NUR NUR NATUR",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 325-ml-Glas\nl-Preis 6.12",
+      "image_bbox": [
+        0.0334,
+        0.1702,
+        0.4982,
+        0.3883
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Organic tomato sauce",
+      "product_cn": "有機番茄醬"
+    },
+    {
+      "product": "Bio-Dinkel-Spaghetti",
+      "brand": "NUR NUR NATUR",
+      "price": 1.45,
+      "original_price": null,
+      "discount": null,
+      "detail": "500-g-Packung\nkg-Preis 2.90",
+      "image_bbox": [
+        0.0334,
+        0.3883,
+        0.4982,
+        0.5609
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Organic spelt spaghetti",
+      "product_cn": "有機斯佩爾特義大利麵"
+    },
+    {
+      "product": "Bio-Gewürzgurken",
+      "brand": "NUR NUR NATUR",
+      "price": 2.65,
+      "original_price": null,
+      "discount": null,
+      "detail": "670-g-Glas; Abtropfgewicht 360 g\nkg-Preis 7.36 / Abtropfgewicht",
+      "image_bbox": [
+        0.0334,
+        0.5609,
+        0.492,
+        0.7521
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Organic spiced gherkins",
+      "product_cn": "有機香料小黃瓜"
+    },
+    {
+      "product": "Bio-Tempeh",
+      "brand": "NUR NUR NATUR",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; je 200-g-Packung\nkg-Preis 14.95",
+      "image_bbox": [
+        0.0334,
+        0.7521,
+        0.492,
+        0.9434
+      ],
+      "page": 32,
+      "category": "meat",
+      "product_en": "Organic tempeh",
+      "product_cn": "有機天貝"
+    },
+    {
+      "product": "Bio-Sauerkraut oder -Rotkohl",
+      "brand": "NUR NUR NATUR",
+      "price": 1.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 550-g-Glas; Abtropfgewicht 520 g\nkg-Preis 2.87 / Abtropfgewicht",
+      "image_bbox": [
+        0.492,
+        0.6227,
+        0.9874,
+        0.9434
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Organic sauerkraut or red cabbage",
+      "product_cn": "有機酸菜或紫高麗菜"
+    },
+    {
+      "product": "Bio-Oliven",
+      "brand": "NUR NUR NATUR",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten; mariniert; je 175-g-Glas\nkg-Preis 17.09",
+      "image_bbox": [
+        0.5137,
+        0.0793,
+        0.9724,
+        0.3125
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Organic olives",
+      "product_cn": "有機橄欖"
+    }
+  ]
+}

@@ -1,0 +1,4884 @@
+{
+  "entries": {
+    "2023 Faustino Rioja Crianza DOCa": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Actimel Drink": {
+      "category": "dairy",
+      "en": "Actimel drink",
+      "zh": "Actimel 飲品",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Adelholzener Mineralwasser": {
+      "category": "drinks",
+      "en": "Adelholzener mineral water",
+      "zh": "Adelholzener 礦泉水",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Advents-Eier | LANDFREUDE": {
+      "category": "eggs",
+      "en": "Advent Eggs",
+      "zh": "降臨節雞蛋",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Advents-Kalender | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Advent calendar",
+      "zh": "降臨日曆",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Advents-Schinken": {
+      "category": "meat",
+      "en": "Advent Ham",
+      "zh": "待降節火腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Adventskranz": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Adventskranz ungeschmückt": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ägypten Nilkreuzfahrt & Baden": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Akazienhonig | Deluxe": {
+      "category": "pantry",
+      "en": "Acacia honey",
+      "zh": "金合歡蜂蜜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "albi Fruchtsaft oder -nektar": {
+      "category": "drinks",
+      "en": "albi Fruit Juice or Nectar",
+      "zh": "albi 果汁或果汁飲料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Almdudler,": {
+      "category": "drinks",
+      "en": "Almdudler",
+      "zh": "Almdudler",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "alpro Soya Joghurtalternative,": {
+      "category": "dairy",
+      "en": "alpro soya yogurt alternative",
+      "zh": "alpro 大豆優格替代品",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Amarone della Valpolicella DOCG, Rotwein, halbtrocken": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Amaryllis im Weihnachtsglas": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Amaryllis in Keramik": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ananas, lose": {
+      "category": "fruits",
+      "en": "Pineapple, loose",
+      "zh": "鳳梨，散裝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Andechser Natur Bio-Naturjogurt": {
+      "category": "dairy",
+      "en": "Andechser Natur organic plain yogurt",
+      "zh": "Andechser Natur 有機原味優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Andechser Natur Bio-Speisequarkzubereitung": {
+      "category": "dairy",
+      "en": "Andechser Natur organic quark preparation",
+      "zh": "Andechser Natur 有機夸克乳酪製品",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Anheuser Busch Bud": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Aperol italienischer Aperitif": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Apfel-Schmand-Schnitte": {
+      "category": "bread",
+      "en": "Apple Sour Cream Slices",
+      "zh": "蘋果酸奶油切片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Appassimento Puglia IGP, Rotwein, halbtrocken | Duca di Sasseta": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Appenzeller® Käse | MEINE KÄSETHEKE": {
+      "category": "dairy",
+      "en": "Appenzeller® cheese",
+      "zh": "Appenzeller® 起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Argentinische Rotgarnelen | DELUXE": {
+      "category": "seafood",
+      "en": "Argentinian red shrimp",
+      "zh": "阿根廷紅蝦",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Arla Kærgården": {
+      "category": "dairy",
+      "en": "Arla Kærgården",
+      "zh": "Arla Kærgården",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "ASC Meine Lieblinge Lachs": {
+      "category": "seafood",
+      "en": "ASC Meine Lieblinge Salmon",
+      "zh": "ASC Meine Lieblinge 鮭魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "ASC White Tiger Garnelenring | DELUXE": {
+      "category": "seafood",
+      "en": "ASC White Tiger shrimp ring",
+      "zh": "ASC White Tiger 蝦環",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Augsburger Christkindlmarkt-Glühwein": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Augustiner Lagerbier Hell": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Avocado": {
+      "category": "fruits",
+      "en": "Avocado",
+      "zh": "酪梨",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Avocado, lose": {
+      "category": "fruits",
+      "en": "Avocado, loose",
+      "zh": "酪梨，散裝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Baby-Dry/Pants Premium/Protection | Pampers": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Backfisch/Matjesfilets XXL | Nordsee": {
+      "category": "seafood",
+      "en": "Fried fish/Matjes fillets XXL",
+      "zh": "炸魚/醃鯡魚排 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Backgewürze | Belbake": {
+      "category": "pantry",
+      "en": "Baking spices",
+      "zh": "烘焙香料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Backmischung Käse-Kirsch-Streuselkuchen | DR. OETKER": {
+      "category": "pantry",
+      "en": "Baking mix cheese-cherry crumble cake",
+      "zh": "烘焙預拌粉 起司櫻桃奶酥蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Backoblaten | Hoch": {
+      "category": "pantry",
+      "en": "Baking wafers",
+      "zh": "烘焙威化紙",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Backpulver | Belbake": {
+      "category": "pantry",
+      "en": "Baking powder",
+      "zh": "泡打粉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ballensalat Trio-Mix": {
+      "category": "vegetables",
+      "en": "Ball lettuce Trio-Mix",
+      "zh": "球生菜 Trio-Mix",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Barbarie Entenbrustfilet | Deluxe": {
+      "category": "meat",
+      "en": "Barbarie duck breast fillet",
+      "zh": "Barbarie 鴨胸肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Barbarie-Entenschenkel* oder -Entenbrustfilet*": {
+      "category": "meat",
+      "en": "Barbarie Duck Legs* or Duck Breast Fillets*",
+      "zh": "Barbarie 鴨腿* 或 鴨胸排*",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Barilla Collezione, Al Bronzo, Protein + Pasta-Spezialität aus Hartweizengrieß oder Integrale": {
+      "category": "pantry",
+      "en": "Barilla Collezione, Al Bronzo, Protein + Pasta Specialty made from durum wheat semolina or Integrale",
+      "zh": "Barilla Collezione, Al Bronzo, Protein + 硬質小麥粗粒粉義大利麵或 Integrale",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bauchscheiben | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Belly Slices",
+      "zh": "五花肉片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bauli oder Maxsport Protein Bar Riegel": {
+      "category": "sweets_snacks",
+      "en": "Bauli or Maxsport Protein Bar",
+      "zh": "Bauli 或 Maxsport 蛋白棒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bauli Panettone Classico": {
+      "category": "sweets_snacks",
+      "en": "Bauli Panettone Classico",
+      "zh": "Bauli 潘娜托尼 Classico",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Baumkuchen | Favorina": {
+      "category": "bread",
+      "en": "Baumkuchen",
+      "zh": "年輪蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Baumstamm | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Tree trunk",
+      "zh": "樹幹",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bayern Bad Füssing": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Berchtesgadener Land Knusperjoghurt": {
+      "category": "dairy",
+      "en": "Berchtesgadener Land crunchy yogurt",
+      "zh": "Berchtesgadener Land 脆片優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bergader Käse": {
+      "category": "dairy",
+      "en": "Bergader Cheese",
+      "zh": "Bergader 起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Berliner": {
+      "category": "bread",
+      "en": "Berliner",
+      "zh": "柏林甜甜圈",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bernbacher Pesto oder Pasta-Sauce": {
+      "category": "pantry",
+      "en": "Bernbacher Pesto or Pasta Sauce",
+      "zh": "Bernbacher 青醬或義大利麵醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Betthupferl | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Betthupferl",
+      "zh": "Betthupferl",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bierschinken-Aufschnitt": {
+      "category": "meat",
+      "en": "Beer Ham Cold Cuts",
+      "zh": "啤酒火腿切片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bierstangerl Salami": {
+      "category": "meat",
+      "en": "Bierstangerl Salami",
+      "zh": "Bierstangerl 薩拉米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio Elisen-/Oblaten-Lebkuchen | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Organic Elisen/Oblaten Gingerbread",
+      "zh": "有機 Elisen/威化 薑餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio Gurken, lose": {
+      "category": "vegetables",
+      "en": "Organic cucumbers, loose",
+      "zh": "有機黃瓜，散裝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Apfelsaft | NUR NUR NATUR": {
+      "category": "drinks",
+      "en": "Organic apple juice",
+      "zh": "有機蘋果汁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Bananen": {
+      "category": "fruits",
+      "en": "Organic bananas",
+      "zh": "有機香蕉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Bergbauern-Weichkäse | NUR NUR NATUR": {
+      "category": "dairy",
+      "en": "Organic Bergbauern soft cheese",
+      "zh": "有機 Bergbauern 軟質起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Brokkoli": {
+      "category": "vegetables",
+      "en": "Organic broccoli",
+      "zh": "有機綠花椰菜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Dinkel-Spaghetti | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic spelt spaghetti",
+      "zh": "有機斯佩爾特義大利麵",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Dinkelmehl | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic spelt flour",
+      "zh": "有機斯佩爾特麵粉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Filetsteak": {
+      "category": "meat",
+      "en": "Organic Fillet Steak",
+      "zh": "有機菲力牛排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Fruchtmus | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic fruit puree",
+      "zh": "有機果泥",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Gewürzgurken | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic spiced gherkins",
+      "zh": "有機香料小黃瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Joghurt | NUR NUR NATUR": {
+      "category": "dairy",
+      "en": "Organic yogurt",
+      "zh": "有機優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Käsescheiben | NUR NUR NATUR": {
+      "category": "dairy",
+      "en": "Organic cheese slices",
+      "zh": "有機起司片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Landhähnchen-Schenkel | NUR NUR NATUR": {
+      "category": "meat",
+      "en": "Organic Free-Range Chicken Legs",
+      "zh": "有機放養雞腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Naturland-Zitronen": {
+      "category": "fruits",
+      "en": "Organic Naturland Lemons",
+      "zh": "有機 Naturland 檸檬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Oliven | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic olives",
+      "zh": "有機橄欖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Sauerkraut oder -Rotkohl | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic sauerkraut or red cabbage",
+      "zh": "有機酸菜或紫高麗菜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Sauerteig-Vollkorn-Krusti | NUR NUR NATUR": {
+      "category": "bread",
+      "en": "Organic sourdough wholegrain Krusti",
+      "zh": "有機酸種全麥 Krusti",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Tempeh | NUR NUR NATUR": {
+      "category": "meat",
+      "en": "Organic tempeh",
+      "zh": "有機天貝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Tomatensauce | NUR NUR NATUR": {
+      "category": "pantry",
+      "en": "Organic tomato sauce",
+      "zh": "有機番茄醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bio-Zitronen": {
+      "category": "fruits",
+      "en": "Organic lemons",
+      "zh": "有機檸檬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Blended Scotch Whisky Sherry Cask Finish | Glenalba": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bohrlochfüller | VERSCHLUSSFIX": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Bonne Maman Aufstrich,": {
+      "category": "pantry",
+      "en": "Bonne Maman Spread",
+      "zh": "Bonne Maman 抹醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bourbon Vanille Extrakt Zubereitung | Belbake": {
+      "category": "pantry",
+      "en": "Bourbon Vanilla Extract Preparation",
+      "zh": "波本香草萃取製劑",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bourbon Vanilleschoten | Belbake": {
+      "category": "pantry",
+      "en": "Bourbon vanilla pods",
+      "zh": "波本香草莢",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Braten-Aufschnitt | STEINHAUS": {
+      "category": "meat",
+      "en": "Roast cold cuts",
+      "zh": "烤肉冷切片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Breitsamer Alpenhonig": {
+      "category": "pantry",
+      "en": "Breitsamer Alpine Honey",
+      "zh": "Breitsamer 高山蜂蜜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bresaola della Valtellina g.g.A. | Deluxe": {
+      "category": "meat",
+      "en": "Bresaola della Valtellina g.g.A.",
+      "zh": "Bresaola della Valtellina g.g.A.",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Brotaufstrich | Brunch": {
+      "category": "pantry",
+      "en": "Bread spread",
+      "zh": "麵包抹醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Brotaufstrich | Popp": {
+      "category": "pantry",
+      "en": "Bread Spread",
+      "zh": "麵包抹醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Brunch Brotaufstrich": {
+      "category": "pantry",
+      "en": "Brunch Bread spread",
+      "zh": "Brunch 麵包抹醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bueno | Kinder": {
+      "category": "sweets_snacks",
+      "en": "Bueno",
+      "zh": "Bueno",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bunte Sahne-Platte oder Unsere Klassiker | CONDITOREI COPPENRATH & WIESE": {
+      "category": "bread",
+      "en": "Colorful cream platter or Our classics",
+      "zh": "彩色奶油蛋糕拼盤或經典系列",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Bürger Maultaschen": {
+      "category": "instant_food",
+      "en": "Bürger Maultaschen",
+      "zh": "Bürger Maultaschen",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Butter | Bayernkrone": {
+      "category": "dairy",
+      "en": "Butter",
+      "zh": "奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Buttercroissant": {
+      "category": "bread",
+      "en": "Butter croissant",
+      "zh": "奶油可頌",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Camembert L’Aromatique | PRÉSIDENT": {
+      "category": "dairy",
+      "en": "Camembert L'Aromatique",
+      "zh": "卡門貝爾 L'Aromatique",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Campari Bitter": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cannoli | Deluxe": {
+      "category": "bread",
+      "en": "Cannoli",
+      "zh": "卡諾利",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cantuccini | Deluxe": {
+      "category": "sweets_snacks",
+      "en": "Cantuccini",
+      "zh": "義式脆餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cerealien | Nestlé": {
+      "category": "pantry",
+      "en": "Cereals",
+      "zh": "穀物早餐",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cevapcici": {
+      "category": "meat",
+      "en": "Cevapcici",
+      "zh": "Cevapcici",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Champagner brut | VEUVE MONSIGNY": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Champignons": {
+      "category": "vegetables",
+      "en": "Champignon mushrooms",
+      "zh": "洋菇",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cheestrings® | CHEESTRINGS": {
+      "category": "dairy",
+      "en": "Cheestrings®",
+      "zh": "Cheestrings®",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Chicken Stripes | JACK’S FARM": {
+      "category": "meat",
+      "en": "Chicken stripes",
+      "zh": "雞肉條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Chilischoten | Deluxe": {
+      "category": "pantry",
+      "en": "Chili peppers",
+      "zh": "辣椒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Chilischoten | DELUXE": {
+      "category": "pantry",
+      "en": "Chili peppers",
+      "zh": "辣椒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Chio Tortillas": {
+      "category": "sweets_snacks",
+      "en": "Chio Tortillas",
+      "zh": "Chio 墨西哥玉米餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Chipsfrisch XXL | Funny-Frisch": {
+      "category": "sweets_snacks",
+      "en": "Chipsfrisch XXL",
+      "zh": "Chipsfrisch XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Choco Crossies/Choclait Chips | Nestlé": {
+      "category": "sweets_snacks",
+      "en": "Choco Crossies/Choclait Chips",
+      "zh": "Choco Crossies/Choclait Chips",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Choco Lolly | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Choco Lolly",
+      "zh": "Choco Lolly",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Chocolaterie | Loacker": {
+      "category": "sweets_snacks",
+      "en": "Chocolaterie",
+      "zh": "Chocolaterie",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Christrose": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Clementinen": {
+      "category": "fruits",
+      "en": "Clementines",
+      "zh": "克萊門小柑橘",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Coca-Cola/Fanta/Sprite/Mezzo Mix | Coca-Cola": {
+      "category": "drinks",
+      "en": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
+      "zh": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Coca-Cola®, Fanta®, Sprite® oder MezzoMix® | COCA-COLA": {
+      "category": "drinks",
+      "en": "Coca-Cola®, Fanta®, Sprite® or MezzoMix®",
+      "zh": "Coca-Cola®、Fanta®、Sprite® 或 MezzoMix®",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Collezione | Barilla": {
+      "category": "pantry",
+      "en": "Collezione",
+      "zh": "Collezione",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Cookies | BISCOTTO": {
+      "category": "sweets_snacks",
+      "en": "Cookies",
+      "zh": "餅乾",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Coppenrath& Wiese Meistertorte": {
+      "category": "sweets_snacks",
+      "en": "Coppenrath&Wiese Master Torte",
+      "zh": "Coppenrath&Wiese 大師蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Coppenrath&Wiese Unsere Goldstücke": {
+      "category": "bread",
+      "en": "Coppenrath&Wiese Unsere Goldstücke",
+      "zh": "Coppenrath&Wiese Unsere Goldstücke",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Corona Extra": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Crema | BARISSIMO": {
+      "category": "drinks",
+      "en": "Crema",
+      "zh": "Crema",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Croissant mit Biscoff*": {
+      "category": "bread",
+      "en": "Croissant with Biscoff",
+      "zh": "Biscoff 可頌",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Culinesse XXL | Rama": {
+      "category": "dairy",
+      "en": "Culinesse XXL",
+      "zh": "Culinesse XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "D.E.W. Irish Whiskey | Tullamore": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Danone Actimel": {
+      "category": "dairy",
+      "en": "Danone Actimel",
+      "zh": "Danone Actimel",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Delikatess Leberwurst": {
+      "category": "meat",
+      "en": "Delicacy Liver Sausage",
+      "zh": "精選肝腸",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Deluxe-Woche Räucherlachs, Gnocchi, Hirschbraten | Deluxe": {
+      "category": "other",
+      "en": "Deluxe week smoked salmon, gnocchi, venison roast",
+      "zh": "Deluxe 週 煙燻鮭魚、義式馬鈴薯麵疙瘩、鹿肉烤肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Desinfektion Wäsche-Hygienespüler Himmelsfrische | Reckitt": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dessert | Deluxe": {
+      "category": "dairy",
+      "en": "Dessert",
+      "zh": "甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dessert | GOURMET FINEST CUISINE": {
+      "category": "dairy",
+      "en": "Dessert",
+      "zh": "甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Deutscher Spitzkohl": {
+      "category": "vegetables",
+      "en": "German pointed cabbage",
+      "zh": "德國尖頭高麗菜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Deutschland Rebenthaler Wein": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Deutschland Weingenuss Dornfelder": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Die Ofenfrische | DR. OETKER": {
+      "category": "instant_food",
+      "en": "Die Ofenfrische",
+      "zh": "Die Ofenfrische",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dinkelbrezen-Stangerl": {
+      "category": "bread",
+      "en": "Spelt Pretzel Stangerl",
+      "zh": "斯佩爾特扭結餅 Stangerl",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dinkelvollkornbrot*": {
+      "category": "bread",
+      "en": "Spelt Wholegrain Bread",
+      "zh": "斯佩爾特全麥麵包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Donau-Schinken oder Schwarzgeräuchertes": {
+      "category": "meat",
+      "en": "Danube Ham or Black Smoked",
+      "zh": "多瑙火腿或黑燻肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Döner Croissant": {
+      "category": "bread",
+      "en": "Döner Croissant",
+      "zh": "Döner 可頌",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Doradenfilets | Fischerstolz": {
+      "category": "seafood",
+      "en": "Dorada fillets",
+      "zh": "Dorada魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dr. Oetker Bistro Baguette": {
+      "category": "bread",
+      "en": "Dr. Oetker Bistro Baguette",
+      "zh": "Dr. Oetker Bistro 法棍麵包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dr. Oetker Dessert": {
+      "category": "dairy",
+      "en": "Dr. Oetker Dessert",
+      "zh": "Dr. Oetker 甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dr. Oetker Lübecker Marzipan-Rohmasse": {
+      "category": "pantry",
+      "en": "Dr. Oetker Lübecker Marzipan Raw Mass",
+      "zh": "Dr. Oetker 呂貝克杏仁糖膏生料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dr.Quendt Dresdner Christstollen": {
+      "category": "sweets_snacks",
+      "en": "Dr.Quendt Dresdner Christmas Stollen",
+      "zh": "Dr.Quendt 德勒斯登聖誕史多倫",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Drillinge | KLEINE SCHÄTZE": {
+      "category": "vegetables",
+      "en": "Drillinge",
+      "zh": "Drillinge 小馬鈴薯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Dunkle Pflaumen": {
+      "category": "fruits",
+      "en": "Dark plums",
+      "zh": "深色李子",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Duplo-Weihnachtsmann | FERRERO": {
+      "category": "sweets_snacks",
+      "en": "Duplo Christmas Santa",
+      "zh": "Duplo 聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Genussmomente Appenzeller": {
+      "category": "dairy",
+      "en": "EDEKA Genussmomente Appenzeller",
+      "zh": "EDEKA Genussmomente Appenzeller",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Genussmomente SanLucar Clementinen": {
+      "category": "fruits",
+      "en": "EDEKA Genussmomente SanLucar clementines",
+      "zh": "EDEKA Genussmomente SanLucar 克萊門小柑橘",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Heidelbeeren": {
+      "category": "fruits",
+      "en": "EDEKA Herzstücke blueberries",
+      "zh": "EDEKA Herzstücke 藍莓",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Lafer Selection Fond": {
+      "category": "pantry",
+      "en": "EDEKA Herzstücke Lafer Selection Stock",
+      "zh": "EDEKA Herzstücke Lafer Selection 高湯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Schattenmorellen": {
+      "category": "pantry",
+      "en": "EDEKA Herzstücke Schattenmorello Cherries",
+      "zh": "EDEKA Herzstücke 酸櫻桃",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Tafeltrauben": {
+      "category": "fruits",
+      "en": "EDEKA Herzstücke table grapes",
+      "zh": "EDEKA Herzstücke 食用葡萄",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Weihnachtsmann": {
+      "category": "sweets_snacks",
+      "en": "EDEKA Herzstücke Santa Claus",
+      "zh": "EDEKA Herzstücke 聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Herzstücke Wild-Heidelbeeren": {
+      "category": "other",
+      "en": "EDEKA Herzstücke Wild Blueberries",
+      "zh": "EDEKA Herzstücke 野生藍莓",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Regional Aufschnitt Trio": {
+      "category": "meat",
+      "en": "EDEKA Regional Cold Cuts Trio",
+      "zh": "EDEKA Regional 冷肉切片三拼",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Regional Debrecziner": {
+      "category": "meat",
+      "en": "EDEKA Regional Debrecziner",
+      "zh": "EDEKA Regional Debrecziner",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "EDEKA Regional Käseknacker": {
+      "category": "meat",
+      "en": "EDEKA Regional Käseknacker",
+      "zh": "EDEKA Regional Käseknacker",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edel Marzipan | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Fine Marzipan",
+      "zh": "精選杏仁膏",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edelmarzipan Stollen | Favorina": {
+      "category": "bread",
+      "en": "Fine Marzipan Stollen",
+      "zh": "精選杏仁膏史多倫",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edelmarzipan- oder -Nougathappen | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Edelmarzipan or nougat bites",
+      "zh": "Edelmarzipan 或牛軋糖小塊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edelmarzipan-Brote | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Edelmarzipan loaves",
+      "zh": "Edelmarzipan 小條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edelnougat Schneemänner/ Lübecker Edelmarzipan Weihnachtsmänner | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Fine Nougat Snowmen/ Lübecker Fine Marzipan Santas",
+      "zh": "精選牛軋糖 雪人/ Lübecker 精選杏仁膏 聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Edelnougat-Baumstamm | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Fine Nougat Tree Trunk",
+      "zh": "精選牛軋糖 樹幹",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ehrmann Grand Dessert": {
+      "category": "dairy",
+      "en": "Ehrmann Grand Dessert",
+      "zh": "Ehrmann Grand 甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Eilles oder Idee Kaffee": {
+      "category": "drinks",
+      "en": "Eilles or Idee Coffee",
+      "zh": "Eilles 或 Idee 咖啡",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Eisbär | YOGURETTE": {
+      "category": "sweets_snacks",
+      "en": "Polar Bear",
+      "zh": "北極熊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Eisbergsalat": {
+      "category": "vegetables",
+      "en": "Iceberg lettuce",
+      "zh": "冰山萵苣",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Eiscreme | Mövenpick": {
+      "category": "sweets_snacks",
+      "en": "Ice Cream",
+      "zh": "冰淇淋",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Emmi Caffè oder Matcha Latte": {
+      "category": "drinks",
+      "en": "Emmi Caffè or Matcha Latte",
+      "zh": "Emmi Caffè 或抹茶拿鐵",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Energy Drink | Rockstar": {
+      "category": "drinks",
+      "en": "Energy Drink",
+      "zh": "能量飲料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Erdbeer-Herz": {
+      "category": "sweets_snacks",
+      "en": "Strawberry heart",
+      "zh": "草莓心形",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Erdnussbutter XXL | McEnnedy": {
+      "category": "pantry",
+      "en": "Peanut butter XXL",
+      "zh": "花生醬 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Erdnüsse XXL | Ültje": {
+      "category": "sweets_snacks",
+      "en": "Peanuts XXL",
+      "zh": "花生 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Essig-Essenz | Surig": {
+      "category": "pantry",
+      "en": "Vinegar essence",
+      "zh": "醋精",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "experimenta - Das Science Center in Heilbronn | experimenta": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Extra Bier | Corona": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Family Cappuccino | Krüger": {
+      "category": "drinks",
+      "en": "Family Cappuccino",
+      "zh": "Family 卡布奇諾",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Farbrolle mit Wechselbezügen | Rollfix": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Farbrolle mit Wechselbezügen | ROLLFIX": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Feine Marzipan Rohmasse | Belbake": {
+      "category": "pantry",
+      "en": "Fine Marzipan raw mass",
+      "zh": "細杏仁膏原料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Feingefüllte Kugeln | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Finely Filled Balls",
+      "zh": "細緻夾心球",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Feldsalat": {
+      "category": "vegetables",
+      "en": "Lamb's lettuce",
+      "zh": "羊耳菜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ferrero Rocher": {
+      "category": "sweets_snacks",
+      "en": "Ferrero Rocher",
+      "zh": "Ferrero Rocher",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Feuchttücher | Pampers": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Finesse | DR. OETKER": {
+      "category": "pantry",
+      "en": "Finesse",
+      "zh": "Finesse",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Fischstäbchen/Knusper-Fisch/Backfischstäbchen | Iglo": {
+      "category": "instant_food",
+      "en": "Fish sticks/Crispy fish/Battered fish sticks",
+      "zh": "魚條/酥炸魚/炸魚條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Flammkuchen | ORIGINAL WAGNER": {
+      "category": "instant_food",
+      "en": "Tarte flambée",
+      "zh": "火焰烤餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Flammlachs | DELUXE": {
+      "category": "seafood",
+      "en": "Flame salmon",
+      "zh": "火焰鮭魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Flaschen-Organizer | Bottle Stack": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Flaschen-Organizer | BOTTLE STACK": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Flötzinger Cola-Mix*,": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Fol Epi mit feinem, mild-nussigem Geschmack oder Géramont": {
+      "category": "dairy",
+      "en": "Fol Epi with fine, mild-nutty flavor or Géramont",
+      "zh": "Fol Epi 細緻溫和堅果風味或 Géramont",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frankreich Entrecôte": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Franziskaner Weißbier": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Dorade „Royal“": {
+      "category": "seafood",
+      "en": "Fresh Dorade „Royal“",
+      "zh": "新鮮金頭鯛„Royal“",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Hähnchenoberkeulen | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh chicken upper legs",
+      "zh": "新鮮雞腿上段",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Hähnchenschenkel | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh chicken drumsticks",
+      "zh": "新鮮雞腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Kalbsleber": {
+      "category": "meat",
+      "en": "Fresh Veal Liver",
+      "zh": "新鮮小牛肝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Kalbsleber | Deluxe": {
+      "category": "meat",
+      "en": "Fresh calf's liver",
+      "zh": "新鮮小牛肝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Schweine-Filetmedaillons | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh pork fillet medallions",
+      "zh": "新鮮豬里脊肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Schweine-Rückensteaks | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh pork back steaks",
+      "zh": "新鮮豬背排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frische Schweineschnitzel | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh pork schnitzel",
+      "zh": "新鮮豬肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frischebox für den Kühlschrank | STARBOX": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Frisches Gulasch, gemischt | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh goulash, mixed",
+      "zh": "新鮮燉肉，混合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frisches Hackfleisch, gemischt | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh mixed minced meat",
+      "zh": "新鮮混合絞肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frisches Hähnchen-Geschnetzeltes | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh chicken strips",
+      "zh": "新鮮雞肉絲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frisches Hähnchen-Innenfilet | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh chicken tenderloins",
+      "zh": "新鮮雞里肌",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frisches Schweinefilet | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Fresh pork tenderloin",
+      "zh": "新鮮豬裡脊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frisches Viktoriasee-Barschfilet": {
+      "category": "seafood",
+      "en": "Fresh Lake Victoria Perch Fillet",
+      "zh": "新鮮維多利亞湖鱸魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frischkäse Portionen | Kiri": {
+      "category": "dairy",
+      "en": "Fresh Cheese Portions",
+      "zh": "新鮮起司 分裝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Froop | MÜLLER": {
+      "category": "dairy",
+      "en": "Froop",
+      "zh": "Froop",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Frozen Ice Dessert": {
+      "category": "sweets_snacks",
+      "en": "Frozen Ice Dessert",
+      "zh": "冷凍冰甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Fruchtgummi | HARIBO": {
+      "category": "sweets_snacks",
+      "en": "Fruit gummies",
+      "zh": "水果軟糖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "funny-frisch Hula Hoops, Zwiebli-Ringe": {
+      "category": "sweets_snacks",
+      "en": "funny-frisch Hula Hoops, Zwiebli Rings",
+      "zh": "funny-frisch Hula Hoops、Zwiebli 圈圈",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Fürst von Metternich Sekt,": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Galbani Gorgonzola": {
+      "category": "dairy",
+      "en": "Galbani Gorgonzola",
+      "zh": "Galbani Gorgonzola",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gänsebrustfilet | Chef Select": {
+      "category": "meat",
+      "en": "Goose breast fillet",
+      "zh": "鵝胸肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ganze Bohnen | JACOBS": {
+      "category": "drinks",
+      "en": "Whole beans",
+      "zh": "整顆咖啡豆",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Garnelen-Spieße": {
+      "category": "seafood",
+      "en": "Shrimp Skewers",
+      "zh": "蝦串",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gassenhauer": {
+      "category": "other",
+      "en": "Gassenhauer",
+      "zh": "Gassenhauer",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gebackene Entenbrust | GOURMET FINEST CUISINE": {
+      "category": "meat",
+      "en": "Baked duck breast",
+      "zh": "烤鴨胸",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gebäckteller Allerlei | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Assorted Pastry Plate",
+      "zh": "什錦點心拼盤",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gefüllte Lebkuchen Herzen | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Filled Gingerbread Hearts",
+      "zh": "填餡薑餅愛心",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gefüllte Pralinen Vollmilch | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Filled Pralines Whole Milk",
+      "zh": "填餡夾心巧克力 全脂牛奶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gemischter Blumenstrauß": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gemischtes Hackfleisch | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Mixed Minced Meat",
+      "zh": "混合絞肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Geräucherte Lachsforelle | GOURMET FINEST CUISINE": {
+      "category": "seafood",
+      "en": "Smoked salmon trout",
+      "zh": "煙燻鮭鱒魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Geräucherter Rotbarsch": {
+      "category": "seafood",
+      "en": "Smoked Ocean Perch",
+      "zh": "燻製紅鱸魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Geschenkegruß | CARSTENS": {
+      "category": "sweets_snacks",
+      "en": "Gift greeting",
+      "zh": "禮物問候",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Geschirrspülmittel XXL | Pril": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Glasur | PICKERD": {
+      "category": "pantry",
+      "en": "Icing",
+      "zh": "糖霜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Glenalba Blended Scotch Whisky Sherry Cask Finish | Glenalba": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Glühwein": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Glühwein-Schinken": {
+      "category": "meat",
+      "en": "Mulled Wine Ham",
+      "zh": "熱紅酒火腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Glühweine": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Golden Longs | McCain": {
+      "category": "instant_food",
+      "en": "Golden Longs",
+      "zh": "Golden Longs",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Goldfischli | Funny Frisch": {
+      "category": "sweets_snacks",
+      "en": "Goldfischli",
+      "zh": "Goldfischli",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Goldmais/ Erbsen & Möhrchen | Bonduelle": {
+      "category": "pantry",
+      "en": "Golden corn/ Peas & Little carrots",
+      "zh": "金玉米/ 豌豆 & 小胡蘿蔔",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Goldmais/Erbsen & Möhrchen | Bonduelle": {
+      "category": "pantry",
+      "en": "Golden corn/Peas & Little carrots",
+      "zh": "金黃玉米/豌豆 & 小胡蘿蔔",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Grand Dessert | Ehrmann": {
+      "category": "dairy",
+      "en": "Grand Dessert",
+      "zh": "Grand 甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Griechisches Natives Olivenöl Extra Chania Kritis g.g.A. | Deluxe": {
+      "category": "pantry",
+      "en": "Greek Native Olive Oil Extra Chania Kritis g.g.A.",
+      "zh": "希臘初榨橄欖油 Extra Chania Kritis g.g.A.",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Grünländer": {
+      "category": "dairy",
+      "en": "Grünländer",
+      "zh": "Grünländer",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gulasch | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Goulash",
+      "zh": "燉牛肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gurke": {
+      "category": "vegetables",
+      "en": "Cucumber",
+      "zh": "黃瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gustavo Gusto Pizza": {
+      "category": "instant_food",
+      "en": "Gustavo Gusto Pizza",
+      "zh": "Gustavo Gusto 披薩",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig American Style Sandwich": {
+      "category": "bread",
+      "en": "Gut&Günstig American Style Sandwich",
+      "zh": "Gut&Günstig 美式風格三明治",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Avocado „Hass“": {
+      "category": "fruits",
+      "en": "Gut&Günstig avocado “Hass”",
+      "zh": "Gut&Günstig 酪梨「Hass」",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Dominosteine": {
+      "category": "sweets_snacks",
+      "en": "Gut&Günstig Dominosteine",
+      "zh": "Gut&Günstig Dominosteine",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Gut&Günstig Gurke": {
+      "category": "vegetables",
+      "en": "Gut&Günstig cucumber",
+      "zh": "Gut&Günstig 黃瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Hähnchenkeulen": {
+      "category": "meat",
+      "en": "Gut&Günstig Chicken Drumsticks",
+      "zh": "Gut&Günstig 雞腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Haselnuss-Kerne": {
+      "category": "sweets_snacks",
+      "en": "Gut&Günstig Hazelnut Kernels",
+      "zh": "Gut&Günstig 榛子仁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Joghurt": {
+      "category": "dairy",
+      "en": "Gut&Günstig yogurt",
+      "zh": "Gut&Günstig 優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Mandeln": {
+      "category": "sweets_snacks",
+      "en": "Gut&Günstig Almonds",
+      "zh": "Gut&Günstig 杏仁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Mozzarella,": {
+      "category": "dairy",
+      "en": "Gut&Günstig Mozzarella",
+      "zh": "Gut&Günstig Mozzarella",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Norwegische Lachsfilets": {
+      "category": "seafood",
+      "en": "Gut&Günstig Norwegian Salmon Fillets",
+      "zh": "Gut&Günstig 挪威鮭魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Original Bayerischer Leberkäse": {
+      "category": "meat",
+      "en": "Gut&Günstig Original Bavarian Leberkäse",
+      "zh": "Gut&Günstig Original 巴伐利亞Leberkäse",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Paprika": {
+      "category": "vegetables",
+      "en": "Gut&Günstig bell pepper",
+      "zh": "Gut&Günstig 甜椒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Pasta": {
+      "category": "pantry",
+      "en": "Gut&Günstig Pasta",
+      "zh": "Gut&Günstig 義大利麵",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Skyr": {
+      "category": "dairy",
+      "en": "Gut&Günstig skyr",
+      "zh": "Gut&Günstig Skyr",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Smoothie": {
+      "category": "drinks",
+      "en": "Gut&Günstig smoothie",
+      "zh": "Gut&Günstig 思慕雪",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Sonnenblumen- oder Pflanzen-Margarine": {
+      "category": "dairy",
+      "en": "Gut&Günstig Sunflower or Plant Margarine",
+      "zh": "Gut&Günstig 葵花籽或植物性人造奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Speisekartoffeln": {
+      "category": "vegetables",
+      "en": "Gut&Günstig table potatoes",
+      "zh": "Gut&Günstig 食用馬鈴薯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Speisequark": {
+      "category": "dairy",
+      "en": "Gut&Günstig quark",
+      "zh": "Gut&Günstig 夸克乳酪",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Thunfisch Filets": {
+      "category": "pantry",
+      "en": "Gut&Günstig Tuna Fillets",
+      "zh": "Gut&Günstig 鮪魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Walnuss-Kerne": {
+      "category": "sweets_snacks",
+      "en": "Gut&Günstig Walnut Kernels",
+      "zh": "Gut&Günstig 核桃仁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Gut&Günstig Zwiebeln": {
+      "category": "vegetables",
+      "en": "Gut&Günstig onions",
+      "zh": "Gut&Günstig 洋蔥",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Haarlack/ Haarspray | Taft": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Haarlack/Haarspray | Taft": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hackfleisch": {
+      "category": "meat",
+      "en": "Minced Meat",
+      "zh": "絞肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchen-Brustfilet-Teilstücke | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Chicken breast fillet pieces",
+      "zh": "雞胸肉分切塊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchen-Hacksteaks | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Chicken mince steaks",
+      "zh": "雞肉漢堡排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchen-Ministeaks | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Chicken Mini Steaks",
+      "zh": "雞肉迷你肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchen-Rouladen | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Chicken Rouladen",
+      "zh": "雞肉 Rouladen",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchen-Salami": {
+      "category": "meat",
+      "en": "Chicken Salami",
+      "zh": "雞肉沙拉米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hähnchenkeulen": {
+      "category": "meat",
+      "en": "Chicken Drumsticks",
+      "zh": "雞腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Haltbare fettarme Milch | Milbona": {
+      "category": "dairy",
+      "en": "Long-life low-fat milk",
+      "zh": "長效保存低脂牛奶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Handgelegter Kochschinken | GOURMET FINEST CUISINE": {
+      "category": "meat",
+      "en": "Hand-laid cooked ham",
+      "zh": "手工疊放煮火腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "hanuta Minis": {
+      "category": "sweets_snacks",
+      "en": "hanuta Minis",
+      "zh": "hanuta Minis",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Harry Potter | HARIBO": {
+      "category": "sweets_snacks",
+      "en": "Harry Potter",
+      "zh": "Harry Potter",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Havana Club Rum": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hefe | Belbake": {
+      "category": "pantry",
+      "en": "Yeast",
+      "zh": "酵母",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Heinz Ketchup oder Mayonnaise": {
+      "category": "pantry",
+      "en": "Heinz Ketchup or Mayonnaise",
+      "zh": "Heinz 番茄醬或美乃滋",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Henglein Frischer Blätterteig": {
+      "category": "pantry",
+      "en": "Henglein Fresh Puff Pastry",
+      "zh": "Henglein 新鮮千層酥皮",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Heringsfilets | ALMARE SEAFOOD": {
+      "category": "pantry",
+      "en": "Herring fillets",
+      "zh": "鯡魚排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "herz Allgäuer Bergkäse": {
+      "category": "dairy",
+      "en": "herz Allgäuer Mountain Cheese",
+      "zh": "herz Allgäuer 山區起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hirschbraten | Deluxe": {
+      "category": "meat",
+      "en": "Venison roast",
+      "zh": "鹿肉烤肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hohlfiguren | KINDER": {
+      "category": "sweets_snacks",
+      "en": "Hollow figures",
+      "zh": "空心造型巧克力",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Home Barista | Dallmayr": {
+      "category": "drinks",
+      "en": "Home Barista",
+      "zh": "Home Barista",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Hongkong, Indonesien & Bali Rundreise & Baden": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Iberico-Spezialität | GOURMET FINEST CUISINE": {
+      "category": "meat",
+      "en": "Iberico specialty",
+      "zh": "Iberico 特產",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Icetea XXL | Arizona": {
+      "category": "drinks",
+      "en": "Icetea XXL",
+      "zh": "Icetea XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "iglo Fischstäbchen": {
+      "category": "instant_food",
+      "en": "iglo Fish Sticks",
+      "zh": "iglo 魚條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ilex Zweig mit Beeren, ca. 60cm lang oder verschiedene Handbunde": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ingwer-Tee | WESTMINSTER": {
+      "category": "drinks",
+      "en": "Ginger tea",
+      "zh": "薑茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "iO Aufsteckbürsten | Oral-B": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "iO Elektrische Zahnbürste | Oral-B": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "iO Kids Aufsteckbürsten | Oral-B": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Irisches Black Angus Rinder-Carpaccio | GOURMET FINEST CUISINE": {
+      "category": "meat",
+      "en": "Irish Black Angus beef carpaccio",
+      "zh": "愛爾蘭 Black Angus 牛肉卡帕喬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Irish Whiskey D.E.W. | Tullamore": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Italien Gardasee": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Italien Latentia 90": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Italienische Wurstspezialität | Deluxe": {
+      "category": "meat",
+      "en": "Italian Sausage Specialty",
+      "zh": "義大利香腸特產",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jack Daniel´s Coca Cola": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jacobs Kaffeesticks": {
+      "category": "drinks",
+      "en": "Jacobs Coffee Sticks",
+      "zh": "Jacobs 咖啡條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jaffa Cake Orange XXL | Sondey": {
+      "category": "sweets_snacks",
+      "en": "Jaffa Cake Orange XXL",
+      "zh": "Jaffa Cake 橘子 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jameson Irish Whiskey": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jamón Serrano Gran Reserva | Deluxe": {
+      "category": "meat",
+      "en": "Jamón Serrano Gran Reserva",
+      "zh": "Jamón Serrano Gran Reserva",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jamón Serrano Reserva | Deluxe": {
+      "category": "meat",
+      "en": "Jamón Serrano Reserva",
+      "zh": "Jamón Serrano Reserva",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Joghurt | Landliebe": {
+      "category": "dairy",
+      "en": "Yogurt",
+      "zh": "優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Joghurt | WEIHENSTEPHAN": {
+      "category": "dairy",
+      "en": "Yogurt",
+      "zh": "優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Johnnie Walker Black Label": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jungbullen-Steak": {
+      "category": "meat",
+      "en": "Young Bull Steak",
+      "zh": "小公牛牛排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Jungbullen-Tafelspitz oder -Bürgermeisterstück": {
+      "category": "meat",
+      "en": "Young Bull Tafelspitz or Bürgermeisterstück",
+      "zh": "小公牛Tafelspitz或Bürgermeisterstück",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kakao zum Backen | Belbake": {
+      "category": "pantry",
+      "en": "Cocoa for baking",
+      "zh": "烘焙用可可粉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kaki": {
+      "category": "fruits",
+      "en": "Persimmon",
+      "zh": "柿子",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kalanchoe im Rentier": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kandierte Früchte | Belbake": {
+      "category": "pantry",
+      "en": "Candied fruits",
+      "zh": "蜜餞水果",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Karamalz Classic": {
+      "category": "drinks",
+      "en": "Karamalz Classic",
+      "zh": "Karamalz 經典",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Käse für den Ofen | MILSANI": {
+      "category": "dairy",
+      "en": "Cheese for the oven",
+      "zh": "烤箱用起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Käselaugenstange": {
+      "category": "bread",
+      "en": "Cheese pretzel stick",
+      "zh": "起司鹼水條",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Käsescheiben | MILRAM": {
+      "category": "dairy",
+      "en": "Cheese slices",
+      "zh": "起司片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Käsescheiben XXL | Leerdammer": {
+      "category": "dairy",
+      "en": "Cheese slices XXL",
+      "zh": "起司片 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kasseler-Hals": {
+      "category": "meat",
+      "en": "Kasseler Neck",
+      "zh": "Kasseler 豬頸肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Katjes Fruchtgummi": {
+      "category": "sweets_snacks",
+      "en": "Katjes Fruit Gums",
+      "zh": "Katjes 水果軟糖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kaustreifen XXL | Fritt": {
+      "category": "pet_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kinder Country | FERRERO": {
+      "category": "sweets_snacks",
+      "en": "Kinder Country",
+      "zh": "Kinder Country",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "kinder Mix Bunte Mischung": {
+      "category": "sweets_snacks",
+      "en": "kinder Mix Colorful Mix",
+      "zh": "kinder Mix 繽紛綜合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "kinder Überraschung Maxi": {
+      "category": "sweets_snacks",
+      "en": "kinder Surprise Maxi",
+      "zh": "kinder 驚喜 Maxi",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "kinder Weihnachtsmann": {
+      "category": "sweets_snacks",
+      "en": "kinder Santa Claus",
+      "zh": "kinder 聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "kinder Weihnachtsmann & Friend": {
+      "category": "sweets_snacks",
+      "en": "kinder Santa Claus & Friend",
+      "zh": "kinder 聖誕老人 & Friend",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kiwi „Grün“": {
+      "category": "fruits",
+      "en": "Kiwi “Green”",
+      "zh": "奇異果「綠色」",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kiwi, rot": {
+      "category": "fruits",
+      "en": "Kiwi, red",
+      "zh": "紅奇異果",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kleine Kuchen | DR. OETKER": {
+      "category": "sweets_snacks",
+      "en": "Small cakes",
+      "zh": "小蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kleiner Weihnachtsmann | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Small Santa Claus",
+      "zh": "小聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knoppers Riegel": {
+      "category": "sweets_snacks",
+      "en": "Knoppers Bars",
+      "zh": "Knoppers 威化棒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knorr Bouillon, auch Pur oder Delikatess-Brühe": {
+      "category": "pantry",
+      "en": "Knorr Bouillon, also Pur or Delikatess Broth",
+      "zh": "Knorr 高湯塊，也有 Pur 或 Delikatess 高湯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knorr Fix": {
+      "category": "pantry",
+      "en": "Knorr Fix",
+      "zh": "Knorr Fix",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knusper-Backfisch oder -Kibbelinge | GOLDEN SEAFOOD": {
+      "category": "instant_food",
+      "en": "Crispy Battered Fish or Kibbelinge",
+      "zh": "酥脆炸魚或 Kibbelinge",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knusperente | Chef Select": {
+      "category": "meat",
+      "en": "Crispy duck",
+      "zh": "酥脆鴨",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Knusperstück | Ritter Sport": {
+      "category": "sweets_snacks",
+      "en": "Crunchy piece",
+      "zh": "酥脆塊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kokosraspel | Belbake": {
+      "category": "pantry",
+      "en": "Coconut shreds",
+      "zh": "椰子絲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Konfitüre/Gelee | Bonne Maman": {
+      "category": "pantry",
+      "en": "Jam/Jelly",
+      "zh": "果醬/果凍",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Konifere in Keramik": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Korfu Standort-Rundreise": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Körniger Frischkäse XXL | Dovgan": {
+      "category": "dairy",
+      "en": "Grainy Fresh Cheese XXL",
+      "zh": "顆粒新鮮起司 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Körniges Sauerteigbrot | GOLDÄHREN": {
+      "category": "bread",
+      "en": "Grainy sourdough bread",
+      "zh": "顆粒酸種麵包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kräuter- oder Früchtetee | TEEKANNE": {
+      "category": "drinks",
+      "en": "Herbal or fruit tea",
+      "zh": "草本茶或果香茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Krönung | JACOBS": {
+      "category": "drinks",
+      "en": "Krönung",
+      "zh": "Krönung",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Krustenbrot": {
+      "category": "bread",
+      "en": "Crusty bread",
+      "zh": "脆皮麵包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Küchenkräuter | LE GUSTO": {
+      "category": "pantry",
+      "en": "Kitchen herbs",
+      "zh": "廚房香草",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Küchle Back-Oblaten": {
+      "category": "pantry",
+      "en": "Küchle Baking Wafers",
+      "zh": "Küchle 烘焙糯米紙",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kühne Gurken": {
+      "category": "pantry",
+      "en": "Kühne cucumber",
+      "zh": "Kühne 黃瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Kühne Rotkohl": {
+      "category": "vegetables",
+      "en": "Kühne red cabbage",
+      "zh": "Kühne 紅甘藍",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "La Gioiosa Prosecco Spumante Treviso DOC": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lachs in Blätterteig | DELUXE": {
+      "category": "instant_food",
+      "en": "Salmon in puff pastry",
+      "zh": "酥皮鮭魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lachs-Carpaccio | GOURMET FINEST CUISINE": {
+      "category": "seafood",
+      "en": "Salmon carpaccio",
+      "zh": "鮭魚卡帕喬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lachsrückenfilet | GOURMET FINEST CUISINE": {
+      "category": "seafood",
+      "en": "Salmon back fillet",
+      "zh": "鮭魚背肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Länder-Käseselektion | Deluxe": {
+      "category": "dairy",
+      "en": "Country Cheese Selection",
+      "zh": "各國起司精選",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Landliebe haltbare Landmilch": {
+      "category": "dairy",
+      "en": "Landliebe long-life Farm Milk",
+      "zh": "Landliebe 長效鄉村牛奶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Le Gruyère A.O.P.": {
+      "category": "dairy",
+      "en": "Le Gruyère A.O.P.",
+      "zh": "Le Gruyère A.O.P.",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Le Rustique Raclette l‘Originale": {
+      "category": "dairy",
+      "en": "Le Rustique Raclette l‘Originale",
+      "zh": "Le Rustique Raclette l‘Originale",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Leberkäs": {
+      "category": "meat",
+      "en": "Leberkäs",
+      "zh": "Leberkäs",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Leberpastete | Dulano Selection": {
+      "category": "meat",
+      "en": "Liver pâté",
+      "zh": "肝醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Leberpastete | DULANO SELECTION": {
+      "category": "meat",
+      "en": "Liver pâté",
+      "zh": "肝醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Lebkuchen-Herzen | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Lebkuchen hearts",
+      "zh": "Lebkuchen 愛心",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Leerdammer Käsescheiben": {
+      "category": "dairy",
+      "en": "Leerdammer cheese slices",
+      "zh": "Leerdammer 起司切片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Leerdammer Scheiben oder Reibekäse": {
+      "category": "dairy",
+      "en": "Leerdammer slices or grated cheese",
+      "zh": "Leerdammer 切片或刨絲起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Like Meat": {
+      "category": "meat",
+      "en": "Like Meat",
+      "zh": "Like Meat",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lillet Wein-Aperitif": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Linzeraugen XXL | Sondey": {
+      "category": "sweets_snacks",
+      "en": "Linzer eyes XXL",
+      "zh": "林茲眼餅乾 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "live fresh Shot": {
+      "category": "drinks",
+      "en": "live fresh shot",
+      "zh": "live fresh 小杯飲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Löffelglück | DR. OETKER": {
+      "category": "dairy",
+      "en": "Löffelglück",
+      "zh": "Löffelglück",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Loose Quäse oder Hausmacher": {
+      "category": "dairy",
+      "en": "Loose Quäse or Homemade",
+      "zh": "Loose Quäse 或 自家製",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lübecker Edelmarzipan Herzen Sterne | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Lübecker Fine Marzipan Hearts Stars",
+      "zh": "Lübecker 精選杏仁膏 愛心 星星",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Lungo Fortemente | BARISSIMO": {
+      "category": "drinks",
+      "en": "Lungo Fortemente",
+      "zh": "Lungo Fortemente",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Luxus-3-Kammer-Kissen | NOVITESSE": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "M&M´S | M&M´S": {
+      "category": "sweets_snacks",
+      "en": "M&M´S",
+      "zh": "M&M´S",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Macadamia | Deluxe": {
+      "category": "sweets_snacks",
+      "en": "Macadamia",
+      "zh": "夏威夷堅果",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Macarons in Geschenkbox | Deluxe": {
+      "category": "sweets_snacks",
+      "en": "Macarons in gift box",
+      "zh": "馬卡龍禮盒",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Maggi Sauce oder Delikatess-Sauce": {
+      "category": "pantry",
+      "en": "Maggi Sauce or Delikatess Sauce",
+      "zh": "Maggi 醬汁或 Delikatess 醬汁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Magnum® Bonbon | LANGNESE": {
+      "category": "sweets_snacks",
+      "en": "Magnum® Bonbon",
+      "zh": "Magnum® Bonbon",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mallorca Wanderreise": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "MÄLZER&FU Ice C.r.e.a.m. Creations": {
+      "category": "sweets_snacks",
+      "en": "MÄLZER&FU Ice C.r.e.a.m. Creations",
+      "zh": "MÄLZER&FU Ice C.r.e.a.m. 創作",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mandarinen/Clementinen": {
+      "category": "fruits",
+      "en": "Mandarins/Clementines",
+      "zh": "柑橘/克萊門氏小柑橘",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mandel Spekulatius | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Almond Spekulatius",
+      "zh": "杏仁 Spekulatius",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mandeln | Belbake": {
+      "category": "sweets_snacks",
+      "en": "Almonds",
+      "zh": "杏仁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Manner Waffeln oder Snack minis": {
+      "category": "sweets_snacks",
+      "en": "Manner waffles or Snack minis",
+      "zh": "Manner 華夫餅或 Snack minis",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Margarine | RAMA": {
+      "category": "dairy",
+      "en": "Margarine",
+      "zh": "人造奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Marokkos Königsstädte Rundreise & Baden": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mars, Snickers oder Bounty": {
+      "category": "sweets_snacks",
+      "en": "Mars, Snickers or Bounty",
+      "zh": "Mars、Snickers 或 Bounty",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Maryland Snack Nüsse oder Studentenfutter": {
+      "category": "sweets_snacks",
+      "en": "Maryland Snack Nuts or Student Mix",
+      "zh": "Maryland 零食堅果或綜合果乾",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Marzipan-Kartoffeln | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Marzipan potatoes",
+      "zh": "杏仁膏馬鈴薯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Maultaschen | Settele": {
+      "category": "instant_food",
+      "en": "Maultaschen",
+      "zh": "Maultaschen",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mazola Raps- oder Keimöl": {
+      "category": "pantry",
+      "en": "Mazola Rapeseed or Germ Oil",
+      "zh": "Mazola 菜籽油或胚芽油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Melitta Bella Crema,": {
+      "category": "drinks",
+      "en": "Melitta Bella Crema",
+      "zh": "Melitta Bella Crema",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Merino-Lammlachse | Deluxe": {
+      "category": "meat",
+      "en": "Merino lamb loin",
+      "zh": "Merino 羊背肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Meßmer Kräuter- oder Früchtetee": {
+      "category": "drinks",
+      "en": "Meßmer Herbal or Fruit Tea",
+      "zh": "Meßmer 草本或水果茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Meßmer Selfcare Tee": {
+      "category": "drinks",
+      "en": "Meßmer Selfcare Tea",
+      "zh": "Meßmer Selfcare 茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mikado oder Kekse | LU / OREO": {
+      "category": "sweets_snacks",
+      "en": "Mikado or biscuits",
+      "zh": "Mikado 或餅乾",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Milch Freunde | Mister Choc": {
+      "category": "sweets_snacks",
+      "en": "Milk Friends",
+      "zh": "牛奶好友",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Milch-Schnitte® | FERRERO": {
+      "category": "sweets_snacks",
+      "en": "Milch-Schnitte®",
+      "zh": "Milch-Schnitte®",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Milchreis | Müller": {
+      "category": "dairy",
+      "en": "Milk rice",
+      "zh": "牛奶米飯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Milchschnitte/Pingui 7/6er-Pack | Kinder": {
+      "category": "sweets_snacks",
+      "en": "Milk slice/Pingui 7/6-pack",
+      "zh": "牛奶酥/Pingui 7/6入裝",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Milkana Schmelzkäse": {
+      "category": "dairy",
+      "en": "Milkana Processed Cheese",
+      "zh": "Milkana 再製起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini Lebkuchen-Männchen | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Mini Gingerbread Men",
+      "zh": "迷你薑餅人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini Spekulatius | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Mini Spekulatius",
+      "zh": "迷你 Spekulatius",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini Stollen | Favorina": {
+      "category": "bread",
+      "en": "Mini Stollen",
+      "zh": "迷你史多倫",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Figuren Vollmilch | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Mini Figures Whole Milk",
+      "zh": "迷你造型 全脂牛奶巧克力",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Kuchen | Kuchenzauber": {
+      "category": "sweets_snacks",
+      "en": "Mini Cake",
+      "zh": "迷你蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Marzipanbrote | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Mini Marzipan Loaves",
+      "zh": "迷你杏仁膏麵包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Schokofiguren | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Mini chocolate figures",
+      "zh": "迷你巧克力造型",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Tafeln | CHOCEUR": {
+      "category": "sweets_snacks",
+      "en": "Mini bars",
+      "zh": "迷你巧克力板",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mini-Weihnachtsstern": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Minigurken": {
+      "category": "vegetables",
+      "en": "Mini cucumbers",
+      "zh": "迷你小黃瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Miracel Whip | Miracel Whip": {
+      "category": "pantry",
+      "en": "Miracel Whip",
+      "zh": "Miracel Whip",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "MiXery Bier-Mix": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mixgetränk*": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "MM Extra Sekt,": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Monster Energydrink,": {
+      "category": "drinks",
+      "en": "Monster energy drink",
+      "zh": "Monster 能量飲料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Monte Snack | Zott": {
+      "category": "dairy",
+      "en": "Monte Snack",
+      "zh": "Monte 點心",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Movie Park's Hollywood Christmas mit Lidl Plus | Lidl Plus": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "MSC Garnelen | DELUXE": {
+      "category": "seafood",
+      "en": "MSC prawns",
+      "zh": "MSC 蝦",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "MSC Wildlachsfilet | DELUXE": {
+      "category": "seafood",
+      "en": "MSC wild salmon fillet",
+      "zh": "MSC 野生鮭魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Muffins XXL | Kuchenzauber": {
+      "category": "sweets_snacks",
+      "en": "Muffins XXL",
+      "zh": "瑪芬蛋糕 XXL",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "müller Froop": {
+      "category": "dairy",
+      "en": "müller Froop",
+      "zh": "müller Froop",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "müller Milch-Reis": {
+      "category": "dairy",
+      "en": "müller Milk-Rice",
+      "zh": "müller 牛奶米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Müllermilch/Shake | Müller": {
+      "category": "dairy",
+      "en": "Müllermilch/Shake",
+      "zh": "Müllermilch/奶昔",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Mumm Sekt,": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nackensteak | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Neck Steak",
+      "zh": "頸肉排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Naturelle | Volvic": {
+      "category": "drinks",
+      "en": "Natural",
+      "zh": "天然",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nestlé Smarties Riesenrolle,": {
+      "category": "sweets_snacks",
+      "en": "Nestlé Smarties Giant Roll",
+      "zh": "Nestlé Smarties 巨型糖果捲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "nippon": {
+      "category": "sweets_snacks",
+      "en": "nippon",
+      "zh": "nippon",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nong Shim Instantnudeln": {
+      "category": "instant_food",
+      "en": "Nong Shim Instant Noodles",
+      "zh": "Nong Shim 泡麵",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Norwegen Kreuzfahrt | MSC Euribia": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nürnberger oder Henglein Kloßteig": {
+      "category": "pantry",
+      "en": "Nürnberger or Henglein Dumpling Dough",
+      "zh": "Nürnberger 或 Henglein 丸子麵團",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nuss-Nougat Schnittfeste Masse | Belbake": {
+      "category": "pantry",
+      "en": "Nut nougat cut-resistant mass",
+      "zh": "堅果牛軋糖耐切餡料",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Nutella | Nutella": {
+      "category": "pantry",
+      "en": "Nutella",
+      "zh": "Nutella",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Obstwerk Früchte-Mix mit Ananas, roten Trauben, Cantaloupe- und Honigmelone oder Ananasstücke": {
+      "category": "fruits",
+      "en": "Obstwerk fruit mix with pineapple, red grapes, cantaloupe and honeydew melon or pineapple pieces",
+      "zh": "Obstwerk 綜合水果，含鳳梨、紅葡萄、哈密瓜和蜜瓜或鳳梨塊",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Octopusarme | DELUXE": {
+      "category": "seafood",
+      "en": "Octopus arms",
+      "zh": "章魚腳",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Olivenvariationen | WONNEMEYER": {
+      "category": "pantry",
+      "en": "Olive variations",
+      "zh": "橄欖多種口味",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Olympus Schafskäse oder Feta,": {
+      "category": "dairy",
+      "en": "Olympus Sheep Cheese or Feta",
+      "zh": "Olympus 綿羊起司或 Feta",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Orangen": {
+      "category": "fruits",
+      "en": "Oranges",
+      "zh": "柳橙",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Original Wagner Pizza": {
+      "category": "instant_food",
+      "en": "Original Wagner Pizza",
+      "zh": "Original Wagner 披薩",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Osborne Veterano": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Österreichische Käseplatte | Deluxe": {
+      "category": "dairy",
+      "en": "Austrian cheese platter",
+      "zh": "奧地利起司拼盤",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Österreichische Käseplatte | DELUXE": {
+      "category": "dairy",
+      "en": "Austrian cheese platter",
+      "zh": "奧地利起司拼盤",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "ovomaltine Trinkgenuss oder Caotina": {
+      "category": "drinks",
+      "en": "ovomaltine Trinkgenuss or Caotina",
+      "zh": "ovomaltine Trinkgenuss 或 Caotina",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Pangasiusfilet": {
+      "category": "seafood",
+      "en": "Pangasius Fillet",
+      "zh": "巴沙魚片",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Paradiescreme | DR. OETKER": {
+      "category": "pantry",
+      "en": "Paradise cream",
+      "zh": "天堂奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Parmaschinken DOP | Deluxe": {
+      "category": "meat",
+      "en": "Parma Ham DOP",
+      "zh": "帕瑪火腿 DOP",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Paulaner Spezi*, auch zero*, Cola* oder Limo": {
+      "category": "drinks",
+      "en": "Paulaner Spezi*, also zero*, Cola* or Limo",
+      "zh": "Paulaner Spezi*、也有 zero*、Cola* 或 Limo",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Pecorino Romano DOP | Deluxe": {
+      "category": "dairy",
+      "en": "Pecorino Romano DOP",
+      "zh": "Pecorino Romano DOP",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "pepsi*, Schwip Schwap* oder 7up Zero": {
+      "category": "drinks",
+      "en": "pepsi*, Schwip Schwap* or 7up Zero",
+      "zh": "pepsi*、Schwip Schwap* 或 7up Zero",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Pesto | BARILLA": {
+      "category": "pantry",
+      "en": "Pesto",
+      "zh": "青醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Philadelphia | Philadelphia": {
+      "category": "dairy",
+      "en": "Philadelphia",
+      "zh": "Philadelphia",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Pickerd Glasur": {
+      "category": "pantry",
+      "en": "Pickerd Glaze",
+      "zh": "Pickerd 糖衣",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Polnische Ostsee Kolberg": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Portionsbeutel | Whiskas": {
+      "category": "pet_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Potatobrötchen*": {
+      "category": "bread",
+      "en": "Potato Rolls",
+      "zh": "馬鈴薯小餐包",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Premium-Badematte | NOVITESSE PREMIUM": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Premium-Handtücher oder -Duschtuch | NOVITESSE PREMIUM": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Premium-Joghurt | MILSANI": {
+      "category": "dairy",
+      "en": "Premium yogurt",
+      "zh": "優質優格",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Prosciutto di Parma D.O.P. | Deluxe": {
+      "category": "meat",
+      "en": "Prosciutto di Parma D.O.P.",
+      "zh": "Prosciutto di Parma D.O.P.",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Puten-Schnitzel | MEINE METZGEREI": {
+      "category": "meat",
+      "en": "Turkey Schnitzel",
+      "zh": "火雞排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Putengeschnetzeltes Gyros | Metzgerfrisch": {
+      "category": "meat",
+      "en": "Turkey strips Gyros",
+      "zh": "火雞切片 Gyros",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ravioloni oder Mezzelune | GOURMET FINEST CUISINE": {
+      "category": "instant_food",
+      "en": "Ravioloni or Mezzelune",
+      "zh": "Ravioloni 或 Mezzelune",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Regensburger, weiße Bratwurst mit Kalbfleisch, gebrüht oder Stadtwurst": {
+      "category": "meat",
+      "en": "Regensburger, White Bratwurst with Veal, Scalded or Stadtwurst",
+      "zh": "Regensburger、白香腸（小牛肉）、燙煮或Stadtwurst",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rein-Rind- oder Zwiebel-Mettwurst": {
+      "category": "meat",
+      "en": "Pure Beef or Onion Mettwurst",
+      "zh": "純牛肉或洋蔥Mettwurst",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Reines Rapsöl | Vita D'or": {
+      "category": "pantry",
+      "en": "Pure Rapeseed Oil",
+      "zh": "純菜籽油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Reiniger | Meister Proper": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Reis Express | Ben's Original": {
+      "category": "pantry",
+      "en": "Rice Express",
+      "zh": "Express 米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Reise nach Lappland (1x Gewinn) | lidl-reisen.de": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Reise nach Lappland (Gewinnspiel-Preis) | Lidl Reisen": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Renew Waschmittel | Perwoll": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Riegel/ Duplo | Kinder": {
+      "category": "sweets_snacks",
+      "en": "Bar/ Duplo",
+      "zh": "棒條/ Duplo",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Riegel/Duplo | Kinder": {
+      "category": "sweets_snacks",
+      "en": "Bar/Duplo",
+      "zh": "巧克力條/Duplo",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Riesengarnelen": {
+      "category": "seafood",
+      "en": "Giant Shrimp",
+      "zh": "大蝦",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rispentomaten": {
+      "category": "vegetables",
+      "en": "Truss tomatoes",
+      "zh": "串番茄",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rocher | Ferrero": {
+      "category": "sweets_snacks",
+      "en": "Rocher",
+      "zh": "Rocher",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rocher Tanne | FERRERO": {
+      "category": "sweets_snacks",
+      "en": "Rocher Fir Tree",
+      "zh": "Rocher 冷杉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rocher Weihnachtsmann | FERRERO": {
+      "category": "sweets_snacks",
+      "en": "Rocher Santa Claus",
+      "zh": "Rocher 聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Romana Salat": {
+      "category": "vegetables",
+      "en": "Romana salad",
+      "zh": "羅曼娜生菜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Romatomaten": {
+      "category": "vegetables",
+      "en": "Roma tomatoes",
+      "zh": "羅馬番茄",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Roquefort AOP | Deluxe": {
+      "category": "dairy",
+      "en": "Roquefort AOP",
+      "zh": "Roquefort AOP",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rügenwalder Mühle Pommersche Gutsleberwurst fein, grob, als Geflügel, mit Schnittlauch oder Teewurst": {
+      "category": "meat",
+      "en": "Rügenwalder Mühle Pommersche Gutsleberwurst fine, coarse, as Poultry, with Chives or Teewurst",
+      "zh": "Rügenwalder Mühle 波美拉尼亞肝腸細、粗、禽肉版、韭蔥或Teewurst",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Rügenwalder Spezialitäten Salino Boost": {
+      "category": "meat",
+      "en": "Rügenwalder Spezialitäten Salino Boost",
+      "zh": "Rügenwalder Spezialitäten Salino Boost",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Runde braune Lebkuchen | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Round Brown Gingerbread",
+      "zh": "圓形棕色薑餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sahneheringsfilets | Nadler": {
+      "category": "seafood",
+      "en": "Cream Herring Filets",
+      "zh": "奶油鯡魚排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sahnesteif | Belbake": {
+      "category": "pantry",
+      "en": "Cream stabilizer",
+      "zh": "鮮奶油穩定粉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Salame Cremona oder Cacciatora | GOURMET FINEST CUISINE": {
+      "category": "meat",
+      "en": "Salame Cremona or Cacciatora",
+      "zh": "薩拉米 Cremona 或 Cacciatora",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Salami | Deluxe": {
+      "category": "meat",
+      "en": "Salami",
+      "zh": "薩拉米香腸",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Salami | DELUXE": {
+      "category": "meat",
+      "en": "Salami",
+      "zh": "薩拉米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Salami-Trio | Deluxe": {
+      "category": "meat",
+      "en": "Salami trio",
+      "zh": "薩拉米三件組",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Salami-Trio | DELUXE": {
+      "category": "meat",
+      "en": "Salami trio",
+      "zh": "薩拉米三件組",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Saltletts | LORENZ": {
+      "category": "sweets_snacks",
+      "en": "Saltletts",
+      "zh": "Saltletts",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Salzbrezeln | SUN SNACKS": {
+      "category": "sweets_snacks",
+      "en": "Salted pretzels",
+      "zh": "鹽味扭結餅",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Samt | SCHWARTAU": {
+      "category": "pantry",
+      "en": "Samt",
+      "zh": "Samt",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "SanPellegrino Limonade": {
+      "category": "drinks",
+      "en": "SanPellegrino lemonade",
+      "zh": "SanPellegrino 檸檬汽水",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Saucen | Ben's Original": {
+      "category": "pantry",
+      "en": "Sauces",
+      "zh": "醬汁",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sauerkirschen | Freshona": {
+      "category": "pantry",
+      "en": "Sour cherries",
+      "zh": "酸櫻桃",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Scheinzypressen in Goldtrend-Keramik": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schlossbrauerei Maxlrain Maxl Helles, auch alkoholfrei oder Arcobräu Mooser Liesl Helles": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schoko Lolly | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Chocolate Lolly",
+      "zh": "巧克力棒棒糖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schoko-Weihnachtsmann | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Chocolate Santa Claus",
+      "zh": "巧克力聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schokokugeln | MOSER ROTH": {
+      "category": "sweets_snacks",
+      "en": "Chocolate balls",
+      "zh": "巧克力球",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schokolade | Yogurette/Kinder": {
+      "category": "sweets_snacks",
+      "en": "Chocolate",
+      "zh": "巧克力",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schokoladen-Kränze | WINTERTRAUM": {
+      "category": "sweets_snacks",
+      "en": "Chocolate wreaths",
+      "zh": "巧克力花環",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schottischer Räucherlachs | Deluxe": {
+      "category": "seafood",
+      "en": "Scottish smoked salmon",
+      "zh": "蘇格蘭煙燻鮭魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Schottischer Räucherlachs | DELUXE": {
+      "category": "seafood",
+      "en": "Scottish smoked salmon",
+      "zh": "蘇格蘭煙燻鮭魚",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schottland Rundreise": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schwäbische Maultaschen | GOURMET FINEST CUISINE": {
+      "category": "instant_food",
+      "en": "Swabian Maultaschen",
+      "zh": "施瓦本 Maultaschen",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schwarzwälder Schinken | GUT DREI EICHEN": {
+      "category": "meat",
+      "en": "Black Forest ham",
+      "zh": "黑森林火腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Schweine-Schnitzel oder -Gulasch": {
+      "category": "meat",
+      "en": "Pork Schnitzel or Goulash",
+      "zh": "豬肉排或燉肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Seelenwärmer | DR. OETKER": {
+      "category": "pantry",
+      "en": "Seelenwärmer",
+      "zh": "Seelenwärmer",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sekt | Rotkäppchen": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Senfsauce | Wolfram Berge": {
+      "category": "pantry",
+      "en": "Mustard sauce",
+      "zh": "芥末醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sierra Tequila": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sisal-Rentier": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Socken-Garn oder -Wolle | HOME CREATION": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Soft-Bausteine | JELLY BLOX": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Sojasauce | KIKKOMAN": {
+      "category": "pantry",
+      "en": "Soy sauce",
+      "zh": "醬油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Spanien Mallorca": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Spare Ribs | BBQ": {
+      "category": "meat",
+      "en": "Spare Ribs",
+      "zh": "肋排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Speisekartoffeln": {
+      "category": "vegetables",
+      "en": "Table potatoes",
+      "zh": "食用馬鈴薯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Spezi | PAULANER": {
+      "category": "drinks",
+      "en": "Spezi",
+      "zh": "Spezi",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "St. Mang Original Allgäuer Limburger oder Rubius": {
+      "category": "dairy",
+      "en": "St. Mang Original Allgäuer Limburger or Rubius",
+      "zh": "St. Mang Original Allgäuer Limburger 或 Rubius",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Stangenspargel | Freshona": {
+      "category": "vegetables",
+      "en": "Asparagus spears",
+      "zh": "蘆筍",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Steinofenbrötchen | Bioland": {
+      "category": "bread",
+      "en": "Stone oven rolls",
+      "zh": "石窯麵包捲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Steinofenpizza | Gustavo Gusto": {
+      "category": "instant_food",
+      "en": "Stone oven pizza",
+      "zh": "石窯披薩",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Steirisches Kürbiskernöl g.g.A. | Deluxe": {
+      "category": "pantry",
+      "en": "Styrian pumpkin seed oil g.g.A.",
+      "zh": "施蒂利亞南瓜籽油 g.g.A.",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Streichzart | Meggle": {
+      "category": "dairy",
+      "en": "Streichzart",
+      "zh": "Streichzart",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Strohschwein Hals am Stück oder in Scheiben natur, Rücken am Stück oder Rückenrollbraten": {
+      "category": "meat",
+      "en": "Straw-Fed Pork Neck Whole or Sliced Natural, Back Whole or Back Loin Roll Roast",
+      "zh": "稻草豬頸肉整塊或切片原味，背肉整塊或背部捲烤肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Südzucker Feiner Rüben Zucker": {
+      "category": "pantry",
+      "en": "Südzucker Fine Beet Sugar",
+      "zh": "Südzucker 細甜菜糖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tannen-Salami": {
+      "category": "meat",
+      "en": "Fir Salami",
+      "zh": "冷杉沙拉米",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tanqueray London Dry Gin 41,3/43,1% Vol. oder Tanqueray alkoholfrei": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tchibo Aromatico Classico": {
+      "category": "drinks",
+      "en": "Tchibo Aromatico Classico",
+      "zh": "Tchibo Aromatico Classico",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tchibo Feine Milde Kaffee": {
+      "category": "drinks",
+      "en": "Tchibo Feine Milde Coffee",
+      "zh": "Tchibo Feine Milde 咖啡",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Teekanne Ländertee": {
+      "category": "drinks",
+      "en": "Teekanne Country Tea",
+      "zh": "Teekanne 各國茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "tellox Klare Brühe": {
+      "category": "pantry",
+      "en": "tellox Clear Broth",
+      "zh": "tellox 清高湯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "The Taste of Christmas Kuchen Glasur | Dr. Oetker": {
+      "category": "pantry",
+      "en": "The Taste of Christmas Cake Glaze",
+      "zh": "The Taste of Christmas 蛋糕淋醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "The Taste of Christmas Orangen-Mascarpone-Creme | Dr. Oetker": {
+      "category": "dairy",
+      "en": "The Taste of Christmas Orange Mascarpone Cream",
+      "zh": "The Taste of Christmas 橙味馬斯卡彭奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "The Taste of Christmas Streudekor | Dr. Oetker": {
+      "category": "pantry",
+      "en": "The Taste of Christmas Sprinkle Decor",
+      "zh": "The Taste of Christmas 撒糖裝飾",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "The Taste of Christmas Warme Schokoküchlein | Dr. Oetker": {
+      "category": "bread",
+      "en": "The Taste of Christmas Warm Chocolate Cakes",
+      "zh": "The Taste of Christmas 溫熱巧克力小蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "The Taste of Christmas Zimt Mousse | Dr. Oetker": {
+      "category": "dairy",
+      "en": "The Taste of Christmas Cinnamon Mousse",
+      "zh": "The Taste of Christmas 肉桂慕斯",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Therme Erding (5x Gewinn) | lidl-reisen.de": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Therme Erding Übernachtung (Gewinnspiel-Preis) | Therme Erding": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Thomy Senf": {
+      "category": "pantry",
+      "en": "Thomy Mustard",
+      "zh": "Thomy 芥末醬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Three Sixty Vodka": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Thunfisch Filets in eigenem Saft | Nixe": {
+      "category": "seafood",
+      "en": "Tuna Filets in own juice",
+      "zh": "鮪魚排 於自身的汁液中",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tiramisu Torte | Milbona": {
+      "category": "sweets_snacks",
+      "en": "Tiramisu cake",
+      "zh": "提拉米蘇蛋糕",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tischgesteck Advent": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Toblerone | TOBLERONE": {
+      "category": "sweets_snacks",
+      "en": "Toblerone",
+      "zh": "Toblerone",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Topfrosen Trio": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Trinkgenuss/Selection | Granini": {
+      "category": "drinks",
+      "en": "Trinkgenuss/Selection",
+      "zh": "Trinkgenuss/Selection",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Trockenblumenstrauß Advent": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Tür-Strauß exklusiv": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Türkranz": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "ültje Erdnüsse": {
+      "category": "sweets_snacks",
+      "en": "ültje peanuts",
+      "zh": "ültje 花生",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Ungarische Minisalami „Pick“": {
+      "category": "meat",
+      "en": "Hungarian Mini Salami „Pick“",
+      "zh": "匈牙利迷你沙拉米「Pick」",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Unser Bester | BARISSIMO": {
+      "category": "drinks",
+      "en": "Our Best",
+      "zh": "我們的最佳",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Unstoppables Wäscheparfüm | Lenor": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "US T-Bone-Steak | Deluxe": {
+      "category": "meat",
+      "en": "US T-Bone steak",
+      "zh": "US T骨牛排",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Valdo Prosecco,": {
+      "category": "alcohol",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Vanillin Zucker | Belbake": {
+      "category": "pantry",
+      "en": "Vanillin Sugar",
+      "zh": "香草醛糖",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Vegetarische Vielfalt | VALESS": {
+      "category": "meat",
+      "en": "Vegetarian variety",
+      "zh": "素食多樣組合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Vitareform Margarine | BELLASAN": {
+      "category": "dairy",
+      "en": "Vitareform margarine",
+      "zh": "Vitareform 人造奶油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "vly vegane Joghurtalternative Natur oder Frucht oder Protein-Drink": {
+      "category": "dairy",
+      "en": "vly vegan Yogurt alternative Natur or Frucht or Protein-Drink",
+      "zh": "vly 純素優格替代品 原味或水果或蛋白飲",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Volvic Natürliches Mineralwasser": {
+      "category": "drinks",
+      "en": "Volvic natural mineral water",
+      "zh": "Volvic 天然礦泉水",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wärmereflektierende Wandfarbe | Evoloxx": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Wärmereflektierende Wandfarbe | EVOLOXX": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wärmflasche mit Aromastein | Happy Hotty": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Wärmflasche mit Aromastein | HAPPY HOTTY": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Waschmittel | Ariel": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wasserhahn-Entkalker | KALKBUSTER": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Weichkäse | Géramont": {
+      "category": "dairy",
+      "en": "Soft cheese",
+      "zh": "軟質起司",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihenstephan Frucht-, Stracciatella- oder Vanillequark": {
+      "category": "dairy",
+      "en": "Weihenstephan fruit, stracciatella or vanilla quark",
+      "zh": "Weihenstephan 水果、Stracciatella 或香草夸克乳酪",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihenstephan Rahm-Camembert": {
+      "category": "dairy",
+      "en": "Weihenstephan Cream Camembert",
+      "zh": "Weihenstephan 奶油 Camembert",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachts-Vorlesebuch": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsdeko oder -Accessoire | JES COLLECTION": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsfiguren | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Christmas Figures",
+      "zh": "聖誕造型",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmann | DUPLO": {
+      "category": "sweets_snacks",
+      "en": "Santa Claus",
+      "zh": "聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmann | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Santa Claus",
+      "zh": "聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmann | KINDER": {
+      "category": "sweets_snacks",
+      "en": "Santa Claus",
+      "zh": "聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmann | MILKA": {
+      "category": "sweets_snacks",
+      "en": "Santa Claus",
+      "zh": "聖誕老人",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmarkt Tee | Meßmer": {
+      "category": "drinks",
+      "en": "Christmas market tea",
+      "zh": "聖誕市集茶",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmischung | MILKA": {
+      "category": "sweets_snacks",
+      "en": "Christmas mix",
+      "zh": "聖誕綜合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsmix | Favorina": {
+      "category": "sweets_snacks",
+      "en": "Christmas Mix",
+      "zh": "聖誕綜合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Weihnachtsstern": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Westliches Mittelmeer Kreuzfahrt & Baden | AIDAcosma": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Whip | Miracel": {
+      "category": "pantry",
+      "en": "Whip",
+      "zh": "Whip",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "White Tiger Garnelen | Fischerstolz": {
+      "category": "seafood",
+      "en": "White Tiger shrimp",
+      "zh": "White Tiger 蝦",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wild Aufschnitt | Deluxe": {
+      "category": "meat",
+      "en": "Game cold cuts",
+      "zh": "野味冷切肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wild Aufschnitt | DELUXE": {
+      "category": "meat",
+      "en": "Wild cold cuts",
+      "zh": "野味切片肉",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Wild Bread mit Ruchmehl | Deluxe": {
+      "category": "bread",
+      "en": "Wild Bread with Ruchmehl",
+      "zh": "Wild Bread 含 Ruchmehl",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wildschweinkeule | Deluxe": {
+      "category": "meat",
+      "en": "Wild boar leg",
+      "zh": "野豬腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Winterapfelkissen": {
+      "category": "bread",
+      "en": "Winter Apple Pillows",
+      "zh": "冬季蘋果枕頭",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Wohlfühl-Duftkerze | Air Wick": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Würzöl | Deluxe": {
+      "category": "pantry",
+      "en": "Seasoning oil",
+      "zh": "調味油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Würzöl | DELUXE": {
+      "category": "pantry",
+      "en": "Seasoning oil",
+      "zh": "調味油",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-24"
+    },
+    "Xmas Mix | HARIBO": {
+      "category": "sweets_snacks",
+      "en": "Xmas Mix",
+      "zh": "聖誕綜合",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "XXL-Basilikum im Topf": {
+      "category": "vegetables",
+      "en": "XXL-Basil in pot",
+      "zh": "XXL-羅勒 盆栽",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "yfood This is Food": {
+      "category": "drinks",
+      "en": "yfood This is Food",
+      "zh": "yfood This is Food",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Yo Blüten- oder Fruchtsirup": {
+      "category": "drinks",
+      "en": "Yo Blossom or Fruit syrup",
+      "zh": "Yo 花卉或果味糖漿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "youcook Fertiggericht,": {
+      "category": "instant_food",
+      "en": "youcook ready meal",
+      "zh": "youcook 即食餐",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zahncreme | Oral-B": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zero Sirup | ALDI SPORTS": {
+      "category": "drinks",
+      "en": "Zero syrup",
+      "zh": "Zero 糖漿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zimt | Kania": {
+      "category": "pantry",
+      "en": "Cinnamon",
+      "zh": "肉桂",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zitronen": {
+      "category": "fruits",
+      "en": "Lemons",
+      "zh": "檸檬",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zitronen- Pfeffer- Rohschinken": {
+      "category": "meat",
+      "en": "Lemon Pepper Raw Ham",
+      "zh": "檸檬胡椒生火腿",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zott Sahne-Joghurt, Pure Joy oder Dessert": {
+      "category": "dairy",
+      "en": "Zott cream yogurt, Pure Joy or dessert",
+      "zh": "Zott 奶油優格、Pure Joy 或甜點",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zucchini, lose": {
+      "category": "vegetables",
+      "en": "Zucchini, loose",
+      "zh": "散裝櫛瓜",
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    },
+    "Zuckerhutfichte": {
+      "category": "non_food",
+      "en": null,
+      "zh": null,
+      "rules": "7aa1f2fb1d2f",
+      "model": "claude-haiku-5-5",
+      "added": "2026-11-23"
+    }
+  }
+}

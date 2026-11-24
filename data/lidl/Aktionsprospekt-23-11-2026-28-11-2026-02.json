@@ -1,0 +1,5207 @@
+{
+  "source": {
+    "flyer_url": "https://endpoints.leaflets.schwarz/v4/flyer?flyer_identifier=aktionsprospekt-23-11-2026-28-11-2026-08ced1&region_id=0&region_code=0",
+    "flyer_id": "01a1f3f3-b8bc-75f0-8eea-71942eb888c8",
+    "title": "23.11.2026 – 28.11.2026",
+    "offer_start": "2026-11-23",
+    "offer_end": "2026-11-28",
+    "image_key": "image"
+  },
+  "model": "claude-sonnet-5-5",
+  "prompt_sha256": "c2ea0bfc946dd3c4d77aa84278fd604988905dee64824377e242ec6589f37664",
+  "extracted_at": "2026-11-24T18:44:55.513Z",
+  "complete": true,
+  "failed_pages": [],
+  "usage": {
+    "input_tokens": 78300,
+    "output_tokens": 34977
+  },
+  "pages": [
+    {
+      "page": 1,
+      "image_url": "https://imgproxy.leaflets.schwarz/r4ckDWkSiAVq5zSnmn6pNsnoMfGpHsLYn4-637PJRyg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDFfMDgyOWRiOTI3Zjg4ZmQyNDE3ZDE1Njc5ZTQyOTM4MzcucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1208,
+      "seconds": 9
+    },
+    {
+      "page": 2,
+      "image_url": "https://imgproxy.leaflets.schwarz/vUj77g_RUeveEQS5V3yzCHDFHVM_CAZzkA-_nJnni6A/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDJfNjM0MmNkMDQzZTM5ZTk2YTYxYmE0MWZkOWRlMjJmMzQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 485,
+      "seconds": 5.5
+    },
+    {
+      "page": 3,
+      "image_url": "https://imgproxy.leaflets.schwarz/d_yxeo4_gn77P26nZHNv_w64_0qrTLSRYhq4DZzsOnM/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDNfM2ZiZWEzNDJlZWRhOTc1N2MwN2MwZWYwZjZhMDdlMTgucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1199,
+      "seconds": 8.5
+    },
+    {
+      "page": 4,
+      "image_url": "https://imgproxy.leaflets.schwarz/YRLmn0CvG567JSYaiM9_ifBWeRkz7oKrHOveR0f-X3k/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDRfMWNlZGUyZjRjM2U0Njg0NzdhYzM0MDdjMGUyMjQwODIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 884,
+      "seconds": 5.7
+    },
+    {
+      "page": 5,
+      "image_url": "https://imgproxy.leaflets.schwarz/YP52XHRUqvjtcdXblnLzzLwlKGpq4vFqUsfvQbveRwM/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDVfMTVkMjQ1YTlhYTVjMWYxYWVhYzY1NjYzYTFlYjcyYzQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 715,
+      "seconds": 4.9
+    },
+    {
+      "page": 6,
+      "image_url": "https://imgproxy.leaflets.schwarz/fXug9Nyyvq612dd0yv0WdlbaNBr8Ob5uJh8CaqHmfLg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDZfMzY4ZDBmNWEyYzg0NzJhZjUzMTAwZmY1MmVhMTczYTEucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 600,
+      "seconds": 4.5
+    },
+    {
+      "page": 7,
+      "image_url": "https://imgproxy.leaflets.schwarz/3HobLIVSiDUtdTmC66ih8KAwqQlyxRFoOQwW1UvTwxk/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDdfMTM1N2M1ZTc3ZjIwOTA4YWNjNWUwZTlkMzdkMWQ2MmQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1283,
+      "seconds": 7.4
+    },
+    {
+      "page": 8,
+      "image_url": "https://imgproxy.leaflets.schwarz/sdKV4p6MKHcQbJpIHxaqY6dF7vqNQ7ER3dURj2f5R80/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDhfM2E3MTUwZmU2M2Y5NDIyMTIzYmZhYWRkNjE4MzkzZTkucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1019,
+      "seconds": 6.6
+    },
+    {
+      "page": 9,
+      "image_url": "https://imgproxy.leaflets.schwarz/7EV5wYMxoxKIBc7QPcWUJh5eoYDhDG2JUDViJ_SFxzI/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMDlfODE1Y2JiN2FhNzFhMzgxNDE0Zjg2OWE2MTI4YzRmMzYucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1304,
+      "seconds": 7.5
+    },
+    {
+      "page": 10,
+      "image_url": "https://imgproxy.leaflets.schwarz/x89Kch11PhU0e5WwXwAnKMQ4hvtyk4pweuVXuv3bXio/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTBfNmRkYTFkYjk2MTQyYTg3NTExN2IwMWJlZWY5NzM1YmIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 624,
+      "seconds": 4.5
+    },
+    {
+      "page": 11,
+      "image_url": "https://imgproxy.leaflets.schwarz/kjZV5GTIrp5UEvF0PwljxQ1lu8zjqxqgAv9c4oWHAw8/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTFfMTA0NWMzMzlhMDhhMDRmZmM3ZDE5ZDZmMzBkMTM3MTUucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1692,
+      "seconds": 9.2
+    },
+    {
+      "page": 12,
+      "image_url": "https://imgproxy.leaflets.schwarz/b8QYKRXrA1Hp1ND3gvE6UTuIFY4b686e4Ivx5RcTuU4/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTJfZDg5Mzc2M2YxNmE4MmRlNzBjNjQ3ZmUyOWE3MWEwMzMucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1266,
+      "seconds": 7.6
+    },
+    {
+      "page": 13,
+      "image_url": "https://imgproxy.leaflets.schwarz/AKGSerJ2qiSEQovahks3HrbO7t6EcsSmjymV0cwuFOo/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTNfMzkzM2EyY2MzYThlN2VhMjgxZWZlZDgxYmZkZTA4MzQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1317,
+      "seconds": 7.9
+    },
+    {
+      "page": 14,
+      "image_url": "https://imgproxy.leaflets.schwarz/v5v9I3AOTBxufhn44e_S-nUIN2rjm4Xb5dv0pUipsW0/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTRfODljNjc3M2ZjNjUxNmFmMTU5NzEwYjgwZDIyZDJhMGQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1201,
+      "seconds": 6.7
+    },
+    {
+      "page": 15,
+      "image_url": "https://imgproxy.leaflets.schwarz/PvyxCePqF-MvRaNq49TwZ-3u4nh2MAQIipfnItPM4Vg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTVfYzNiMTBkNDNhNTMwNThlNjk4ZmI2YzAzZTQ2ZDQzZmIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 311,
+      "seconds": 3.2
+    },
+    {
+      "page": 16,
+      "image_url": "https://imgproxy.leaflets.schwarz/Nlz1JVgf3tr_3RVc6P7aPGF2O4pSm6nG5HXkV7F6aco/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTZfNjNmYWZhNTQzZjNjZjU1ZDRiMDZhNmEwMTNiZjhhNDQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 434,
+      "seconds": 3.7
+    },
+    {
+      "page": 17,
+      "image_url": "https://imgproxy.leaflets.schwarz/lfo-NrIB0EWhBI0llik4IiVUKH7vzBvEm5kKGP0EqSQ/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTdfMzQ0M2NiNTEzZjZjM2Y0OGQ2MTM2MGFiNzJlZmNhYzcucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 916,
+      "seconds": 5.4
+    },
+    {
+      "page": 18,
+      "image_url": "https://imgproxy.leaflets.schwarz/_yLS-Xdt2sbOUdQ6DAF91bqZdJX88Nc3XgBtQP16ySs/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMThfNTBhMTI5NDE3ZmNmYWMxNDM2MGRiOWFkYWVmZDRkMWIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 918,
+      "seconds": 5.6
+    },
+    {
+      "page": 19,
+      "image_url": "https://imgproxy.leaflets.schwarz/DqnABXwlKlOvaSyfEEFnC6exbqO3RToJQQea3Vpm8Ik/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMTlfZjgwY2Q2ODliOGY0ODA5NzEwY2FkMzViZDBlZmE1NmIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 809,
+      "seconds": 4.9
+    },
+    {
+      "page": 20,
+      "image_url": "https://imgproxy.leaflets.schwarz/H6BsWhpHG_HmpZ3jjomqpwfRDz1--7g86IKiLaGBsJM/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjBfNzNiMzA4NjkwZjYwNjYyZjk3NjIwNzY4ZjYyNDU1NDYucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 527,
+      "seconds": 3.9
+    },
+    {
+      "page": 21,
+      "image_url": "https://imgproxy.leaflets.schwarz/te1IvY_cTNYARmEyZK5N2QdiBXnP8AzHHJZbMfFGn2k/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjFfNDNlZjcxMmIyZWE0OWZmM2ExMzg0ZTM2ZTM3NWJhM2YucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 906,
+      "seconds": 5.4
+    },
+    {
+      "page": 22,
+      "image_url": "https://imgproxy.leaflets.schwarz/R0E2sjMg8FuhmIdbwH8uloYou1RR4a0lcl4wm_Pc4TE/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjJfMjczMDkxNmM3MWEyODY0YjZjYzAwOWZiOGVjZWFhMGUucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 849,
+      "seconds": 5.1
+    },
+    {
+      "page": 23,
+      "image_url": "https://imgproxy.leaflets.schwarz/IVE02eOtCNrsx7UVOhMWT_vbL5K2T7rY0Mu_lvg6Jtw/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjNfNjM4ZmUwZDUwZjUzYmNiZmVkYjA2NDA1MzU2NWUyZDIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1029,
+      "seconds": 6.3
+    },
+    {
+      "page": 24,
+      "image_url": "https://imgproxy.leaflets.schwarz/5HMTOnlPKXVkAE15xIscLujl4P_OfngBoeS2axBTgxA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjRfMGYyNDBjZmFhYzM5YzA4MmJhOTM4YWRjM2U3MmY5ZjcucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 984,
+      "seconds": 6
+    },
+    {
+      "page": 25,
+      "image_url": "https://imgproxy.leaflets.schwarz/mFFykFvhyfP1-Gqlc_IU8mm4GWLioYTJQzRv6wnQitg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjVfYjEwMTE2ODdmYzVlN2IxZmY5NzYyZWMwZWE5YzkwY2IucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1135,
+      "seconds": 6.6
+    },
+    {
+      "page": 26,
+      "image_url": "https://imgproxy.leaflets.schwarz/0UCUDPyRT_7zDeK314iaL2tNhYBkh-zE0RuFV4Xquxc/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjZfZmU4NTE1YjgyMWNhMzc5NmE2YjFhNzcyMTljOGY0MjUucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 277,
+      "seconds": 2.5
+    },
+    {
+      "page": 27,
+      "image_url": "https://imgproxy.leaflets.schwarz/R3y-4PZzpNlbCty4n-iK7-jAnzVfZN_9LjSllSzqboA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjdfNDg3ODgyYTVlMDQ2ZWUxYzQwYTZiNWMwMDc3NzU3ODIucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 926,
+      "seconds": 5.8
+    },
+    {
+      "page": 28,
+      "image_url": "https://imgproxy.leaflets.schwarz/dJc4Y16c3vdxpeSHkI3Wz6hnc5HriqnjeNxfrojs-jQ/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjhfOWU2Nzk3MTFhNzU1NWM1MWFiNDA2NzU4MDgzZmRiNjEucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1633,
+      "seconds": 8.4
+    },
+    {
+      "page": 29,
+      "image_url": "https://imgproxy.leaflets.schwarz/hWiAAkhhE1kzImbb-LScUB-cBC2eik_24tunqMCVans/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMjlfNGRlMzNlMmU5ZWI3MzQwMGU0OWJlMTIwZGVjN2UzNjYucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1703,
+      "seconds": 9.7
+    },
+    {
+      "page": 30,
+      "image_url": "https://imgproxy.leaflets.schwarz/skaTCgmj2b7xaWLuv52duCLH9b2y-rDND3qzs_zWbcw/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzBfNTJkZmZiN2I3N2FiMWRmMjQ2YTc2MmIwMjY3MWJlY2YucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 518,
+      "seconds": 6.1
+    },
+    {
+      "page": 31,
+      "image_url": "https://imgproxy.leaflets.schwarz/_UVxr8xfcsqSia5pysCtEkoDK4Hzdfr2H_Wl4Od5jSg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzFfNGNmNDk1YWQ4MjFiNjkwZDY0OWRlYTY2Y2VmOGE2MzUucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 970,
+      "seconds": 5.9
+    },
+    {
+      "page": 32,
+      "image_url": "https://imgproxy.leaflets.schwarz/3f2COZpMpJ62WGe5C5N4SeOQ-z9gfJNAwcVeVgdfAU0/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzJfNDA0YzgxOTEzZmZkMzVjMDZmY2ExMTBlYTFhNWEyYmQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 771,
+      "seconds": 5.2
+    },
+    {
+      "page": 33,
+      "image_url": "https://imgproxy.leaflets.schwarz/5vCsmgZlsdLMs8gXOUtEzChjcP6UQ6FlkwyawjjQqYA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzNfOTk0NTM4NjljZDJlNjk4ZjBkZjQyMzljNjM4M2Y5N2MucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1451,
+      "seconds": 8
+    },
+    {
+      "page": 34,
+      "image_url": "https://imgproxy.leaflets.schwarz/2dyXDsyGudeG7JiPNeWa_vaidGKa5EDCvVamUtbekcA/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzRfZmVkMDQzYWZjYmFmOGQyOThkZjdhYWY2NzFjZjQ2NDgucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1231,
+      "seconds": 7
+    },
+    {
+      "page": 35,
+      "image_url": "https://imgproxy.leaflets.schwarz/X_SNvRK5AaOD5BhcHQhd1jBbHKwskowv1Y0_lEcLce4/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzVfMjlkYjE2OTg1OTgwMDYyNDkxMDk3ZjdkMDU1OGEwMTQucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 1113,
+      "seconds": 6.6
+    },
+    {
+      "page": 36,
+      "image_url": "https://imgproxy.leaflets.schwarz/FnoYdFELk7A1Arq-te2U4AAX6E-qAPBEEUYtQaM7U_Q/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWYzZjMtYjhiYy03NWYwLThlZWEtNzE5NDJlYjg4OGM4L3BhZ2UtMzZfYjczNzZjYWVhNjM3ZGY4M2QxNmRkZjUyYThiNzYzMDcucG5n.jpg",
+      "width": 708,
+      "height": 1200,
+      "model_sees": [
+        708,
+        1200
+      ],
+      "visual_tokens": 1118,
+      "status": "ok",
+      "input_tokens": 2175,
+      "output_tokens": 769,
+      "seconds": 5.4
+    }
+  ],
+  "products": [
+    {
+      "product": "Nutella",
+      "brand": "Nutella",
+      "price": 1.99,
+      "original_price": 3.99,
+      "discount": "-50%",
+      "detail": "Je 450 g; 1 kg = 4.42; Normalpreis: 3.99, 1 kg = 8.87; Mit Lidl Plus; Max. 3 Stück pro Kunde; Nur gültig bis Mi. 25.11.",
+      "image_bbox": [
+        0,
+        0.335,
+        0.3277,
+        0.5967
+      ],
+      "page": 1,
+      "category": "pantry",
+      "product_en": "Nutella",
+      "product_cn": "Nutella"
+    },
+    {
+      "product": "Roquefort AOP",
+      "brand": "Deluxe",
+      "price": 2.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 100 g; 1 kg = 22.90",
+      "image_bbox": [
+        0.3573,
+        0.5267,
+        0.5169,
+        0.6067
+      ],
+      "page": 1,
+      "category": "dairy",
+      "product_en": "Roquefort AOP",
+      "product_cn": "Roquefort AOP"
+    },
+    {
+      "product": "Prosciutto di Parma D.O.P.",
+      "brand": "Deluxe",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. 18 Monate gereift. Je 150 g; 1 kg = 33.27",
+      "image_bbox": [
+        0.5537,
+        0.5267,
+        0.7627,
+        0.6067
+      ],
+      "page": 1,
+      "category": "meat",
+      "product_en": "Prosciutto di Parma D.O.P.",
+      "product_cn": "Prosciutto di Parma D.O.P."
+    },
+    {
+      "product": "Steirisches Kürbiskernöl g.g.A.",
+      "brand": "Deluxe",
+      "price": 4.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Aus der Steiermark. Je 250 ml; 1 l = 17.96",
+      "image_bbox": [
+        0.8093,
+        0.4625,
+        0.9887,
+        0.6083
+      ],
+      "page": 1,
+      "category": "pantry",
+      "product_en": "Styrian pumpkin seed oil g.g.A.",
+      "product_cn": "施蒂利亞南瓜籽油 g.g.A."
+    },
+    {
+      "product": "Sekt",
+      "brand": "Rotkäppchen",
+      "price": 2.88,
+      "original_price": 4.99,
+      "discount": "-42%",
+      "detail": "Je 750 ml; 1 l = 3.99; UVP 4.99, -40% = 2.99; Mit Lidl Plus -42% 2.88 (1 l = 3.84); Tiefpreis Garantie",
+      "image_bbox": [
+        0.1808,
+        0.7617,
+        0.3277,
+        0.8667
+      ],
+      "page": 1,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Steinofenpizza",
+      "brand": "Gustavo Gusto",
+      "price": 2.99,
+      "original_price": 4.99,
+      "discount": "-40%",
+      "detail": "Je 410/430/455/460/465/475 g; 1 kg = 8.12/7.74/7.32/7.24/7.16/7.01; UVP 4.99, -33% = 3.33; Mit Lidl Plus -40% 2.99 (1 kg = 7.29/6.95/6.57/6.50/6.43/6.29); Tiefpreis Garantie",
+      "image_bbox": [
+        0.5056,
+        0.7875,
+        0.661,
+        0.8667
+      ],
+      "page": 1,
+      "category": "instant_food",
+      "product_en": "Stone oven pizza",
+      "product_cn": "石窯披薩"
+    },
+    {
+      "product": "Schottischer Räucherlachs",
+      "brand": "Deluxe",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Deluxe-Woche; ab 2.99",
+      "image_bbox": [
+        0.7232,
+        0.7792,
+        0.9718,
+        0.8333
+      ],
+      "page": 1,
+      "category": "seafood",
+      "product_en": "Scottish smoked salmon",
+      "product_cn": "蘇格蘭煙燻鮭魚"
+    },
+    {
+      "product": "Hirschbraten",
+      "brand": "Deluxe",
+      "price": null,
+      "original_price": null,
+      "discount": null,
+      "detail": "Deluxe-Woche",
+      "image_bbox": [
+        0.7797,
+        0.8167,
+        0.9718,
+        0.8833
+      ],
+      "page": 1,
+      "category": "meat",
+      "product_en": "Venison roast",
+      "product_cn": "鹿肉烤肉"
+    },
+    {
+      "product": "Cannoli",
+      "brand": "Deluxe",
+      "price": null,
+      "original_price": null,
+      "discount": null,
+      "detail": "Deluxe-Woche",
+      "image_bbox": [
+        0.726,
+        0.8083,
+        0.7994,
+        0.89
+      ],
+      "page": 1,
+      "category": "bread",
+      "product_en": "Cannoli",
+      "product_cn": "卡諾利"
+    },
+    {
+      "product": "Dunkle Pflaumen",
+      "brand": null,
+      "price": 1.95,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: Spanien/Italien, Klasse I, Je 1 kg",
+      "image_bbox": [
+        0,
+        0.1458,
+        0.452,
+        0.5
+      ],
+      "page": 2,
+      "category": "fruits",
+      "product_en": "Dark plums",
+      "product_cn": "深色李子"
+    },
+    {
+      "product": "Feldsalat",
+      "brand": null,
+      "price": 0.95,
+      "original_price": 1.19,
+      "discount": "-20%",
+      "detail": "Ursprung: Italien, Klasse I. Je 150 g, 1 kg = 6.33, Mit Lidl Plus",
+      "image_bbox": [
+        0.5367,
+        0.3083,
+        1,
+        0.5042
+      ],
+      "page": 2,
+      "category": "vegetables",
+      "product_en": "Lamb's lettuce",
+      "product_cn": "羊耳菜"
+    },
+    {
+      "product": "Mandarinen/Clementinen",
+      "brand": null,
+      "price": 1.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Ursprung: Spanien, Klasse I. Je 1 kg",
+      "image_bbox": [
+        0.0254,
+        0.6608,
+        0.4774,
+        0.8542
+      ],
+      "page": 2,
+      "category": "fruits",
+      "product_en": "Mandarins/Clementines",
+      "product_cn": "柑橘/克萊門氏小柑橘"
+    },
+    {
+      "product": "Kiwi, rot",
+      "brand": null,
+      "price": 2.49,
+      "original_price": 2.99,
+      "discount": "-16%",
+      "detail": "4 Stück, Sorte: Red Passion, Ursprung: Italien, Klasse I, Je 4 Stück",
+      "image_bbox": [
+        0.5438,
+        0.6608,
+        0.9153,
+        0.85
+      ],
+      "page": 2,
+      "category": "fruits",
+      "product_en": "Kiwi, red",
+      "product_cn": "紅奇異果"
+    },
+    {
+      "product": "Romana Salat",
+      "brand": null,
+      "price": 1.29,
+      "original_price": 1.49,
+      "discount": "-13%",
+      "detail": "Ursprung: Spanien, Klasse I, Je Stück",
+      "image_bbox": [
+        0,
+        0.0708,
+        0.3418,
+        0.2375
+      ],
+      "page": 3,
+      "category": "vegetables",
+      "product_en": "Romana salad",
+      "product_cn": "羅曼娜生菜"
+    },
+    {
+      "product": "Zucchini, lose",
+      "brand": null,
+      "price": 1.19,
+      "original_price": 1.39,
+      "discount": "Mit Lidl Plus Aktion",
+      "detail": "Ursprung: Spanien/Italien, Klasse I, kg-Preis",
+      "image_bbox": [
+        0.3701,
+        0.0708,
+        0.6638,
+        0.2125
+      ],
+      "page": 3,
+      "category": "vegetables",
+      "product_en": "Zucchini, loose",
+      "product_cn": "散裝櫛瓜"
+    },
+    {
+      "product": "Zuckerhutfichte",
+      "brand": null,
+      "price": 16.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit oder ohne Dekoschnee. Weihnachtlich dekoriert. Höhe (inkl. Korb): ca. 75 cm. Je Stück. Für drinnen/draußen",
+      "image_bbox": [
+        0.6822,
+        0.0833,
+        0.8475,
+        0.2583
+      ],
+      "page": 3,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Scheinzypressen in Goldtrend-Keramik",
+      "brand": null,
+      "price": 2.99,
+      "original_price": 3.99,
+      "discount": "-25% mit Lidl Plus",
+      "detail": "Dekoriert. Höhe (inkl. Topf): ca. 32 cm. Beton-Übertopf: Ø = 10,5 cm. Kulturtopf: Ø = 9 cm. Je Topf. Für drinnen/draußen",
+      "image_bbox": [
+        0.8616,
+        0.285,
+        0.9774,
+        0.4167
+      ],
+      "page": 3,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Bio Gurken, lose",
+      "brand": null,
+      "price": 0.89,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Ursprung: Spanien, Klasse I, Je Stück",
+      "image_bbox": [
+        0.0113,
+        0.3742,
+        0.4167,
+        0.535
+      ],
+      "page": 3,
+      "category": "vegetables",
+      "product_en": "Organic cucumbers, loose",
+      "product_cn": "有機黃瓜，散裝"
+    },
+    {
+      "product": "Avocado, lose",
+      "brand": null,
+      "price": 0.77,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Ursprung: Peru/Chile/Israel, Klasse I, Je Stück",
+      "image_bbox": [
+        0.3884,
+        0.3933,
+        0.6398,
+        0.56
+      ],
+      "page": 3,
+      "category": "fruits",
+      "product_en": "Avocado, loose",
+      "product_cn": "酪梨，散裝"
+    },
+    {
+      "product": "Weihnachtsstern",
+      "brand": null,
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mind. 4 Brakteen. Höhe (inkl. Topf): ca. 32-40 cm. Ø = 12 cm. Je Topf. Für drinnen. Ab Do. 26.11.",
+      "image_bbox": [
+        0.7034,
+        0.5358,
+        0.9463,
+        0.6708
+      ],
+      "page": 3,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Deutscher Spitzkohl",
+      "brand": null,
+      "price": 0.99,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Klasse I, kg-Preis, Aus deutscher Ernte",
+      "image_bbox": [
+        0.226,
+        0.7142,
+        0.6568,
+        0.9417
+      ],
+      "page": 3,
+      "category": "vegetables",
+      "product_en": "German pointed cabbage",
+      "product_cn": "德國尖頭高麗菜"
+    },
+    {
+      "product": "Topfrosen Trio",
+      "brand": null,
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Farben-Trio. Höhe (inkl. Topf): ca. 34 cm. Ø = 14 cm. Je Topf. Für draußen",
+      "image_bbox": [
+        0.6921,
+        0.7333,
+        0.9463,
+        0.8667
+      ],
+      "page": 3,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Wärmflasche mit Aromastein",
+      "brand": "Happy Hotty",
+      "price": 7.99,
+      "original_price": 14.99,
+      "discount": "-46%",
+      "detail": "Mit waschbarem Kuschelbezug. Eigener Duft verwendbar. Inkl. Pfefferminz-Duft (5 ml). Füllmenge ca. 1 l. Je Stück. Erhältlich seit So. 8.11. Auch online",
+      "image_bbox": [
+        0.0494,
+        0.1725,
+        0.4703,
+        0.4725
+      ],
+      "page": 4,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Farbrolle mit Wechselbezügen",
+      "brand": "Rollfix",
+      "price": 7.99,
+      "original_price": 14.99,
+      "discount": "-46%",
+      "detail": "All-in-One-Set: Farbrolle mit Bügel und Griff sowie 3 wiederverwend- und auswaschbaren Bezügen. Arbeitsbreite ca. 18 cm. Je Set. Erhältlich seit So. 8.11. Schnell wechseln dank Easy-Klettsystem. Auch online",
+      "image_bbox": [
+        0.5438,
+        0.1608,
+        0.9393,
+        0.4708
+      ],
+      "page": 4,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Flaschen-Organizer",
+      "brand": "Bottle Stack",
+      "price": 6.99,
+      "original_price": 12.99,
+      "discount": "-46%",
+      "detail": "2 Silikon-Keile (je ca. L 10 x B 8 x H 2 cm) für Kühlschränke, Regale, Garagen u.v.m. Ideal für Glas-, Plastikflaschen oder Dosen von 0,33 l bis 1,5 l. Weiches, formstabiles Material. Je 2 Stück. Erhältlich seit So. 15.11. Auch online",
+      "image_bbox": [
+        0.0565,
+        0.575,
+        0.3997,
+        0.8058
+      ],
+      "page": 4,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Wärmereflektierende Wandfarbe",
+      "brand": "Evoloxx",
+      "price": 89.99,
+      "original_price": 129.99,
+      "discount": "-30%",
+      "detail": "Kann helfen, den Heizbedarf zu reduzieren. Schnell trocknend und hohe Deckkraft. Geeignet für Innen-wand-Untergründe wie Putz, Beton oder Tapete. Steel-White mit Metallic-Effekt. Je 4,5 l; 1 l = 20.00. Ausreichend für ca. 18-36 m². Erhältlich seit So. 15.11. Auch online",
+      "image_bbox": [
+        0.5621,
+        0.56,
+        0.9435,
+        0.8017
+      ],
+      "page": 4,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Bohrlochfüller",
+      "brand": "VERSCHLUSSFIX",
+      "price": 4.99,
+      "original_price": 7.99,
+      "discount": "-37%",
+      "detail": "Schnell und einfach - kein Spachteln, kein Schleifen, keine Trockenzeit. Für die gängigsten Bohrlöcher und nahezu alle Innenbereiche. Nach Belieben überstreichen oder -tapezieren. 24 Füllungen aus Gips (je 8x Ø 6/8/10 mm) im Etui. Je Stück. Erhältlich seit So. 22.11. Auch online",
+      "image_bbox": [
+        0.0621,
+        0.1467,
+        0.4661,
+        0.4033
+      ],
+      "page": 5,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Frischebox für den Kühlschrank",
+      "brand": "STARBOX",
+      "price": 9.99,
+      "original_price": 14.99,
+      "discount": "-33%",
+      "detail": "Starter-Kit für mind. 3 Monate Frische-Unterstützung. 2-fach-Technologie: integrierter Ethylen-Absorber reduziert Reifegase, Silica-Gel bindet überschüssige Feuchtigkeit. Flexible Platzierung im Obst- & Gemüsefach. Je Stück. Erhältlich seit So. 22.11. Auch online",
+      "image_bbox": [
+        0.0508,
+        0.5883,
+        0.4294,
+        0.785
+      ],
+      "page": 5,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Wasserhahn-Entkalker",
+      "brand": "KALKBUSTER",
+      "price": 6.99,
+      "original_price": 9.99,
+      "discount": "-30%",
+      "detail": "Ohne Abschrauben, ohne Werkzeug, ohne Chemie. Äußeren Kalk ohne großen Kraftaufwand beseitigen. Passend für alle gängigen Wasserhähne (ca. Ø 16-28). Nicht für innenliegende Perlatoren geeignet. Je Stück. Erhältlich seit So. 22.11. Auch online",
+      "image_bbox": [
+        0.5169,
+        0.58,
+        0.904,
+        0.84
+      ],
+      "page": 5,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Krustenbrot",
+      "brand": null,
+      "price": 1.29,
+      "original_price": 1.65,
+      "discount": "-21%",
+      "detail": "Je 1 kg; Normalpreis: 1.65; Mit Lidl Plus",
+      "image_bbox": [
+        0.0141,
+        0.3583,
+        0.5085,
+        0.4958
+      ],
+      "page": 6,
+      "category": "bread",
+      "product_en": "Crusty bread",
+      "product_cn": "脆皮麵包"
+    },
+    {
+      "product": "Wild Bread mit Ruchmehl",
+      "brand": "Deluxe",
+      "price": 1.99,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je 500 g; 1 kg = 3.98",
+      "image_bbox": [
+        0.0537,
+        0.5517,
+        0.459,
+        0.6792
+      ],
+      "page": 6,
+      "category": "bread",
+      "product_en": "Wild Bread with Ruchmehl",
+      "product_cn": "Wild Bread 含 Ruchmehl"
+    },
+    {
+      "product": "Käselaugenstange",
+      "brand": null,
+      "price": 1.18,
+      "original_price": 1.77,
+      "discount": "3 für 2",
+      "detail": "Je 3 Stück; Entspricht -.40/Stk. beim Kauf von 3 Stk.; Normalpreis: 1.77; Mit Lidl Plus",
+      "image_bbox": [
+        0.5438,
+        0.425,
+        0.9746,
+        0.6292
+      ],
+      "page": 6,
+      "category": "bread",
+      "product_en": "Cheese pretzel stick",
+      "product_cn": "起司鹼水條"
+    },
+    {
+      "product": "Steinofenbrötchen",
+      "brand": "Bioland",
+      "price": 0.98,
+      "original_price": null,
+      "discount": "3 für 2",
+      "detail": "Je 3 Stück; Entspricht -.33/Stk. beim Kauf von 3 Stk.",
+      "image_bbox": [
+        0.0876,
+        0.7583,
+        0.3743,
+        0.8917
+      ],
+      "page": 6,
+      "category": "bread",
+      "product_en": "Stone oven rolls",
+      "product_cn": "石窯麵包捲"
+    },
+    {
+      "product": "Erdbeer-Herz",
+      "brand": null,
+      "price": 0.99,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je Stück",
+      "image_bbox": [
+        0.5297,
+        0.7625,
+        0.9746,
+        0.875
+      ],
+      "page": 6,
+      "category": "sweets_snacks",
+      "product_en": "Strawberry heart",
+      "product_cn": "草莓心形"
+    },
+    {
+      "product": "White Tiger Garnelen",
+      "brand": "Fischerstolz",
+      "price": 5.49,
+      "original_price": null,
+      "discount": "-20%",
+      "detail": "Gekocht und geschält. Je 400 g; 1 kg = 13.73; Standardpackung: 220 g; 400 g XXL",
+      "image_bbox": [
+        0.2302,
+        0.065,
+        0.6427,
+        0.27
+      ],
+      "page": 7,
+      "category": "seafood",
+      "product_en": "White Tiger shrimp",
+      "product_cn": "White Tiger 蝦"
+    },
+    {
+      "product": "Döner Croissant",
+      "brand": null,
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "DIY Set für 2 Personen; Je 763 g; 1 kg = 10.47; 2er-Pack",
+      "image_bbox": [
+        0.6751,
+        0.0933,
+        1,
+        0.3017
+      ],
+      "page": 7,
+      "category": "bread",
+      "product_en": "Döner Croissant",
+      "product_cn": "Döner 可頌"
+    },
+    {
+      "product": "Frisches Schweinefilet",
+      "brand": "Metzgerfrisch",
+      "price": 4.39,
+      "original_price": 6.2,
+      "discount": "-29%",
+      "detail": "Ganz. Ca. 517-575 g; kg-Preis = 8.49; Normalpreis: 11.99/kg; Mit Lidl Plus",
+      "image_bbox": [
+        0.1158,
+        0.3542,
+        0.339,
+        0.4417
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh pork tenderloin",
+      "product_cn": "新鮮豬裡脊"
+    },
+    {
+      "product": "Frische Hähnchenoberkeulen",
+      "brand": "Metzgerfrisch",
+      "price": 2.39,
+      "original_price": 3.49,
+      "discount": "-31%",
+      "detail": "HKL A. Je 600 g; 1 kg = 3.98; Normalpreis: 3.49; 1 kg = 5.82; Mit Lidl Plus",
+      "image_bbox": [
+        0.4379,
+        0.36,
+        0.6638,
+        0.46
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh chicken upper legs",
+      "product_cn": "新鮮雞腿上段"
+    },
+    {
+      "product": "Frisches Hähnchen-Geschnetzeltes",
+      "brand": "Metzgerfrisch",
+      "price": 3.79,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je 400 g; 1 kg = 9.48",
+      "image_bbox": [
+        0.7062,
+        0.3767,
+        0.9746,
+        0.4542
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh chicken strips",
+      "product_cn": "新鮮雞肉絲"
+    },
+    {
+      "product": "Frisches Hackfleisch, gemischt",
+      "brand": "Metzgerfrisch",
+      "price": 4.99,
+      "original_price": 6.49,
+      "discount": "-23%",
+      "detail": "Je 800 g; 1 kg = 6.24; 800 g XXL; Abb. ähnlich",
+      "image_bbox": [
+        0.0311,
+        0.5625,
+        0.3192,
+        0.66
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh mixed minced meat",
+      "product_cn": "新鮮混合絞肉"
+    },
+    {
+      "product": "Frisches Hähnchen-Innenfilet",
+      "brand": "Metzgerfrisch",
+      "price": 6.99,
+      "original_price": 8.99,
+      "discount": "-22%",
+      "detail": "Je 800 g; 1 kg = 8.74; 800 g XXL",
+      "image_bbox": [
+        0.3616,
+        0.5625,
+        0.6638,
+        0.66
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh chicken tenderloins",
+      "product_cn": "新鮮雞里肌"
+    },
+    {
+      "product": "Frische Hähnchenschenkel",
+      "brand": "Metzgerfrisch",
+      "price": 8.49,
+      "original_price": null,
+      "discount": "-29%",
+      "detail": "Mit Rückenstück. HKL A. Je 2,5 kg; 1 kg = 3.40; Standardpackung: 1,1 kg; 2,5 kg XXL",
+      "image_bbox": [
+        0.0311,
+        0.7475,
+        0.322,
+        0.8433
+      ],
+      "page": 7,
+      "category": "meat",
+      "product_en": "Fresh chicken drumsticks",
+      "product_cn": "新鮮雞腿"
+    },
+    {
+      "product": "Appassimento Puglia IGP, Rotwein, halbtrocken",
+      "brand": "Duca di Sasseta",
+      "price": 3.79,
+      "original_price": 4.49,
+      "discount": "-15%",
+      "detail": "Apulien/Italien. Je 0,75 l; 1 l = 5.05; Normalpreis: 4.49; 1 l = 5.99; Mit Lidl Plus",
+      "image_bbox": [
+        0.8164,
+        0.5608,
+        0.9463,
+        0.8442
+      ],
+      "page": 7,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Bourbon Vanille Extrakt Zubereitung",
+      "brand": "Belbake",
+      "price": 1.69,
+      "original_price": 1.99,
+      "discount": "-15%",
+      "detail": "Je 50 ml; 1 l = 33.80",
+      "image_bbox": [
+        0.6582,
+        0.0867,
+        0.774,
+        0.2683
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Bourbon Vanilla Extract Preparation",
+      "product_cn": "波本香草萃取製劑"
+    },
+    {
+      "product": "Vanillin Zucker",
+      "brand": "Belbake",
+      "price": 0.29,
+      "original_price": 0.39,
+      "discount": "-25%",
+      "detail": "15er-Pack; Je 120 g; 1 kg = 2.42",
+      "image_bbox": [
+        0.0932,
+        0.2933,
+        0.3164,
+        0.4192
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Vanillin Sugar",
+      "product_cn": "香草醛糖"
+    },
+    {
+      "product": "Kakao zum Backen",
+      "brand": "Belbake",
+      "price": 2.89,
+      "original_price": 3.29,
+      "discount": "-12%",
+      "detail": "Je 250 g; 1 kg = 11.56",
+      "image_bbox": [
+        0.4675,
+        0.2917,
+        0.6088,
+        0.425
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Cocoa for baking",
+      "product_cn": "烘焙用可可粉"
+    },
+    {
+      "product": "Nuss-Nougat Schnittfeste Masse",
+      "brand": "Belbake",
+      "price": 1.49,
+      "original_price": 1.79,
+      "discount": "-16%",
+      "detail": "Je 125 g; 1 kg = 11.92",
+      "image_bbox": [
+        0.8192,
+        0.2883,
+        0.9718,
+        0.4192
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Nut nougat cut-resistant mass",
+      "product_cn": "堅果牛軋糖耐切餡料"
+    },
+    {
+      "product": "Backpulver",
+      "brand": "Belbake",
+      "price": 0.35,
+      "original_price": 0.45,
+      "discount": "-22%",
+      "detail": "10er-Pack; Je 150 g; 1 kg = 2.33",
+      "image_bbox": [
+        0.096,
+        0.5117,
+        0.2472,
+        0.6325
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Baking powder",
+      "product_cn": "泡打粉"
+    },
+    {
+      "product": "Hefe",
+      "brand": "Belbake",
+      "price": 0.39,
+      "original_price": 0.49,
+      "discount": "-20%",
+      "detail": "Je 42 g; 1 kg = 9.29",
+      "image_bbox": [
+        0.4322,
+        0.5117,
+        0.5819,
+        0.6342
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Yeast",
+      "product_cn": "酵母"
+    },
+    {
+      "product": "Bourbon Vanilleschoten",
+      "brand": "Belbake",
+      "price": 1.49,
+      "original_price": 1.99,
+      "discount": "-25%",
+      "detail": "2 Stück; Je 2 Stück",
+      "image_bbox": [
+        0.7585,
+        0.5417,
+        0.952,
+        0.8733
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Bourbon vanilla pods",
+      "product_cn": "波本香草莢"
+    },
+    {
+      "product": "Sahnesteif",
+      "brand": "Belbake",
+      "price": 0.29,
+      "original_price": 0.35,
+      "discount": "-17%",
+      "detail": "5er-Pack; Je 40 g; 1 kg = 7.25",
+      "image_bbox": [
+        0.1017,
+        0.7333,
+        0.2401,
+        0.8583
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Cream stabilizer",
+      "product_cn": "鮮奶油穩定粉"
+    },
+    {
+      "product": "Sauerkirschen",
+      "brand": "Freshona",
+      "price": 2.99,
+      "original_price": 3.69,
+      "discount": "-18%",
+      "detail": "Entsteint. Je 720 ml; Abtropfgewicht: 350 ml; 1 l = 8.54",
+      "image_bbox": [
+        0.3616,
+        0.7317,
+        0.4972,
+        0.8783
+      ],
+      "page": 8,
+      "category": "pantry",
+      "product_en": "Sour cherries",
+      "product_cn": "酸櫻桃"
+    },
+    {
+      "product": "Feine Marzipan Rohmasse",
+      "brand": "Belbake",
+      "price": 1.59,
+      "original_price": 1.89,
+      "discount": "-15%",
+      "detail": "Je 200 g, 1 kg = 7.95",
+      "image_bbox": [
+        0.1102,
+        0.0717,
+        0.2556,
+        0.1933
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Fine Marzipan raw mass",
+      "product_cn": "細杏仁膏原料"
+    },
+    {
+      "product": "Kandierte Früchte",
+      "brand": "Belbake",
+      "price": 0.59,
+      "original_price": 0.69,
+      "discount": "-14%",
+      "detail": "Versch. Sorten, Je 100 g, 1 kg = 5.90",
+      "image_bbox": [
+        0.3701,
+        0.0733,
+        0.6356,
+        0.185
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Candied fruits",
+      "product_cn": "蜜餞水果"
+    },
+    {
+      "product": "Backoblaten",
+      "brand": "Hoch",
+      "price": 0.79,
+      "original_price": 0.99,
+      "discount": "-20%",
+      "detail": "Versch. Sorten, Je 37 g, 1 kg = 21.35",
+      "image_bbox": [
+        0.7669,
+        0.0692,
+        0.904,
+        0.21
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Baking wafers",
+      "product_cn": "烘焙威化紙"
+    },
+    {
+      "product": "Kokosraspel",
+      "brand": "Belbake",
+      "price": 0.99,
+      "original_price": 1.49,
+      "discount": "-33%",
+      "detail": "Naturbelassen. Je 250 g; 1 kg = 3.96",
+      "image_bbox": [
+        0.089,
+        0.2908,
+        0.2585,
+        0.4258
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Coconut shreds",
+      "product_cn": "椰子絲"
+    },
+    {
+      "product": "Backgewürze",
+      "brand": "Belbake",
+      "price": 0.65,
+      "original_price": 0.79,
+      "discount": "-17%",
+      "detail": "Versch. Sorten, Je 10/15 g, 100 g = 65.-/43.33",
+      "image_bbox": [
+        0.387,
+        0.2933,
+        0.613,
+        0.4158
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Baking spices",
+      "product_cn": "烘焙香料"
+    },
+    {
+      "product": "Zimt",
+      "brand": "Kania",
+      "price": 0.84,
+      "original_price": 0.99,
+      "discount": "-15%",
+      "detail": "Ganz. Je 20 g, 1 kg = 42.00",
+      "image_bbox": [
+        0.7514,
+        0.2908,
+        0.9011,
+        0.4142
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "Cinnamon",
+      "product_cn": "肉桂"
+    },
+    {
+      "product": "The Taste of Christmas Orangen-Mascarpone-Creme",
+      "brand": "Dr. Oetker",
+      "price": 1.79,
+      "original_price": 2.29,
+      "discount": "-21%",
+      "detail": "Je 52 g, 1 kg = 34.42",
+      "image_bbox": [
+        0.1511,
+        0.5142,
+        0.3192,
+        0.66
+      ],
+      "page": 9,
+      "category": "dairy",
+      "product_en": "The Taste of Christmas Orange Mascarpone Cream",
+      "product_cn": "The Taste of Christmas 橙味馬斯卡彭奶油"
+    },
+    {
+      "product": "The Taste of Christmas Kuchen Glasur",
+      "brand": "Dr. Oetker",
+      "price": 1.79,
+      "original_price": 2.29,
+      "discount": "-21%",
+      "detail": "Versch. Sorten, Je 125 g; 1 kg = 14.32",
+      "image_bbox": [
+        0.3941,
+        0.5108,
+        0.613,
+        0.6292
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "The Taste of Christmas Cake Glaze",
+      "product_cn": "The Taste of Christmas 蛋糕淋醬"
+    },
+    {
+      "product": "The Taste of Christmas Zimt Mousse",
+      "brand": "Dr. Oetker",
+      "price": 1.79,
+      "original_price": 2.29,
+      "discount": "-21%",
+      "detail": "Je 63 g, 1 kg = 28.41",
+      "image_bbox": [
+        0.1511,
+        0.7342,
+        0.3192,
+        0.8608
+      ],
+      "page": 9,
+      "category": "dairy",
+      "product_en": "The Taste of Christmas Cinnamon Mousse",
+      "product_cn": "The Taste of Christmas 肉桂慕斯"
+    },
+    {
+      "product": "The Taste of Christmas Warme Schokoküchlein",
+      "brand": "Dr. Oetker",
+      "price": 1.79,
+      "original_price": 2.29,
+      "discount": "-21%",
+      "detail": "Je 138 g, 1 kg = 12.97",
+      "image_bbox": [
+        0.4859,
+        0.7333,
+        0.6511,
+        0.8608
+      ],
+      "page": 9,
+      "category": "bread",
+      "product_en": "The Taste of Christmas Warm Chocolate Cakes",
+      "product_cn": "The Taste of Christmas 溫熱巧克力小蛋糕"
+    },
+    {
+      "product": "The Taste of Christmas Streudekor",
+      "brand": "Dr. Oetker",
+      "price": 2.49,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten, Je 110/115 g, 1 kg = 22.64/21.65",
+      "image_bbox": [
+        0.7034,
+        0.51,
+        0.9718,
+        0.8208
+      ],
+      "page": 9,
+      "category": "pantry",
+      "product_en": "The Taste of Christmas Sprinkle Decor",
+      "product_cn": "The Taste of Christmas 撒糖裝飾"
+    },
+    {
+      "product": "Energy Drink",
+      "brand": "Rockstar",
+      "price": 2,
+      "original_price": 5.96,
+      "discount": "4 für 2 (Mit Lidl Plus)",
+      "detail": "Versch. Sorten. Taurin- und koffeinhaltig. Je 4x 0,5 l zzgl. 1.- Pfand. Entspricht -.50/Stk. Kauf von 4 Stk. Einzelpreis: -.99 zzgl. 0.25 Pfand",
+      "image_bbox": [
+        0.1695,
+        0.3333,
+        0.4972,
+        0.6017
+      ],
+      "page": 10,
+      "category": "drinks",
+      "product_en": "Energy Drink",
+      "product_cn": "能量飲料"
+    },
+    {
+      "product": "Butter",
+      "brand": "Bayernkrone",
+      "price": 0.99,
+      "original_price": 2.49,
+      "discount": "-60%",
+      "detail": "Gekühlt. Je 250 g; 1 kg = 3.96",
+      "image_bbox": [
+        0.5537,
+        0.3792,
+        0.9746,
+        0.5683
+      ],
+      "page": 10,
+      "category": "dairy",
+      "product_en": "Butter",
+      "product_cn": "奶油"
+    },
+    {
+      "product": "Weihnachtsmarkt Tee",
+      "brand": "Meßmer",
+      "price": 1.49,
+      "original_price": 2.99,
+      "discount": "-50%",
+      "detail": "Versch. Sorten. Je 20x 2,5/20x 2 g; 1 kg = 37.25/29.80. Im Aufsteller",
+      "image_bbox": [
+        0.0395,
+        0.6458,
+        0.5113,
+        0.8333
+      ],
+      "page": 10,
+      "category": "drinks",
+      "product_en": "Christmas market tea",
+      "product_cn": "聖誕市集茶"
+    },
+    {
+      "product": "iO Elektrische Zahnbürste",
+      "brand": "Oral-B",
+      "price": 35.99,
+      "original_price": null,
+      "discount": "-28% (Mit Lidl Plus)",
+      "detail": "Versch. Sorten. Je Stück. Im Aufsteller. Im Aufsteller Preis 39.95 (-20%, UVP 49.99)",
+      "image_bbox": [
+        0.6992,
+        0.6375,
+        0.9746,
+        0.8208
+      ],
+      "page": 10,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Käsescheiben XXL",
+      "brand": "Leerdammer",
+      "price": 3.99,
+      "original_price": null,
+      "discount": "-42%",
+      "detail": "Je 360 g; 1 kg = 11.08. Gekühlt. Standardpackung: 140 g",
+      "image_bbox": [
+        0.0749,
+        0.0717,
+        0.322,
+        0.235
+      ],
+      "page": 11,
+      "category": "dairy",
+      "product_en": "Cheese slices XXL",
+      "product_cn": "起司片 XXL"
+    },
+    {
+      "product": "Haltbare fettarme Milch",
+      "brand": "Milbona",
+      "price": 8.5,
+      "original_price": 10.2,
+      "discount": "12 für 10",
+      "detail": "1,5 % Fett. Je 12x 1 l; 1 l = -.71. Entspricht -.71/Stk. beim Kauf von 12 Stk.",
+      "image_bbox": [
+        0.4237,
+        0.0708,
+        0.6384,
+        0.1792
+      ],
+      "page": 11,
+      "category": "dairy",
+      "product_en": "Long-life low-fat milk",
+      "product_cn": "長效保存低脂牛奶"
+    },
+    {
+      "product": "Whip",
+      "brand": "Miracel",
+      "price": 1.49,
+      "original_price": 2.65,
+      "discount": "-43%",
+      "detail": "Versch. Sorten. Je 500 ml; 1 l = 2.98. Normalpreis: 2.65; 1 kg = 5.30. Mit Lidl Plus",
+      "image_bbox": [
+        0.774,
+        0.0667,
+        0.9746,
+        0.1833
+      ],
+      "page": 11,
+      "category": "pantry",
+      "product_en": "Whip",
+      "product_cn": "Whip"
+    },
+    {
+      "product": "Cerealien",
+      "brand": "Nestlé",
+      "price": 5.99,
+      "original_price": 6.99,
+      "discount": "-1€",
+      "detail": "Versch. Sorten. Je 1/1,05 kg/900 g; 1 kg = 5.99/5.70/6.66. Im Aufsteller",
+      "image_bbox": [
+        0.0466,
+        0.2933,
+        0.3503,
+        0.4333
+      ],
+      "page": 11,
+      "category": "pantry",
+      "product_en": "Cereals",
+      "product_cn": "穀物早餐"
+    },
+    {
+      "product": "Chipsfrisch XXL",
+      "brand": "Funny-Frisch",
+      "price": 1.79,
+      "original_price": 2.79,
+      "discount": "-35%",
+      "detail": "Versch. Sorten. Je 215 g; 1 kg = 8.33. Im Aufsteller",
+      "image_bbox": [
+        0.3701,
+        0.2933,
+        0.6441,
+        0.4208
+      ],
+      "page": 11,
+      "category": "sweets_snacks",
+      "product_en": "Chipsfrisch XXL",
+      "product_cn": "Chipsfrisch XXL"
+    },
+    {
+      "product": "Mandeln",
+      "brand": "Belbake",
+      "price": 1.89,
+      "original_price": 2.49,
+      "discount": "-24%",
+      "detail": "Naturbelassen. Je 200 g; 1 kg = 9.45. Normalpreis: 2.49; 1 kg = 12.45. Mit Lidl Plus",
+      "image_bbox": [
+        0.774,
+        0.2875,
+        0.9746,
+        0.4267
+      ],
+      "page": 11,
+      "category": "sweets_snacks",
+      "product_en": "Almonds",
+      "product_cn": "杏仁"
+    },
+    {
+      "product": "Icetea XXL",
+      "brand": "Arizona",
+      "price": 1.39,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 1,75 l zzgl. 0.25 Pfand; 1 l = 0.79",
+      "image_bbox": [
+        0.0169,
+        0.5108,
+        0.1412,
+        0.7042
+      ],
+      "page": 11,
+      "category": "drinks",
+      "product_en": "Icetea XXL",
+      "product_cn": "Icetea XXL"
+    },
+    {
+      "product": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
+      "brand": "Coca-Cola",
+      "price": 1.19,
+      "original_price": 1.69,
+      "discount": "-29%",
+      "detail": "Versch. Sorten. Teilweise koffeinhaltig. Je 1,25 l zzgl. 0.25 Pfand; 1 l = 0.95",
+      "image_bbox": [
+        0.3503,
+        0.5108,
+        0.4802,
+        0.7125
+      ],
+      "page": 11,
+      "category": "drinks",
+      "product_en": "Coca-Cola/Fanta/Sprite/Mezzo Mix",
+      "product_cn": "Coca-Cola/Fanta/Sprite/Mezzo Mix"
+    },
+    {
+      "product": "Milch Freunde",
+      "brand": "Mister Choc",
+      "price": 1.99,
+      "original_price": 2.49,
+      "discount": "-20%",
+      "detail": "Versch. Sorten. Je 210 g; 1 kg = 9.48; Normalpreis: 2.49; 1 kg = 11.86. Mit Lidl Plus",
+      "image_bbox": [
+        0.7585,
+        0.51,
+        0.9746,
+        0.6417
+      ],
+      "page": 11,
+      "category": "sweets_snacks",
+      "product_en": "Milk Friends",
+      "product_cn": "牛奶好友"
+    },
+    {
+      "product": "Extra Bier",
+      "brand": "Corona",
+      "price": 5.49,
+      "original_price": 6.59,
+      "discount": "-16%",
+      "detail": "Je 6x 0,33 l zzgl. 1.50 Pfand; 1 l = 2.77. 6er-Pack",
+      "image_bbox": [
+        0.0212,
+        0.7708,
+        0.2994,
+        0.9292
+      ],
+      "page": 11,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Waschmittel",
+      "brand": "Ariel",
+      "price": 21.99,
+      "original_price": 29.99,
+      "discount": "-26%",
+      "detail": "Pulver, Flüssig oder Pods. Je 100/111/82 Waschladungen; 1 WL = -.22/-.20/-.27",
+      "image_bbox": [
+        0.3559,
+        0.7292,
+        0.6469,
+        0.9167
+      ],
+      "page": 11,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Naturelle",
+      "brand": "Volvic",
+      "price": 0.79,
+      "original_price": 1.35,
+      "discount": "-41%",
+      "detail": "Je 1,5 l zzgl. 0.25 Pfand; 1 l = 0.53. Normalpreis: 1.35; 1 l = 0.90. Mit Lidl Plus",
+      "image_bbox": [
+        0.7274,
+        0.7317,
+        0.8616,
+        0.9208
+      ],
+      "page": 11,
+      "category": "drinks",
+      "product_en": "Natural",
+      "product_cn": "天然"
+    },
+    {
+      "product": "Harry Potter",
+      "brand": "HARIBO",
+      "price": 0.89,
+      "original_price": 1.19,
+      "discount": "-25%",
+      "detail": "Versch. Sorten. Je 160 g; 1 kg = 5.56",
+      "image_bbox": [
+        0.048,
+        0.0625,
+        0.3362,
+        0.1658
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Harry Potter",
+      "product_cn": "Harry Potter"
+    },
+    {
+      "product": "M&M´S",
+      "brand": "M&M´S",
+      "price": 1.69,
+      "original_price": 2.99,
+      "discount": "-43%",
+      "detail": "Versch. Sorten. Je 128/150 g; 1 kg = 13.20/11.27",
+      "image_bbox": [
+        0.3701,
+        0.0683,
+        0.6328,
+        0.17
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "M&M´S",
+      "product_cn": "M&M´S"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "MILKA",
+      "price": 1.99,
+      "original_price": 3.29,
+      "discount": "-39%",
+      "detail": "Versch. Sorten. Je 90/95 g; 1 kg = 22.11/20.95",
+      "image_bbox": [
+        0.7062,
+        0.0642,
+        0.9605,
+        0.2267
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "DUPLO",
+      "price": 3.29,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je 75 g; 1 kg = 43.87",
+      "image_bbox": [
+        0.0395,
+        0.2933,
+        0.1864,
+        0.49
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Rocher Weihnachtsmann",
+      "brand": "FERRERO",
+      "price": 3.59,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je 70 g; 1 kg = 51.29",
+      "image_bbox": [
+        0.3503,
+        0.2917,
+        0.5028,
+        0.4917
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Rocher Santa Claus",
+      "product_cn": "Rocher 聖誕老人"
+    },
+    {
+      "product": "Rocher Tanne",
+      "brand": "FERRERO",
+      "price": 6.99,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Je 150 g; 1 kg = 46.60",
+      "image_bbox": [
+        0.7345,
+        0.2933,
+        0.9364,
+        0.4333
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Rocher Fir Tree",
+      "product_cn": "Rocher 冷杉"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "KINDER",
+      "price": 3.29,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Je 110 g; 1 kg = 29.91",
+      "image_bbox": [
+        0.0395,
+        0.5333,
+        0.1864,
+        0.7458
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Eisbär",
+      "brand": "YOGURETTE",
+      "price": 3.29,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Je 75 g; 1 kg = 43.87",
+      "image_bbox": [
+        0.3927,
+        0.51,
+        0.6158,
+        0.6517
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Polar Bear",
+      "product_cn": "北極熊"
+    },
+    {
+      "product": "Backmischung Käse-Kirsch-Streuselkuchen",
+      "brand": "DR. OETKER",
+      "price": 2.79,
+      "original_price": 4.49,
+      "discount": "-37%",
+      "detail": "Je 665 g; 1 kg = 4.20",
+      "image_bbox": [
+        0.791,
+        0.5108,
+        0.9379,
+        0.6333
+      ],
+      "page": 12,
+      "category": "pantry",
+      "product_en": "Baking mix cheese-cherry crumble cake",
+      "product_cn": "烘焙預拌粉 起司櫻桃奶酥蛋糕"
+    },
+    {
+      "product": "Hohlfiguren",
+      "brand": "KINDER",
+      "price": 3.79,
+      "original_price": null,
+      "discount": "3er-Pack",
+      "detail": "Je 85 g; 1 kg = 44.59",
+      "image_bbox": [
+        0.1045,
+        0.725,
+        0.4548,
+        0.865
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Hollow figures",
+      "product_cn": "空心造型巧克力"
+    },
+    {
+      "product": "Geschenkegruß",
+      "brand": "CARSTENS",
+      "price": 2.49,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Motive. Mit Edelmarzipan. Je 100 g; 1 kg = 24.90",
+      "image_bbox": [
+        0.5763,
+        0.7317,
+        0.9492,
+        0.8667
+      ],
+      "page": 12,
+      "category": "sweets_snacks",
+      "product_en": "Gift greeting",
+      "product_cn": "禮物問候"
+    },
+    {
+      "product": "Goldmais/ Erbsen & Möhrchen",
+      "brand": "Bonduelle",
+      "price": 2.79,
+      "original_price": null,
+      "discount": "3+1 gratis",
+      "detail": "Je 4x 160/4x 200 g; Abtropfgewicht: 560/520 g; 1 kg = 4.98/5.37",
+      "image_bbox": [
+        0.3545,
+        0.0708,
+        0.6412,
+        0.1767
+      ],
+      "page": 13,
+      "category": "pantry",
+      "product_en": "Golden corn/ Peas & Little carrots",
+      "product_cn": "金玉米/ 豌豆 & 小胡蘿蔔"
+    },
+    {
+      "product": "Culinesse XXL",
+      "brand": "Rama",
+      "price": 1.99,
+      "original_price": null,
+      "discount": "-35%",
+      "detail": "Versch. Sorten. Je 700 ml; 1 l = 2.84; Standardpackung: 450 ml",
+      "image_bbox": [
+        0.6822,
+        0.0708,
+        0.8545,
+        0.2683
+      ],
+      "page": 13,
+      "category": "dairy",
+      "product_en": "Culinesse XXL",
+      "product_cn": "Culinesse XXL"
+    },
+    {
+      "product": "Rocher",
+      "brand": "Ferrero",
+      "price": 7.59,
+      "original_price": null,
+      "discount": "-15%",
+      "detail": "Je 375 g; 1 kg = 20.24; Standardpackung: 200 g",
+      "image_bbox": [
+        0.0311,
+        0.3192,
+        0.3192,
+        0.4217
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Rocher",
+      "product_cn": "Rocher"
+    },
+    {
+      "product": "Riegel/ Duplo",
+      "brand": "Kinder",
+      "price": 5.39,
+      "original_price": null,
+      "discount": "18er-Pack",
+      "detail": "Je 327.6/378 g; 1 kg = 16.45/14.26",
+      "image_bbox": [
+        0.3588,
+        0.2967,
+        0.661,
+        0.4083
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Bar/ Duplo",
+      "product_cn": "棒條/ Duplo"
+    },
+    {
+      "product": "Bueno",
+      "brand": "Kinder",
+      "price": 4.59,
+      "original_price": null,
+      "discount": "-16%",
+      "detail": "Je 215 g; 1 kg = 21.35; Standardpackung: 129 g",
+      "image_bbox": [
+        0.7387,
+        0.2933,
+        0.9689,
+        0.4167
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Bueno",
+      "product_cn": "Bueno"
+    },
+    {
+      "product": "Linzeraugen XXL",
+      "brand": "Sondey",
+      "price": 3.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 520 g; 1 kg = 6.33",
+      "image_bbox": [
+        0.0311,
+        0.5142,
+        0.2938,
+        0.6467
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Linzer eyes XXL",
+      "product_cn": "林茲眼餅乾 XXL"
+    },
+    {
+      "product": "Muffins XXL",
+      "brand": "Kuchenzauber",
+      "price": 2.59,
+      "original_price": null,
+      "discount": "-13%",
+      "detail": "Versch. Sorten. Je 540 g; 1 kg = 4.80; Standardpackung: 360 g",
+      "image_bbox": [
+        0.3531,
+        0.5142,
+        0.6229,
+        0.6267
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Muffins XXL",
+      "product_cn": "瑪芬蛋糕 XXL"
+    },
+    {
+      "product": "Jaffa Cake Orange XXL",
+      "brand": "Sondey",
+      "price": 2.39,
+      "original_price": null,
+      "discount": "-10%",
+      "detail": "Je 450 g; 1 kg = 5.76; Standardpackung: 300 g",
+      "image_bbox": [
+        0.7189,
+        0.5108,
+        0.9633,
+        0.6383
+      ],
+      "page": 13,
+      "category": "sweets_snacks",
+      "product_en": "Jaffa Cake Orange XXL",
+      "product_cn": "Jaffa Cake 橘子 XXL"
+    },
+    {
+      "product": "Erdnussbutter XXL",
+      "brand": "McEnnedy",
+      "price": 2.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 650 g; 1 kg = 4.29",
+      "image_bbox": [
+        0.1314,
+        0.7333,
+        0.3008,
+        0.8667
+      ],
+      "page": 13,
+      "category": "pantry",
+      "product_en": "Peanut butter XXL",
+      "product_cn": "花生醬 XXL"
+    },
+    {
+      "product": "Geschirrspülmittel XXL",
+      "brand": "Pril",
+      "price": 2.89,
+      "original_price": 3.49,
+      "discount": "-17%",
+      "detail": "Versch. Sorten. Je 1,2 l; 1 l = 2.41",
+      "image_bbox": [
+        0.3701,
+        0.7333,
+        0.541,
+        0.8667
+      ],
+      "page": 13,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Haarlack/ Haarspray",
+      "brand": "Taft",
+      "price": 4.45,
+      "original_price": 5.99,
+      "discount": "-25%",
+      "detail": "Versch. Sorten. Je 400 ml; 1 l = 11.13",
+      "image_bbox": [
+        0.6808,
+        0.7317,
+        0.8333,
+        0.925
+      ],
+      "page": 13,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Milchreis",
+      "brand": "Müller",
+      "price": 0.59,
+      "original_price": null,
+      "discount": "-52%",
+      "detail": "Gekühlt. Je 250 g. 1 kg = 2.36. Standardpackung: 200 g",
+      "image_bbox": [
+        0.5042,
+        0.07,
+        0.904,
+        0.2633
+      ],
+      "page": 14,
+      "category": "dairy",
+      "product_en": "Milk rice",
+      "product_cn": "牛奶米飯"
+    },
+    {
+      "product": "Backfisch/Matjesfilets XXL",
+      "brand": "Nordsee",
+      "price": 3.79,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Gekühlt. Je 280/310 g. 1 kg = 13.54/12.23",
+      "image_bbox": [
+        0.0311,
+        0.2883,
+        0.339,
+        0.4083
+      ],
+      "page": 14,
+      "category": "seafood",
+      "product_en": "Fried fish/Matjes fillets XXL",
+      "product_cn": "炸魚/醃鯡魚排 XXL"
+    },
+    {
+      "product": "Milchschnitte/Pingui 7/6er-Pack",
+      "brand": "Kinder",
+      "price": 2.39,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 196/180 g. 1 kg = 12.19/13.28",
+      "image_bbox": [
+        0.3503,
+        0.29,
+        0.6469,
+        0.4017
+      ],
+      "page": 14,
+      "category": "sweets_snacks",
+      "product_en": "Milk slice/Pingui 7/6-pack",
+      "product_cn": "牛奶酥/Pingui 7/6入裝"
+    },
+    {
+      "product": "Joghurt",
+      "brand": "Landliebe",
+      "price": 1.11,
+      "original_price": 2.29,
+      "discount": "-51%",
+      "detail": "Versch. Sorten. Gekühlt. Je 500 g. 1 kg = 2.22",
+      "image_bbox": [
+        0.702,
+        0.2917,
+        0.9661,
+        0.4192
+      ],
+      "page": 14,
+      "category": "dairy",
+      "product_en": "Yogurt",
+      "product_cn": "優格"
+    },
+    {
+      "product": "Philadelphia",
+      "brand": "Philadelphia",
+      "price": 1.59,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 265 g. 1 kg = 6.00",
+      "image_bbox": [
+        0.0508,
+        0.5367,
+        0.298,
+        0.6417
+      ],
+      "page": 14,
+      "category": "dairy",
+      "product_en": "Philadelphia",
+      "product_cn": "Philadelphia"
+    },
+    {
+      "product": "Mini-Kuchen",
+      "brand": "Kuchenzauber",
+      "price": 1.59,
+      "original_price": 2.59,
+      "discount": "-38%",
+      "detail": "Versch. Sorten. Je 280 g; 1 kg = 5.68. 8er-Pack",
+      "image_bbox": [
+        0.3912,
+        0.5117,
+        0.661,
+        0.65
+      ],
+      "page": 14,
+      "category": "sweets_snacks",
+      "product_en": "Mini Cake",
+      "product_cn": "迷你蛋糕"
+    },
+    {
+      "product": "Konfitüre/Gelee",
+      "brand": "Bonne Maman",
+      "price": 2.49,
+      "original_price": 3.69,
+      "discount": "-32%",
+      "detail": "Versch. Sorten. Je 370 g. 1 kg = 6.73",
+      "image_bbox": [
+        0.6864,
+        0.5133,
+        0.9661,
+        0.6317
+      ],
+      "page": 14,
+      "category": "pantry",
+      "product_en": "Jam/Jelly",
+      "product_cn": "果醬/果凍"
+    },
+    {
+      "product": "iO Kids Aufsteckbürsten",
+      "brand": "Oral-B",
+      "price": 27.99,
+      "original_price": 34.99,
+      "discount": "-20%",
+      "detail": "Je 4 Stück. Im Aufsteller",
+      "image_bbox": [
+        0.0466,
+        0.7333,
+        0.137,
+        0.9317
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "iO Aufsteckbürsten",
+      "brand": "Oral-B",
+      "price": 27.99,
+      "original_price": 34.99,
+      "discount": "-20%",
+      "detail": "Je 4 Stück. Im Aufsteller",
+      "image_bbox": [
+        0.3701,
+        0.7317,
+        0.4703,
+        0.9333
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Zahncreme",
+      "brand": "Oral-B",
+      "price": 3.49,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Je 75 ml. 1 l = 46.53. Im Aufsteller",
+      "image_bbox": [
+        0.6822,
+        0.755,
+        0.9774,
+        0.8667
+      ],
+      "page": 14,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Reise nach Lappland (Gewinnspiel-Preis)",
+      "brand": "Lidl Reisen",
+      "price": null,
+      "original_price": null,
+      "discount": null,
+      "detail": "1x Reise nach Lappland, 4 Übernachtungen; Gewinnspiel bei Favorina Artikel kaufen",
+      "image_bbox": [
+        0.154,
+        0.35,
+        0.4958,
+        0.5025
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Therme Erding Übernachtung (Gewinnspiel-Preis)",
+      "brand": "Therme Erding",
+      "price": null,
+      "original_price": null,
+      "discount": null,
+      "detail": "5x Therme Erding, Übernachtung inkl. Frühstück & Tageskarte; Gewinnspiel bei Favorina Artikel kaufen",
+      "image_bbox": [
+        0.1483,
+        0.5783,
+        0.5141,
+        0.6792
+      ],
+      "page": 15,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Kleiner Weihnachtsmann",
+      "brand": "Favorina",
+      "price": 0.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 75 g, 1 kg = 10.53",
+      "image_bbox": [
+        0.6864,
+        0.5117,
+        0.822,
+        0.71
+      ],
+      "page": 16,
+      "category": "sweets_snacks",
+      "product_en": "Small Santa Claus",
+      "product_cn": "小聖誕老人"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "Favorina",
+      "price": 1.59,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 130 g, 1 kg = 12.23",
+      "image_bbox": [
+        0.0311,
+        0.7317,
+        0.1921,
+        0.9308
+      ],
+      "page": 16,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "Favorina",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 200 g, 1 kg = 8.95",
+      "image_bbox": [
+        0.3941,
+        0.7333,
+        0.5113,
+        0.9308
+      ],
+      "page": 16,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Weihnachtsmann",
+      "brand": "Favorina",
+      "price": 0.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 110 g, 1 kg = 9.00",
+      "image_bbox": [
+        0.726,
+        0.7325,
+        0.8446,
+        0.9308
+      ],
+      "page": 16,
+      "category": "sweets_snacks",
+      "product_en": "Santa Claus",
+      "product_cn": "聖誕老人"
+    },
+    {
+      "product": "Gefüllte Pralinen Vollmilch",
+      "brand": "Favorina",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit Pistaziencreme. Je 200 g; 1 kg = 14.95",
+      "image_bbox": [
+        0.0593,
+        0.1,
+        0.1836,
+        0.2692
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Filled Pralines Whole Milk",
+      "product_cn": "填餡夾心巧克力 全脂牛奶"
+    },
+    {
+      "product": "Mini-Figuren Vollmilch",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Figuren. Je 125 g; 1 kg = 15.92",
+      "image_bbox": [
+        0.1158,
+        0.2908,
+        0.3192,
+        0.425
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Mini Figures Whole Milk",
+      "product_cn": "迷你造型 全脂牛奶巧克力"
+    },
+    {
+      "product": "Weihnachtsmix",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 200 g; 1 kg = 9.95",
+      "image_bbox": [
+        0.0466,
+        0.5108,
+        0.1893,
+        0.7125
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Christmas Mix",
+      "product_cn": "聖誕綜合"
+    },
+    {
+      "product": "Weihnachtsfiguren",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "9 Stück. Je 125 g; 1 kg = 15.92",
+      "image_bbox": [
+        0.3884,
+        0.5108,
+        0.6186,
+        0.6642
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Christmas Figures",
+      "product_cn": "聖誕造型"
+    },
+    {
+      "product": "Weihnachtsfiguren",
+      "brand": "Favorina",
+      "price": 1.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 100 g; 1 kg = 16.90",
+      "image_bbox": [
+        0.6836,
+        0.5108,
+        0.9718,
+        0.6608
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Christmas Figures",
+      "product_cn": "聖誕造型"
+    },
+    {
+      "product": "Schoko Lolly",
+      "brand": "Favorina",
+      "price": 1.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "10er-Pack. Versch. Sorten. Je 150 g; 1 kg = 11.27",
+      "image_bbox": [
+        0.0424,
+        0.7442,
+        0.3234,
+        0.8692
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Chocolate Lolly",
+      "product_cn": "巧克力棒棒糖"
+    },
+    {
+      "product": "Betthupferl",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "12 Stück. Je 12x 12.5 g; 1 kg = 13.27",
+      "image_bbox": [
+        0.4689,
+        0.7325,
+        0.6229,
+        0.8717
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Betthupferl",
+      "product_cn": "Betthupferl"
+    },
+    {
+      "product": "Feingefüllte Kugeln",
+      "brand": "Favorina",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 100 g; 1 kg = 17.90",
+      "image_bbox": [
+        0.678,
+        0.7325,
+        0.9718,
+        0.8875
+      ],
+      "page": 17,
+      "category": "sweets_snacks",
+      "product_en": "Finely Filled Balls",
+      "product_cn": "細緻夾心球"
+    },
+    {
+      "product": "Lübecker Edelmarzipan Herzen Sterne",
+      "brand": "Favorina",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 250 g; 1 kg = 15.96",
+      "image_bbox": [
+        0,
+        0.1042,
+        0.6356,
+        0.4792
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Lübecker Fine Marzipan Hearts Stars",
+      "product_cn": "Lübecker 精選杏仁膏 愛心 星星"
+    },
+    {
+      "product": "Edel Marzipan",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 125 g; 1 kg = 15.92",
+      "image_bbox": [
+        0.6836,
+        0.29,
+        0.8475,
+        0.4917
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Fine Marzipan",
+      "product_cn": "精選杏仁膏"
+    },
+    {
+      "product": "Edelnougat Schneemänner/ Lübecker Edelmarzipan Weihnachtsmänner",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 100 g; 1 kg = 19.90",
+      "image_bbox": [
+        0.0254,
+        0.5258,
+        0.3277,
+        0.6183
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Fine Nougat Snowmen/ Lübecker Fine Marzipan Santas",
+      "product_cn": "精選牛軋糖 雪人/ Lübecker 精選杏仁膏 聖誕老人"
+    },
+    {
+      "product": "Edelnougat-Baumstamm",
+      "brand": "Favorina",
+      "price": 1.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 100 g; 1 kg = 12.90",
+      "image_bbox": [
+        0.3545,
+        0.5108,
+        0.6285,
+        0.6375
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Fine Nougat Tree Trunk",
+      "product_cn": "精選牛軋糖 樹幹"
+    },
+    {
+      "product": "Mini-Marzipanbrote",
+      "brand": "Favorina",
+      "price": 2.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Enthält teilweise Alkohol. Je 200 g; 1 kg = 13.45",
+      "image_bbox": [
+        0.6822,
+        0.5117,
+        0.8715,
+        0.7108
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Mini Marzipan Loaves",
+      "product_cn": "迷你杏仁膏麵包"
+    },
+    {
+      "product": "Mini Stollen",
+      "brand": "Favorina",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 200 g; 1 kg = 8.95",
+      "image_bbox": [
+        0.0282,
+        0.7317,
+        0.3206,
+        0.8542
+      ],
+      "page": 18,
+      "category": "bread",
+      "product_en": "Mini Stollen",
+      "product_cn": "迷你史多倫"
+    },
+    {
+      "product": "Edelmarzipan Stollen",
+      "brand": "Favorina",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 1 kg",
+      "image_bbox": [
+        0.3559,
+        0.7817,
+        0.6441,
+        0.8417
+      ],
+      "page": 18,
+      "category": "bread",
+      "product_en": "Fine Marzipan Stollen",
+      "product_cn": "精選杏仁膏史多倫"
+    },
+    {
+      "product": "Gebäckteller Allerlei",
+      "brand": "Favorina",
+      "price": 4.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 250 g; 1 kg = 18.76",
+      "image_bbox": [
+        0.702,
+        0.7317,
+        0.9746,
+        0.8667
+      ],
+      "page": 18,
+      "category": "sweets_snacks",
+      "product_en": "Assorted Pastry Plate",
+      "product_cn": "什錦點心拼盤"
+    },
+    {
+      "product": "Mini Spekulatius",
+      "brand": "Favorina",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 200 g; 1 kg = 8.95",
+      "image_bbox": [
+        0.0353,
+        0.0717,
+        0.1907,
+        0.2683
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Mini Spekulatius",
+      "product_cn": "迷你 Spekulatius"
+    },
+    {
+      "product": "Mandel Spekulatius",
+      "brand": "Favorina",
+      "price": 1.69,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 300 g; 1 kg = 5.63; Vegan",
+      "image_bbox": [
+        0.3573,
+        0.1183,
+        0.6455,
+        0.19
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Almond Spekulatius",
+      "product_cn": "杏仁 Spekulatius"
+    },
+    {
+      "product": "Baumkuchen",
+      "brand": "Favorina",
+      "price": 4.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 300 g; 1 kg = 14.97",
+      "image_bbox": [
+        0.685,
+        0.1375,
+        0.9746,
+        0.4208
+      ],
+      "page": 19,
+      "category": "bread",
+      "product_en": "Baumkuchen",
+      "product_cn": "年輪蛋糕"
+    },
+    {
+      "product": "Mini Lebkuchen-Männchen",
+      "brand": "Favorina",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 200 g; 1 kg = 9.95",
+      "image_bbox": [
+        0.0353,
+        0.2908,
+        0.1879,
+        0.4892
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Mini Gingerbread Men",
+      "product_cn": "迷你薑餅人"
+    },
+    {
+      "product": "Bio Elisen-/Oblaten-Lebkuchen",
+      "brand": "Favorina",
+      "price": 4.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 150/200 g; 1 kg = 28.60/21.45",
+      "image_bbox": [
+        0.3912,
+        0.2675,
+        0.6441,
+        0.4892
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Organic Elisen/Oblaten Gingerbread",
+      "product_cn": "有機 Elisen/威化 薑餅"
+    },
+    {
+      "product": "Gefüllte Lebkuchen Herzen",
+      "brand": "Favorina",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 300 g; 1 kg = 9.97",
+      "image_bbox": [
+        0.0395,
+        0.5108,
+        0.3164,
+        0.6608
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Filled Gingerbread Hearts",
+      "product_cn": "填餡薑餅愛心"
+    },
+    {
+      "product": "Runde braune Lebkuchen",
+      "brand": "Favorina",
+      "price": 1.89,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 200 g; 1 kg = 9.45",
+      "image_bbox": [
+        0.0311,
+        0.7325,
+        0.3178,
+        0.8683
+      ],
+      "page": 19,
+      "category": "sweets_snacks",
+      "product_en": "Round Brown Gingerbread",
+      "product_cn": "圓形棕色薑餅"
+    },
+    {
+      "product": "Prosciutto di Parma D.O.P.",
+      "brand": "Deluxe",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "18 Monate gereift. Gekühlt. Je 150 g; 1 kg = 33.27",
+      "image_bbox": [
+        0.6977,
+        0.4833,
+        0.9718,
+        0.5967
+      ],
+      "page": 20,
+      "category": "meat",
+      "product_en": "Prosciutto di Parma D.O.P.",
+      "product_cn": "Prosciutto di Parma D.O.P."
+    },
+    {
+      "product": "Italienische Wurstspezialität",
+      "brand": "Deluxe",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 100 g; 1 kg = 29.90",
+      "image_bbox": [
+        0.1483,
+        0.7367,
+        0.3107,
+        0.8783
+      ],
+      "page": 20,
+      "category": "meat",
+      "product_en": "Italian Sausage Specialty",
+      "product_cn": "義大利香腸特產"
+    },
+    {
+      "product": "Bresaola della Valtellina g.g.A.",
+      "brand": "Deluxe",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Luftgetrockneter Rinderschinken. Gekühlt. Je 80 g; 1 kg = 37.38",
+      "image_bbox": [
+        0.4407,
+        0.7333,
+        0.6667,
+        0.885
+      ],
+      "page": 20,
+      "category": "meat",
+      "product_en": "Bresaola della Valtellina g.g.A.",
+      "product_cn": "Bresaola della Valtellina g.g.A."
+    },
+    {
+      "product": "Parmaschinken DOP",
+      "brand": "Deluxe",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mind. 14 Monate gereift. Am Stück. Gekühlt. Ca. 1,7 kg. kg-Preis",
+      "image_bbox": [
+        0.7528,
+        0.775,
+        0.9718,
+        0.8883
+      ],
+      "page": 20,
+      "category": "meat",
+      "product_en": "Parma Ham DOP",
+      "product_cn": "帕瑪火腿 DOP"
+    },
+    {
+      "product": "Jamón Serrano Reserva",
+      "brand": "Deluxe",
+      "price": 19.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Luftgetrockneter Rohschinken. 12 Monate gereift, inklusive Halterung und Messer. Je 950 g; 1 kg = 21.04",
+      "image_bbox": [
+        0.0282,
+        0.0858,
+        0.339,
+        0.1667
+      ],
+      "page": 21,
+      "category": "meat",
+      "product_en": "Jamón Serrano Reserva",
+      "product_cn": "Jamón Serrano Reserva"
+    },
+    {
+      "product": "Jamón Serrano Gran Reserva",
+      "brand": "Deluxe",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "16 Monate gereift. Luftgetrockneter Rohschinken. Gekühlt. Je 70 g; 1 kg = 28.43",
+      "image_bbox": [
+        0.4605,
+        0.0933,
+        0.6356,
+        0.2192
+      ],
+      "page": 21,
+      "category": "meat",
+      "product_en": "Jamón Serrano Gran Reserva",
+      "product_cn": "Jamón Serrano Gran Reserva"
+    },
+    {
+      "product": "Länder-Käseselektion",
+      "brand": "Deluxe",
+      "price": 3.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 150/180/190 g; 1 kg = 25.27/21.06/19.95",
+      "image_bbox": [
+        0.0311,
+        0.2892,
+        0.339,
+        0.4542
+      ],
+      "page": 21,
+      "category": "dairy",
+      "product_en": "Country Cheese Selection",
+      "product_cn": "各國起司精選"
+    },
+    {
+      "product": "Roquefort AOP",
+      "brand": "Deluxe",
+      "price": 2.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 100 g; 1 kg = 22.90",
+      "image_bbox": [
+        0.3814,
+        0.2917,
+        0.6243,
+        0.4275
+      ],
+      "page": 21,
+      "category": "dairy",
+      "product_en": "Roquefort AOP",
+      "product_cn": "Roquefort AOP"
+    },
+    {
+      "product": "Pecorino Romano DOP",
+      "brand": "Deluxe",
+      "price": 3.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 200 g; 1 kg = 18.95",
+      "image_bbox": [
+        0.0311,
+        0.5242,
+        0.1935,
+        0.7092
+      ],
+      "page": 21,
+      "category": "dairy",
+      "product_en": "Pecorino Romano DOP",
+      "product_cn": "Pecorino Romano DOP"
+    },
+    {
+      "product": "Griechisches Natives Olivenöl Extra Chania Kritis g.g.A.",
+      "brand": "Deluxe",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "In Amphorenflasche. Je 500 ml; 1 l = 13.98",
+      "image_bbox": [
+        0.3573,
+        0.5117,
+        0.5113,
+        0.7092
+      ],
+      "page": 21,
+      "category": "pantry",
+      "product_en": "Greek Native Olive Oil Extra Chania Kritis g.g.A.",
+      "product_cn": "希臘初榨橄欖油 Extra Chania Kritis g.g.A."
+    },
+    {
+      "product": "Steirisches Kürbiskernöl g.g.A.",
+      "brand": "Deluxe",
+      "price": 4.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Aus der Steiermark. Je 250 ml; 1 l = 17.96",
+      "image_bbox": [
+        0.6921,
+        0.4058,
+        0.8164,
+        0.7092
+      ],
+      "page": 21,
+      "category": "pantry",
+      "product_en": "Styrian pumpkin seed oil g.g.A.",
+      "product_cn": "施蒂利亞南瓜籽油 g.g.A."
+    },
+    {
+      "product": "Österreichische Käseplatte",
+      "brand": "DELUXE",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit ausgewählten Käsesorten aus Österreich. Gekühlt. Je 320 g; 1 kg = 21.84",
+      "image_bbox": [
+        0.7062,
+        0.1933,
+        0.9548,
+        0.3967
+      ],
+      "page": 22,
+      "category": "dairy",
+      "product_en": "Austrian cheese platter",
+      "product_cn": "奧地利起司拼盤"
+    },
+    {
+      "product": "Salami-Trio",
+      "brand": "DELUXE",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 3x 120 g; 1 kg = 16.64",
+      "image_bbox": [
+        0.1073,
+        0.5142,
+        0.2839,
+        0.6633
+      ],
+      "page": 22,
+      "category": "meat",
+      "product_en": "Salami trio",
+      "product_cn": "薩拉米三件組"
+    },
+    {
+      "product": "Wild Aufschnitt",
+      "brand": "DELUXE",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 60/100 g; 1 kg = 41.50/24.90",
+      "image_bbox": [
+        0.3785,
+        0.5133,
+        0.6398,
+        0.6625
+      ],
+      "page": 22,
+      "category": "meat",
+      "product_en": "Wild cold cuts",
+      "product_cn": "野味切片肉"
+    },
+    {
+      "product": "Salami",
+      "brand": "DELUXE",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 100 g; 1 kg = 24.90",
+      "image_bbox": [
+        0.685,
+        0.5133,
+        0.9689,
+        0.6633
+      ],
+      "page": 22,
+      "category": "meat",
+      "product_en": "Salami",
+      "product_cn": "薩拉米"
+    },
+    {
+      "product": "Leberpastete",
+      "brand": "DULANO SELECTION",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 125 g; 1 kg = 14.32",
+      "image_bbox": [
+        0.0297,
+        0.7317,
+        0.3192,
+        0.8817
+      ],
+      "page": 22,
+      "category": "meat",
+      "product_en": "Liver pâté",
+      "product_cn": "肝醬"
+    },
+    {
+      "product": "Chilischoten",
+      "brand": "DELUXE",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gemahlen und eingelegt in nativem Olivenöl extra. Je 170 g; 1 kg = 11.71",
+      "image_bbox": [
+        0.4774,
+        0.7475,
+        0.6243,
+        0.8867
+      ],
+      "page": 22,
+      "category": "pantry",
+      "product_en": "Chili peppers",
+      "product_cn": "辣椒"
+    },
+    {
+      "product": "Würzöl",
+      "brand": "DELUXE",
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 125 ml; 1 l = 15.92",
+      "image_bbox": [
+        0.6822,
+        0.7317,
+        0.8955,
+        0.9133
+      ],
+      "page": 22,
+      "category": "pantry",
+      "product_en": "Seasoning oil",
+      "product_cn": "調味油"
+    },
+    {
+      "product": "Flammlachs",
+      "brand": "DELUXE",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Geräuchert. Je 125 g, 1 kg = 31.92",
+      "image_bbox": [
+        0.0268,
+        0.0542,
+        0.226,
+        0.2692
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "Flame salmon",
+      "product_cn": "火焰鮭魚"
+    },
+    {
+      "product": "Lachs in Blätterteig",
+      "brand": "DELUXE",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Tiefgefroren. Je 700 g, 1 kg = 11.41",
+      "image_bbox": [
+        0.3517,
+        0.0933,
+        0.524,
+        0.27
+      ],
+      "page": 23,
+      "category": "instant_food",
+      "product_en": "Salmon in puff pastry",
+      "product_cn": "酥皮鮭魚"
+    },
+    {
+      "product": "Octopusarme",
+      "brand": "DELUXE",
+      "price": 8.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gewürzt und gegart. Gekühlt. Je 250 g, 1 kg = 33.96",
+      "image_bbox": [
+        0.6794,
+        0.1208,
+        0.8404,
+        0.265
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "Octopus arms",
+      "product_cn": "章魚腳"
+    },
+    {
+      "product": "MSC Wildlachsfilet",
+      "brand": "DELUXE",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Tiefgefroren. Je 700 g; 1 kg = 11.41",
+      "image_bbox": [
+        0.0282,
+        0.295,
+        0.3192,
+        0.4275
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "MSC wild salmon fillet",
+      "product_cn": "MSC 野生鮭魚片"
+    },
+    {
+      "product": "Schottischer Räucherlachs",
+      "brand": "DELUXE",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "In Scheiben. Gekühlt. Je 300 g, 1 kg = 26.63",
+      "image_bbox": [
+        0.3573,
+        0.3108,
+        0.6497,
+        0.3917
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "Scottish smoked salmon",
+      "product_cn": "蘇格蘭煙燻鮭魚"
+    },
+    {
+      "product": "MSC Garnelen",
+      "brand": "DELUXE",
+      "price": 8.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit Schale, gekocht. Tiefgefroren. Je 1 kg. Abtropfgewicht: 900 g, 1 kg = 9.99",
+      "image_bbox": [
+        0.7641,
+        0.2925,
+        0.9294,
+        0.44
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "MSC prawns",
+      "product_cn": "MSC 蝦"
+    },
+    {
+      "product": "ASC White Tiger Garnelenring",
+      "brand": "DELUXE",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit exotischer Sweet-Chili-Sauce. Tiefgefroren. Je 300 g. Abtropfgewicht: 270 g; 1 kg = 18.48",
+      "image_bbox": [
+        0.5325,
+        0.5333,
+        0.8319,
+        0.7217
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "ASC White Tiger shrimp ring",
+      "product_cn": "ASC White Tiger 蝦環"
+    },
+    {
+      "product": "Argentinische Rotgarnelen",
+      "brand": "DELUXE",
+      "price": 22.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Roh, in Schale. Tiefgefroren. Je 2 kg; 1 kg = 11.50",
+      "image_bbox": [
+        0.5325,
+        0.7325,
+        0.887,
+        0.8733
+      ],
+      "page": 23,
+      "category": "seafood",
+      "product_en": "Argentinian red shrimp",
+      "product_cn": "阿根廷紅蝦"
+    },
+    {
+      "product": "Wildschweinkeule",
+      "brand": "Deluxe",
+      "price": 12.8,
+      "original_price": null,
+      "discount": null,
+      "detail": "Tiefgefroren. Ca. 800 g – 1,8 kg. kg-Preis = 15.99",
+      "image_bbox": [
+        0.7133,
+        0.07,
+        0.9364,
+        0.19
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Wild boar leg",
+      "product_cn": "野豬腿"
+    },
+    {
+      "product": "Stangenspargel",
+      "brand": "Freshona",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Geschält. Tiefgefroren. Je 600 g; 1 kg = 6.65. Vegan",
+      "image_bbox": [
+        0.7867,
+        0.2992,
+        0.9689,
+        0.4508
+      ],
+      "page": 24,
+      "category": "vegetables",
+      "product_en": "Asparagus spears",
+      "product_cn": "蘆筍"
+    },
+    {
+      "product": "Gänsebrustfilet",
+      "brand": "Chef Select",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Von der jungen Hafermastgans. Mit Haut. HKL A. Tiefgefroren. Je 350 g, 1 kg = 22.83",
+      "image_bbox": [
+        0.1525,
+        0.5142,
+        0.2966,
+        0.6575
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Goose breast fillet",
+      "product_cn": "鵝胸肉排"
+    },
+    {
+      "product": "Knusperente",
+      "brand": "Chef Select",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Halbe Ente, ohne Knochen. Tiefgefroren. Je 320 g; 1 kg = 18.72",
+      "image_bbox": [
+        0.3559,
+        0.5333,
+        0.6455,
+        0.63
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Crispy duck",
+      "product_cn": "酥脆鴨"
+    },
+    {
+      "product": "Barbarie Entenbrustfilet",
+      "brand": "Deluxe",
+      "price": 4.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Ca. 300–450 g. kg-Preis = 15.99",
+      "image_bbox": [
+        0.7698,
+        0.5125,
+        0.952,
+        0.6608
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Barbarie duck breast fillet",
+      "product_cn": "Barbarie 鴨胸肉排"
+    },
+    {
+      "product": "Hirschbraten",
+      "brand": "Deluxe",
+      "price": 13.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Tiefgefroren. Je 600 g, 1 kg = 23.32",
+      "image_bbox": [
+        0.0297,
+        0.7617,
+        0.3192,
+        0.86
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Venison roast",
+      "product_cn": "鹿肉烤肉"
+    },
+    {
+      "product": "Merino-Lammlachse",
+      "brand": "Deluxe",
+      "price": 9.75,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vom Merino-Lamm. Gekühlt. Ca. 250 g. kg-Preis = 38.99",
+      "image_bbox": [
+        0.3588,
+        0.7492,
+        0.5056,
+        0.9167
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Merino lamb loin",
+      "product_cn": "Merino 羊背肉"
+    },
+    {
+      "product": "Frische Kalbsleber",
+      "brand": "Deluxe",
+      "price": 6.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 400 g, 1 kg = 16.98",
+      "image_bbox": [
+        0.7627,
+        0.7383,
+        0.9703,
+        0.885
+      ],
+      "page": 24,
+      "category": "meat",
+      "product_en": "Fresh calf's liver",
+      "product_cn": "新鮮小牛肝"
+    },
+    {
+      "product": "Dessert",
+      "brand": "Deluxe",
+      "price": 1.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten im Glas. Enthält Alkohol. Gekühlt. Je 110 g; 1 kg = 16.27",
+      "image_bbox": [
+        0.0678,
+        0.0717,
+        0.3277,
+        0.2217
+      ],
+      "page": 25,
+      "category": "dairy",
+      "product_en": "Dessert",
+      "product_cn": "甜點"
+    },
+    {
+      "product": "Tiramisu Torte",
+      "brand": "Milbona",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gekühlt. Je 400 g; 1 kg = 9.98",
+      "image_bbox": [
+        0.3573,
+        0.09,
+        0.6455,
+        0.205
+      ],
+      "page": 25,
+      "category": "sweets_snacks",
+      "product_en": "Tiramisu cake",
+      "product_cn": "提拉米蘇蛋糕"
+    },
+    {
+      "product": "Macarons in Geschenkbox",
+      "brand": "Deluxe",
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 126 g; 1 kg = 31.67",
+      "image_bbox": [
+        0.0311,
+        0.2958,
+        0.339,
+        0.3875
+      ],
+      "page": 25,
+      "category": "sweets_snacks",
+      "product_en": "Macarons in gift box",
+      "product_cn": "馬卡龍禮盒"
+    },
+    {
+      "product": "Macadamia",
+      "brand": "Deluxe",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 120/130 g; 1 kg = 24.92/23.00",
+      "image_bbox": [
+        0.3588,
+        0.2933,
+        0.6384,
+        0.445
+      ],
+      "page": 25,
+      "category": "sweets_snacks",
+      "product_en": "Macadamia",
+      "product_cn": "夏威夷堅果"
+    },
+    {
+      "product": "Amarone della Valpolicella DOCG, Rotwein, halbtrocken",
+      "brand": null,
+      "price": 16.99,
+      "original_price": 24.99,
+      "discount": "-32%",
+      "detail": "Je 0,75 l; 1 l = 22.65; Ab So. 15.11 bis Sa. 28.11. Nur online",
+      "image_bbox": [
+        0.8079,
+        0.1692,
+        0.9492,
+        0.4275
+      ],
+      "page": 25,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Cantuccini",
+      "brand": "Deluxe",
+      "price": 2.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Je 200 g; 1 kg = 12.45",
+      "image_bbox": [
+        0.048,
+        0.5117,
+        0.3051,
+        0.6667
+      ],
+      "page": 25,
+      "category": "sweets_snacks",
+      "product_en": "Cantuccini",
+      "product_cn": "義式脆餅"
+    },
+    {
+      "product": "Akazienhonig",
+      "brand": "Deluxe",
+      "price": 7.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 500 g; 1 kg = 15.98. Mit Wabenscheibe",
+      "image_bbox": [
+        0.4675,
+        0.5133,
+        0.6229,
+        0.6433
+      ],
+      "page": 25,
+      "category": "pantry",
+      "product_en": "Acacia honey",
+      "product_cn": "金合歡蜂蜜"
+    },
+    {
+      "product": "Glenalba Blended Scotch Whisky Sherry Cask Finish",
+      "brand": "Glenalba",
+      "price": 66.99,
+      "original_price": 99.99,
+      "discount": "-33%",
+      "detail": "40 % vol; Je 0,7 l; 1 l = 95.70; Ab So. 15.11 bis Sa. 28.11. Nur online; 32 Jahre",
+      "image_bbox": [
+        0.791,
+        0.5117,
+        0.9859,
+        0.8333
+      ],
+      "page": 25,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Cannoli",
+      "brand": "Deluxe",
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 170 g; 1 kg = 17.59",
+      "image_bbox": [
+        0.1582,
+        0.7217,
+        0.6638,
+        0.9167
+      ],
+      "page": 25,
+      "category": "bread",
+      "product_en": "Cannoli",
+      "product_cn": "卡諾利"
+    },
+    {
+      "product": "Kalanchoe im Rentier",
+      "brand": null,
+      "price": 2.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Farben. Kulturtopf: Ø = 7 cm. Je Stück",
+      "image_bbox": [
+        0,
+        0.525,
+        0.4873,
+        0.8683
+      ],
+      "page": 26,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Sisal-Rentier",
+      "brand": null,
+      "price": 7.99,
+      "original_price": 9.99,
+      "discount": "-20%",
+      "detail": "Gesamthöhe: ca. 30 bzw. 45 cm. Kulturtopf (Pflanze): Ø = 9 cm. Je Stück. Mit Lidl Plus",
+      "image_bbox": [
+        0.5339,
+        0.505,
+        0.9718,
+        0.7967
+      ],
+      "page": 26,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Christrose",
+      "brand": null,
+      "price": 3.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Winterhart. Höhe (inkl. Topf): ca. 25 cm. Ø = 12 cm. Je Topf. Für drinnen/draußen",
+      "image_bbox": [
+        0.0537,
+        0.1142,
+        0.5621,
+        0.4633
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Amaryllis in Keramik",
+      "brand": null,
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Blütenfarben. Höhe (inkl. Topf): ca. 20 cm. Keramik: Ø = 13 cm. Kulturtopf: Ø = 12 cm. Je Topf. Für drinnen. Erhältlich ab Do. 26.11.",
+      "image_bbox": [
+        0.6638,
+        0.06,
+        0.887,
+        0.33
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Amaryllis im Weihnachtsglas",
+      "brand": null,
+      "price": 12.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Inkl. Dekoration. Glashöhe: ca. 28,5 cm. Je Stück. Für drinnen. Erhältlich ab Do. 26.11.",
+      "image_bbox": [
+        0.6737,
+        0.3733,
+        0.8305,
+        0.635
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Konifere in Keramik",
+      "brand": null,
+      "price": 3.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mit oder ohne Dekoschnee. Weihnachtsmann- oder Sternstecker. Höhe (inkl. Topf): ca. 38 cm. Keramik: Ø = 13 cm. Kulturtopf: Ø = 10 cm. Je Stück. Für drinnen/draußen. Erhältlich ab Do. 26.11.",
+      "image_bbox": [
+        0.6836,
+        0.6617,
+        0.8588,
+        0.9317
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Trockenblumenstrauß Advent",
+      "brand": null,
+      "price": 9.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Weihnachtlich dekoriert. Länge: ca. 50 cm. Je Strauß",
+      "image_bbox": [
+        0,
+        0.5033,
+        0.339,
+        0.8667
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Gemischter Blumenstrauß",
+      "brand": null,
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Farben. Länge: ca. 40 cm. Je Strauß. Erhältlich ab Fr. 27.11.",
+      "image_bbox": [
+        0.3249,
+        0.5217,
+        0.6667,
+        0.8667
+      ],
+      "page": 27,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Bayern Bad Füssing",
+      "brand": null,
+      "price": 199,
+      "original_price": 299,
+      "discount": "-100 €",
+      "detail": "Eigenanreise, 3 Nächte, Hotel Rottaler Hof ***, inkl. Halbpension; 3 Nächte im Doppelzimmer p.P. ab; 1x Eintritt in die THERME EINS i.W.v. € 19.50 p.P.; Anreise Dez. 26, Jan.–März 27; Reiseveranstalter: clevertours.com GmbH; Buchungscode: NUE50015B",
+      "image_bbox": [
+        0.6568,
+        0,
+        1,
+        0.1333
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Mallorca Wanderreise",
+      "brand": null,
+      "price": 699,
+      "original_price": 899,
+      "discount": "-200 €",
+      "detail": "8-tägige Reise inkl. Flug, Hotel Bordoy Don Antonio ****, inkl. Halbpension Plus; 8 Tage im Doppelzimmer p.P. ab; Inkl. Wanderpaket i.W.v. ca. € 200.- p.P.; Anreise im Februar, März 27; Reiseveranstalter: clevertours.com GmbH; Buchungscode: PMI09222P",
+      "image_bbox": [
+        0,
+        0,
+        0.6568,
+        0.4833
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Italien Gardasee",
+      "brand": null,
+      "price": 333,
+      "original_price": 409,
+      "discount": "-76 €",
+      "detail": "Eigenanreise, 5 Nächte, Hotel Splendid Sole ****, inkl. Halbpension; 5 Nächte im Doppelzimmer Comfort p.P. ab; 1x Weinverkostung am Gardasee; Reiseveranstalter: 4travelfriends.com; Buchungscode: PK100218",
+      "image_bbox": [
+        0.6568,
+        0.25,
+        1,
+        0.3683
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Ägypten Nilkreuzfahrt & Baden",
+      "brand": null,
+      "price": 777,
+      "original_price": 899,
+      "discount": "-122 €",
+      "detail": "15-tägige Reise inkl. Flug, Komfortschiff, inkl. Vollpension & Imperial Shams Abu Soma ****, All Inclusive; 15 Tage in der DK/im DZ p.P. ab; Inkl. Felukenfahrt auf dem Nil; Anreise im Januar 27; Reiseveranstalter: Capital Holidays (Europe) GmbH; Buchungscode: HRG00MV",
+      "image_bbox": [
+        0,
+        0.4833,
+        0.4887,
+        0.5983
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Spanien Mallorca",
+      "brand": null,
+      "price": 499,
+      "original_price": 599,
+      "discount": "-100 €",
+      "detail": "8-tägige Reise inkl. Flug, Hotel Bahia del Sol ****, inkl. Halbpension; 8 Tage im Doppelzimmer p.P. ab; Anreise im Februar 27; Reiseveranstalter: SPICA TRAVEL AG; Buchungscode: PMI66SOA",
+      "image_bbox": [
+        0.4887,
+        0.4833,
+        1,
+        0.5983
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Marokkos Königsstädte Rundreise & Baden",
+      "brand": null,
+      "price": 999,
+      "original_price": 1295,
+      "discount": "-296 €",
+      "detail": "15-tägige Reise inkl. Flug, 4-Sterne-Hotels, inkl. Halbpension & Hotel Barcelo Allegro Agadir ****, All Inclusive; 15 Tage im Doppelzimmer p.P. ab; Inkl. Ausflugspaket i.W.v. ca. € 95.- p.P.; Anreise im Januar 27; Reiseveranstalter: SPICA TRAVEL AG; Buchungscode: AGA66RRA",
+      "image_bbox": [
+        0,
+        0.715,
+        0.4887,
+        0.8317
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Schottland Rundreise",
+      "brand": null,
+      "price": 999,
+      "original_price": 1099,
+      "discount": "-100 €",
+      "detail": "8-tägige Reise inkl. Flug, 3-Sterne-Hotels, inkl. Halbpension; 8 Tage im Doppelzimmer p.P. ab; Inkl. Ausflugs- & Verpflegungspaket i.W.v. ca. € 299.- p.P.; Anreise im November 27; Reiseveranstalter: clevertours.com GmbH; Buchungscode: GLA80006X",
+      "image_bbox": [
+        0.4887,
+        0.715,
+        1,
+        0.8317
+      ],
+      "page": 28,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Polnische Ostsee Kolberg",
+      "brand": null,
+      "price": 99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Eigenanreise, 3 Nächte, Blue & Green Baltic Hotel mediSPA & fit 4 Sterne, inkl. Halbpension. z.B. Anreise am 03.01.-18.01.27. Reiseveranstalter: Eurotours Ges.m.b.H. Buchungscode: 10007485B. 3 Nächte im DZ Bestpreis p.P. ab",
+      "image_bbox": [
+        0,
+        0,
+        0.3418,
+        0.1342
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Norwegen Kreuzfahrt",
+      "brand": "MSC Euribia",
+      "price": 869,
+      "original_price": 959,
+      "discount": "-90 €",
+      "detail": "8-tägige Reise, inkl. Vollpension an Bord. z.B. Anreise am 24.04., 11.09., 18.09., 25.09., 02.10.27. Reiseveranstalter: Select Holidays c/o New2go GmbH. Buchungscode: E8FB01. 8 Tage in der Innenkabine Standard p.P. ab",
+      "image_bbox": [
+        0.3446,
+        0,
+        0.6568,
+        0.1342
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Korfu Standort-Rundreise",
+      "brand": null,
+      "price": 599,
+      "original_price": 749,
+      "discount": "-150 €",
+      "detail": "8-tägige Reise inkl. Flug, Hotel Alkionis 4 Sterne, inkl. Halbpension. Inkl. Ausflugspaket i.W.v. ca. € 150.- p.P. z.B. Anreise im Mai 27. Reiseveranstalter: SPICA TRAVEL AG. Buchungscode: CFU66AHF. 8 Tage im Doppelzimmer p.P. ab",
+      "image_bbox": [
+        0,
+        0.2525,
+        0.3418,
+        0.3667
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Westliches Mittelmeer Kreuzfahrt & Baden",
+      "brand": "AIDAcosma",
+      "price": 1799,
+      "original_price": null,
+      "discount": null,
+      "detail": "15-tägige Reise inkl. Flug, inkl. Vollpension an Bord & BG Hotel Java 4 Sterne, inkl. Halbpension. z.B. Anreise am 02.10.27. Reiseveranstalter: AtourO - Raiffeisen Reisebüro GesmbH, Wien. Buchungscode: PMI16TRR. 15 Tage in der DK/ im DZ p.P. ab",
+      "image_bbox": [
+        0.3446,
+        0.2525,
+        0.6568,
+        0.3667
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Movie Park's Hollywood Christmas mit Lidl Plus",
+      "brand": "Lidl Plus",
+      "price": null,
+      "original_price": null,
+      "discount": "Bis zu -52% Rabatt",
+      "detail": "Aktion gültig bis 28.11.26. Einlösezeitraum 26.11.26-05.01.27. Aktionscode gültig für einen Besuch von Movie Park's Hollywood Christmas. Die Ermäßigung wird auf den regulären Eintrittspreis für Erwachsene angerechnet. Gültig für Personen ab 4 Jahren. Einmal pro Benutzer einlösbar. Bis zu 4 rabattierte Tickets pro Warenkorb möglich.",
+      "image_bbox": [
+        0.6596,
+        0,
+        1,
+        0.3875
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "experimenta - Das Science Center in Heilbronn",
+      "brand": "experimenta",
+      "price": 49,
+      "original_price": 79,
+      "discount": "-30 €",
+      "detail": "1 Übernachtung im Stadthotel Heilbronn (o.ä.), inkl. Frühstück & 1 experimenta-Ticket. Reiseanbieter: Travelcircus GmbH. Aktionspreis 20.11.26-29.11.26. 1 Nacht p.P. ab",
+      "image_bbox": [
+        0,
+        0.4842,
+        0.3432,
+        0.7167
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Hongkong, Indonesien & Bali Rundreise & Baden",
+      "brand": null,
+      "price": 2399,
+      "original_price": 2799,
+      "discount": "-400 €",
+      "detail": "18-tägige Reise inkl. Flug, Mittelklasse-Hotels & 4-Sterne-Hotels, Verpflegung lt. Programm. Inkl. Ausflügen i.W.v. ca. € 400.- p.P. z.B. Anreise am 03.05., 24.08.27. Reiseveranstalter: Select Holidays c/o New2go GmbH. Buchungscode: D82C10. 18 Tage im Doppelzimmer p.P. ab",
+      "image_bbox": [
+        0.3432,
+        0.4842,
+        1,
+        0.9233
+      ],
+      "page": 29,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Orangen",
+      "brand": null,
+      "price": 3.29,
+      "original_price": null,
+      "discount": null,
+      "detail": "XXL; Ursprung: Spanien; Klasse I; Je 3 kg; 1 kg = 1.09; Deutschlands günstigster Preis",
+      "image_bbox": [
+        0.1667,
+        0.3817,
+        0.4873,
+        0.6183
+      ],
+      "page": 30,
+      "category": "fruits",
+      "product_en": "Oranges",
+      "product_cn": "柳橙"
+    },
+    {
+      "product": "Zitronen",
+      "brand": null,
+      "price": 1.95,
+      "original_price": null,
+      "discount": null,
+      "detail": "XXL; Ursprung: Spanien/Italien; Klasse I; Je 1 kg",
+      "image_bbox": [
+        0.5621,
+        0.3983,
+        0.9576,
+        0.56
+      ],
+      "page": 30,
+      "category": "fruits",
+      "product_en": "Lemons",
+      "product_cn": "檸檬"
+    },
+    {
+      "product": "XXL-Basilikum im Topf",
+      "brand": null,
+      "price": 1.49,
+      "original_price": 1.69,
+      "discount": null,
+      "detail": "Ursprung: Deutschland/Niederlande; Klasse I; Je Stück; Aktion 1.69; Mit Lidl Plus Aktion 1.49",
+      "image_bbox": [
+        0.0367,
+        0.6517,
+        0.3305,
+        0.8417
+      ],
+      "page": 30,
+      "category": "vegetables",
+      "product_en": "XXL-Basil in pot",
+      "product_cn": "XXL-羅勒 盆栽"
+    },
+    {
+      "product": "Romatomaten",
+      "brand": null,
+      "price": 1.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "XXL; Ursprung: Spanien/Belgien; Klasse I; Je 750 g; 1 kg = 2.65",
+      "image_bbox": [
+        0.5141,
+        0.71,
+        0.9492,
+        0.84
+      ],
+      "page": 30,
+      "category": "vegetables",
+      "product_en": "Roma tomatoes",
+      "product_cn": "羅馬番茄"
+    },
+    {
+      "product": "US T-Bone-Steak",
+      "brand": "Deluxe",
+      "price": 19.98,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Mind. 28 Tage gereift. Ca. 444 g. kg-Preis = 44.99",
+      "image_bbox": [
+        0.1723,
+        0.0783,
+        0.6299,
+        0.235
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "US T-Bone steak",
+      "product_cn": "US T骨牛排"
+    },
+    {
+      "product": "Doradenfilets",
+      "brand": "Fischerstolz",
+      "price": 4.69,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Ca. 220-360 g. kg-Preis = 21.29. Frischer Fisch, nie gefroren",
+      "image_bbox": [
+        0.7246,
+        0.0608,
+        1,
+        0.2133
+      ],
+      "page": 31,
+      "category": "seafood",
+      "product_en": "Dorada fillets",
+      "product_cn": "Dorada魚片"
+    },
+    {
+      "product": "Frisches Gulasch, gemischt",
+      "brand": "Metzgerfrisch",
+      "price": 7.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Vom Schwein und Rind. Je 800 g; 1 kg = 9.36",
+      "image_bbox": [
+        0.1822,
+        0.3075,
+        0.6342,
+        0.4758
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Fresh goulash, mixed",
+      "product_cn": "新鮮燉肉，混合"
+    },
+    {
+      "product": "Frische Schweineschnitzel",
+      "brand": "Metzgerfrisch",
+      "price": 4.99,
+      "original_price": null,
+      "discount": "-30%",
+      "detail": "Je 800 g; 1 kg = 6.24. Standardpackung: 600 g",
+      "image_bbox": [
+        0.0311,
+        0.5125,
+        0.315,
+        0.6108
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Fresh pork schnitzel",
+      "product_cn": "新鮮豬肉排"
+    },
+    {
+      "product": "Frische Schweine-Filetmedaillons",
+      "brand": "Metzgerfrisch",
+      "price": 6.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 700 g; 1 kg = 9.99",
+      "image_bbox": [
+        0.3475,
+        0.5117,
+        0.6525,
+        0.6125
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Fresh pork fillet medallions",
+      "product_cn": "新鮮豬里脊肉排"
+    },
+    {
+      "product": "Hähnchen-Hacksteaks",
+      "brand": "Metzgerfrisch",
+      "price": 4.49,
+      "original_price": null,
+      "discount": null,
+      "detail": "Gewürzt und mariniert. Je 560 g; 1 kg = 8.02",
+      "image_bbox": [
+        0.6808,
+        0.5117,
+        0.9718,
+        0.6125
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Chicken mince steaks",
+      "product_cn": "雞肉漢堡排"
+    },
+    {
+      "product": "Frische Schweine-Rückensteaks",
+      "brand": "Metzgerfrisch",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Je 800 g; 1 kg = 6.24",
+      "image_bbox": [
+        0.1257,
+        0.7333,
+        0.548,
+        0.885
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Fresh pork back steaks",
+      "product_cn": "新鮮豬背排"
+    },
+    {
+      "product": "Putengeschnetzeltes Gyros",
+      "brand": "Metzgerfrisch",
+      "price": 5.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "Mariniert. Je 1 kg",
+      "image_bbox": [
+        0.6808,
+        0.7342,
+        0.9718,
+        0.8358
+      ],
+      "page": 31,
+      "category": "meat",
+      "product_en": "Turkey strips Gyros",
+      "product_cn": "火雞切片 Gyros"
+    },
+    {
+      "product": "Müllermilch/Shake",
+      "brand": "Müller",
+      "price": 0.66,
+      "original_price": 1.49,
+      "discount": "-55%",
+      "detail": "Versch. Sorten. Gekühlt. Je 400 ml zzgl. 0.25 Pfand; 1 l = 1.65. Mit Lidl Plus 0.59 (-60%)",
+      "image_bbox": [
+        0.1031,
+        0.2775,
+        0.3432,
+        0.5025
+      ],
+      "page": 32,
+      "category": "dairy",
+      "product_en": "Müllermilch/Shake",
+      "product_cn": "Müllermilch/奶昔"
+    },
+    {
+      "product": "Essig-Essenz",
+      "brand": "Surig",
+      "price": 0.99,
+      "original_price": null,
+      "discount": "-40%",
+      "detail": "Je 450 g; 1 kg = 2.20",
+      "image_bbox": [
+        0.4492,
+        0.3558,
+        0.6172,
+        0.5508
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Vinegar essence",
+      "product_cn": "醋精"
+    },
+    {
+      "product": "Trinkgenuss/Selection",
+      "brand": "Granini",
+      "price": 1.49,
+      "original_price": 2.69,
+      "discount": "-44%",
+      "detail": "Versch. Sorten. Je 1 l/750 ml zzgl. 0.25 Pfand; 1 l = 1.49/1.99",
+      "image_bbox": [
+        0.7458,
+        0.3025,
+        0.9774,
+        0.555
+      ],
+      "page": 32,
+      "category": "drinks",
+      "product_en": "Trinkgenuss/Selection",
+      "product_cn": "Trinkgenuss/Selection"
+    },
+    {
+      "product": "Streichzart",
+      "brand": "Meggle",
+      "price": 2.29,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Gekühlt. Je 400 g; 1 kg = 5.73",
+      "image_bbox": [
+        0.0297,
+        0.7025,
+        0.3404,
+        0.8492
+      ],
+      "page": 32,
+      "category": "dairy",
+      "product_en": "Streichzart",
+      "product_cn": "Streichzart"
+    },
+    {
+      "product": "Collezione",
+      "brand": "Barilla",
+      "price": 1.49,
+      "original_price": 2.49,
+      "discount": "-40%",
+      "detail": "Versch. Sorten. Je 500/400 g; 1 kg = 2.98/3.73",
+      "image_bbox": [
+        0.3545,
+        0.6858,
+        0.6667,
+        0.8558
+      ],
+      "page": 32,
+      "category": "pantry",
+      "product_en": "Collezione",
+      "product_cn": "Collezione"
+    },
+    {
+      "product": "Choco Crossies/Choclait Chips",
+      "brand": "Nestlé",
+      "price": 1.99,
+      "original_price": 3.79,
+      "discount": "-47%",
+      "detail": "Versch. Sorten. Je 115/150 g; 1 kg = 17.30/13.27",
+      "image_bbox": [
+        0.6822,
+        0.6808,
+        0.9703,
+        0.8508
+      ],
+      "page": 32,
+      "category": "sweets_snacks",
+      "product_en": "Choco Crossies/Choclait Chips",
+      "product_cn": "Choco Crossies/Choclait Chips"
+    },
+    {
+      "product": "Golden Longs",
+      "brand": "McCain",
+      "price": 2.99,
+      "original_price": 4.89,
+      "discount": "-38%",
+      "detail": "Tiefgefroren. Je 1 kg; 1 kg = 2.99",
+      "image_bbox": [
+        0.0664,
+        0.0708,
+        0.3432,
+        0.19
+      ],
+      "page": 33,
+      "category": "instant_food",
+      "product_en": "Golden Longs",
+      "product_cn": "Golden Longs"
+    },
+    {
+      "product": "Fischstäbchen/Knusper-Fisch/Backfischstäbchen",
+      "brand": "Iglo",
+      "price": 2.99,
+      "original_price": 4.89,
+      "discount": "-38%",
+      "detail": "Tiefgefroren. Je 450/364/352 g; 1 kg = 6.64/8.21/8.49",
+      "image_bbox": [
+        0.3545,
+        0.07,
+        0.6695,
+        0.19
+      ],
+      "page": 33,
+      "category": "instant_food",
+      "product_en": "Fish sticks/Crispy fish/Battered fish sticks",
+      "product_cn": "魚條/酥炸魚/炸魚條"
+    },
+    {
+      "product": "Knusperstück",
+      "brand": "Ritter Sport",
+      "price": 2.99,
+      "original_price": 4.29,
+      "discount": "-30%",
+      "detail": "Versch. Sorten. Enthält Alkohol. Je 200 g; 1 kg = 14.95",
+      "image_bbox": [
+        0.6822,
+        0.07,
+        0.9788,
+        0.19
+      ],
+      "page": 33,
+      "category": "sweets_snacks",
+      "product_en": "Crunchy piece",
+      "product_cn": "酥脆塊"
+    },
+    {
+      "product": "Weichkäse",
+      "brand": "Géramont",
+      "price": 3.33,
+      "original_price": null,
+      "discount": "-36%",
+      "detail": "Gekühlt. Je 300 g; 1 kg = 11.10. Standardpackung: 200 g",
+      "image_bbox": [
+        0.0311,
+        0.2875,
+        0.3362,
+        0.4125
+      ],
+      "page": 33,
+      "category": "dairy",
+      "product_en": "Soft cheese",
+      "product_cn": "軟質起司"
+    },
+    {
+      "product": "Brotaufstrich",
+      "brand": "Brunch",
+      "price": 1.29,
+      "original_price": 1.89,
+      "discount": "-31%",
+      "detail": "Versch. Sorten. Gekühlt. Je 185 g; 1 kg = 6.97",
+      "image_bbox": [
+        0.3503,
+        0.29,
+        0.6596,
+        0.4125
+      ],
+      "page": 33,
+      "category": "pantry",
+      "product_en": "Bread spread",
+      "product_cn": "麵包抹醬"
+    },
+    {
+      "product": "Schokolade",
+      "brand": "Yogurette/Kinder",
+      "price": 5.19,
+      "original_price": null,
+      "discount": "-23%",
+      "detail": "Je 400 g; 1 kg = 12.98. Standardpackung: 100 g. 4er-Pack",
+      "image_bbox": [
+        0.6808,
+        0.29,
+        0.9718,
+        0.4167
+      ],
+      "page": 33,
+      "category": "sweets_snacks",
+      "product_en": "Chocolate",
+      "product_cn": "巧克力"
+    },
+    {
+      "product": "Reis Express",
+      "brand": "Ben's Original",
+      "price": 1.49,
+      "original_price": 2.29,
+      "discount": "-34%",
+      "detail": "Versch. Sorten. Je 220 g; 1 kg = 6.77",
+      "image_bbox": [
+        0.0523,
+        0.5117,
+        0.3432,
+        0.635
+      ],
+      "page": 33,
+      "category": "pantry",
+      "product_en": "Rice Express",
+      "product_cn": "Express 米"
+    },
+    {
+      "product": "Saucen",
+      "brand": "Ben's Original",
+      "price": 1.79,
+      "original_price": 2.79,
+      "discount": "-35%",
+      "detail": "Versch. Sorten. Je 395/400 g; 1 kg = 4.53/4.48",
+      "image_bbox": [
+        0.3912,
+        0.5117,
+        0.5932,
+        0.635
+      ],
+      "page": 33,
+      "category": "pantry",
+      "product_en": "Sauces",
+      "product_cn": "醬汁"
+    },
+    {
+      "product": "Kaustreifen XXL",
+      "brand": "Fritt",
+      "price": 3.99,
+      "original_price": 4.44,
+      "discount": "-10%",
+      "detail": "Je 560 g; 1 kg = 7.13. 8er-Pack",
+      "image_bbox": [
+        0.7528,
+        0.5333,
+        0.9746,
+        0.8667
+      ],
+      "page": 33,
+      "category": "pet_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Thunfisch Filets in eigenem Saft",
+      "brand": "Nixe",
+      "price": 0.99,
+      "original_price": 1.29,
+      "discount": "-23%",
+      "detail": "Versch. Sorten. Je 185/195 g Abtropfgewicht (Sorte Thunfischfilets im eigenen Saft): 150 g; 1 kg = 5.35/6.60. Mit Lidl Plus. Normalpreis: 1.29; 1 kg = 6.97/8.60",
+      "image_bbox": [
+        0.0523,
+        0.7267,
+        0.3376,
+        0.8067
+      ],
+      "page": 33,
+      "category": "seafood",
+      "product_en": "Tuna Filets in own juice",
+      "product_cn": "鮪魚排 於自身的汁液中"
+    },
+    {
+      "product": "Reines Rapsöl",
+      "brand": "Vita D'or",
+      "price": 1.39,
+      "original_price": 1.69,
+      "discount": "-17%",
+      "detail": "Abgabe nur in haushaltsüblichen Mengen. Je 1 l. Mit Lidl Plus. Normalpreis: 1.69",
+      "image_bbox": [
+        0.5071,
+        0.7417,
+        0.6229,
+        0.8667
+      ],
+      "page": 33,
+      "category": "pantry",
+      "product_en": "Pure Rapeseed Oil",
+      "product_cn": "純菜籽油"
+    },
+    {
+      "product": "Eiscreme",
+      "brand": "Mövenpick",
+      "price": 1.79,
+      "original_price": 3.99,
+      "discount": "-55%",
+      "detail": "Versch. Sorten. Tiefgefroren. Je 800/850/900 ml. 1 l = 2.24/2.11/1.99",
+      "image_bbox": [
+        0.5551,
+        0.0683,
+        0.9718,
+        0.2467
+      ],
+      "page": 34,
+      "category": "sweets_snacks",
+      "product_en": "Ice Cream",
+      "product_cn": "冰淇淋"
+    },
+    {
+      "product": "Brotaufstrich",
+      "brand": "Popp",
+      "price": 1.89,
+      "original_price": null,
+      "discount": "-40%",
+      "detail": "Versch. Sorten. Gekühlt. Je 250 g. 1 kg = 7.56. Standardpackung: 150 g",
+      "image_bbox": [
+        0.0593,
+        0.29,
+        0.3432,
+        0.41
+      ],
+      "page": 34,
+      "category": "pantry",
+      "product_en": "Bread Spread",
+      "product_cn": "麵包抹醬"
+    },
+    {
+      "product": "Maultaschen",
+      "brand": "Settele",
+      "price": 1.79,
+      "original_price": 2.39,
+      "discount": "-25%",
+      "detail": "Geschnitten in versch. Sorten. Gekühlt. Je 300 g; 1 kg = 5.97",
+      "image_bbox": [
+        0.363,
+        0.2917,
+        0.6384,
+        0.41
+      ],
+      "page": 34,
+      "category": "instant_food",
+      "product_en": "Maultaschen",
+      "product_cn": "Maultaschen"
+    },
+    {
+      "product": "Sahneheringsfilets",
+      "brand": "Nadler",
+      "price": 2.79,
+      "original_price": null,
+      "discount": null,
+      "detail": "Versch. Sorten. Gekühlt. Je 500 g. 1 kg = 5.58",
+      "image_bbox": [
+        0.6836,
+        0.2917,
+        0.9746,
+        0.41
+      ],
+      "page": 34,
+      "category": "seafood",
+      "product_en": "Cream Herring Filets",
+      "product_cn": "奶油鯡魚排"
+    },
+    {
+      "product": "Monte Snack",
+      "brand": "Zott",
+      "price": 1.99,
+      "original_price": 2.99,
+      "discount": "-33%",
+      "detail": "8 Stück. Gekühlt. Je 232 g. 1 kg = 8.58",
+      "image_bbox": [
+        0.0537,
+        0.5183,
+        0.3277,
+        0.6367
+      ],
+      "page": 34,
+      "category": "dairy",
+      "product_en": "Monte Snack",
+      "product_cn": "Monte 點心"
+    },
+    {
+      "product": "Körniger Frischkäse XXL",
+      "brand": "Dovgan",
+      "price": 2.69,
+      "original_price": 2.99,
+      "discount": "-10%",
+      "detail": "33 1/3 % Fett i. Tr. Gekühlt. Je 350 g. 1 kg = 7.69",
+      "image_bbox": [
+        0.3531,
+        0.515,
+        0.6441,
+        0.6367
+      ],
+      "page": 34,
+      "category": "dairy",
+      "product_en": "Grainy Fresh Cheese XXL",
+      "product_cn": "顆粒新鮮起司 XXL"
+    },
+    {
+      "product": "Frischkäse Portionen",
+      "brand": "Kiri",
+      "price": 2.79,
+      "original_price": 3.99,
+      "discount": "-30%",
+      "detail": "10 Stück. Gekühlt. Je 180 g. 1 kg = 15.50",
+      "image_bbox": [
+        0.6808,
+        0.5417,
+        0.9746,
+        0.6367
+      ],
+      "page": 34,
+      "category": "dairy",
+      "product_en": "Fresh Cheese Portions",
+      "product_cn": "新鮮起司 分裝"
+    },
+    {
+      "product": "Goldfischli",
+      "brand": "Funny Frisch",
+      "price": 1.11,
+      "original_price": 1.49,
+      "discount": "-25%",
+      "detail": "Versch. Sorten. Je 100 g. 1 kg = 11.10",
+      "image_bbox": [
+        0.0508,
+        0.7367,
+        0.291,
+        0.8667
+      ],
+      "page": 34,
+      "category": "sweets_snacks",
+      "product_en": "Goldfischli",
+      "product_cn": "Goldfischli"
+    },
+    {
+      "product": "Chocolaterie",
+      "brand": "Loacker",
+      "price": 2.49,
+      "original_price": 3.89,
+      "discount": "-35%",
+      "detail": "Versch. Sorten. Je 145 g. 1 kg = 17.17",
+      "image_bbox": [
+        0.3559,
+        0.7367,
+        0.6412,
+        0.8667
+      ],
+      "page": 34,
+      "category": "sweets_snacks",
+      "product_en": "Chocolaterie",
+      "product_cn": "Chocolaterie"
+    },
+    {
+      "product": "Family Cappuccino",
+      "brand": "Krüger",
+      "price": 2.79,
+      "original_price": 4.89,
+      "discount": "-42%",
+      "detail": "Versch. Sorten. Je 500 g. 1 kg = 5.58",
+      "image_bbox": [
+        0.6808,
+        0.7333,
+        0.8107,
+        0.9083
+      ],
+      "page": 34,
+      "category": "drinks",
+      "product_en": "Family Cappuccino",
+      "product_cn": "Family 卡布奇諾"
+    },
+    {
+      "product": "Baby-Dry/Pants Premium/Protection",
+      "brand": "Pampers",
+      "price": 19.99,
+      "original_price": 24.99,
+      "discount": "-30% Mit Lidl Plus",
+      "detail": "Versch. Sorten. Je 124/78/136/120/112/126/156/102/98/92/86/114/94/78/72/99/116/138 Stück. Regulär -13% (24,99, UVP 28.79)",
+      "image_bbox": [
+        0.1483,
+        0.2442,
+        0.5579,
+        0.3542
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Feuchttücher",
+      "brand": "Pampers",
+      "price": 6.99,
+      "original_price": 13.49,
+      "discount": "-48% Mit Lidl Plus",
+      "detail": "Versch. Sorten. Je 480 Stück. Regulär -35% (8,75, UVP 13.49)",
+      "image_bbox": [
+        0.6992,
+        0.2317,
+        0.9492,
+        0.3583
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Renew Waschmittel",
+      "brand": "Perwoll",
+      "price": 9.99,
+      "original_price": 11.99,
+      "discount": "-16%",
+      "detail": "Versch. Sorten. Je 52 WL. 1 WL = -.20",
+      "image_bbox": [
+        0.0311,
+        0.51,
+        0.178,
+        0.6375
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Unstoppables Wäscheparfüm",
+      "brand": "Lenor",
+      "price": 5.99,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Je 280 g. 1 kg = 21.39. Im Aufsteller",
+      "image_bbox": [
+        0.3319,
+        0.5225,
+        0.5537,
+        0.6417
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Reiniger",
+      "brand": "Meister Proper",
+      "price": 2.29,
+      "original_price": null,
+      "discount": "Aktion",
+      "detail": "Versch. Sorten. Je 800 ml; 1 l = 2.86. Im Aufsteller",
+      "image_bbox": [
+        0.6822,
+        0.5142,
+        0.8333,
+        0.6458
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Desinfektion Wäsche-Hygienespüler Himmelsfrische",
+      "brand": "Reckitt",
+      "price": 5.99,
+      "original_price": 8.99,
+      "discount": "-33%",
+      "detail": "Je 3 l; 1 l = 2.00. 3 Liter",
+      "image_bbox": [
+        0.0254,
+        0.7542,
+        0.1695,
+        0.8917
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Wohlfühl-Duftkerze",
+      "brand": "Air Wick",
+      "price": 5.99,
+      "original_price": 6.99,
+      "discount": "-14%",
+      "detail": "Je 210 g; 1 kg = 28.52. 2er-Pack. 2 Packungen kaufen, 2€ sparen",
+      "image_bbox": [
+        0.3701,
+        0.7375,
+        0.5791,
+        0.8417
+      ],
+      "page": 35,
+      "category": "non_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Portionsbeutel",
+      "brand": "Whiskas",
+      "price": 19.95,
+      "original_price": 35.99,
+      "discount": "-44%",
+      "detail": "Alleinfuttermittel für ausgewachsene Katzen. Versch. Sorten. Je 80x 85 g. 1 kg = 2.93. 80er-Pack",
+      "image_bbox": [
+        0.685,
+        0.7333,
+        0.9393,
+        0.8417
+      ],
+      "page": 35,
+      "category": "pet_food",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Glühweine",
+      "brand": null,
+      "price": null,
+      "original_price": null,
+      "discount": "-15%",
+      "detail": "Alle Glühweine mit Lidl Plus",
+      "image_bbox": [
+        0.2585,
+        0.0583,
+        0.661,
+        0.24
+      ],
+      "page": 36,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Hähnchen-Rouladen",
+      "brand": "Metzgerfrisch",
+      "price": 4.99,
+      "original_price": null,
+      "discount": null,
+      "detail": "In der Alu-Grillschale. Mariniert und gefüllt in versch. Sorten. Je 550 g; 1 kg = 9.07",
+      "image_bbox": [
+        0.6893,
+        0.0458,
+        0.9887,
+        0.1792
+      ],
+      "page": 36,
+      "category": "meat",
+      "product_en": "Chicken Rouladen",
+      "product_cn": "雞肉 Rouladen"
+    },
+    {
+      "product": "Home Barista",
+      "brand": "Dallmayr",
+      "price": 11.99,
+      "original_price": 18.99,
+      "discount": "-36%",
+      "detail": "Versch. Sorten. Ganze Bohnen. Je 1 kg",
+      "image_bbox": [
+        0.1766,
+        0.2875,
+        0.5155,
+        0.5542
+      ],
+      "page": 36,
+      "category": "drinks",
+      "product_en": "Home Barista",
+      "product_cn": "Home Barista"
+    },
+    {
+      "product": "Erdnüsse XXL",
+      "brand": "Ültje",
+      "price": 2.79,
+      "original_price": 4.69,
+      "discount": "-40%",
+      "detail": "Geröstet und gesalzen. Je 450 g; 1 kg = 6.64. Mit Lidl Plus: 2.79 (1 kg = 6.20); ohne Lidl Plus 2.99 (-36%)",
+      "image_bbox": [
+        0.5367,
+        0.3042,
+        0.6949,
+        0.5
+      ],
+      "page": 36,
+      "category": "sweets_snacks",
+      "product_en": "Peanuts XXL",
+      "product_cn": "花生 XXL"
+    },
+    {
+      "product": "Irish Whiskey D.E.W.",
+      "brand": "Tullamore",
+      "price": 12.99,
+      "original_price": 20.99,
+      "discount": "-38%",
+      "detail": "40 % vol. Je 0,7 l; 1 l = 18.56",
+      "image_bbox": [
+        0.1808,
+        0.59,
+        0.3983,
+        0.8333
+      ],
+      "page": 36,
+      "category": "alcohol",
+      "product_en": null,
+      "product_cn": null
+    },
+    {
+      "product": "Grand Dessert",
+      "brand": "Ehrmann",
+      "price": 0.44,
+      "original_price": 1.19,
+      "discount": "-63%",
+      "detail": "Versch. Sorten. Gekühlt. Je 190 g; 1 kg = 2.32",
+      "image_bbox": [
+        0.5113,
+        0.6308,
+        0.8842,
+        0.8375
+      ],
+      "page": 36,
+      "category": "dairy",
+      "product_en": "Grand Dessert",
+      "product_cn": "Grand 甜點"
+    }
+  ]
+}

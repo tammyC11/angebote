@@ -1,0 +1,18 @@
+{
+  "name": "sales",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "extract-flyer-lidl": "node scripts/extract-flyer-lidl.mjs",
+    "get-edeka-offers": "node scripts/get-edeka-offers.mjs",
+    "get-aldi-offers": "node scripts/get-aldi-offers.mjs",
+    "translate-products": "node scripts/translate-products.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.12.0"
+  }
+}

@@ -1,0 +1,24 @@
+Analyze this supermarket flyer.
+This image is page {{page}} of {{pages}}. It is {{width}}×{{height}} pixels.
+
+Identify every individual product offer.
+
+For each product, extract:
+- product
+- brand
+- price
+- original_price
+- discount
+- detail
+- image_bbox
+- page
+
+Requirements:
+1. Associate text with the correct product.
+2. Do not invent missing information.
+3. Use null for unavailable fields.
+4. Prices must be numeric, using decimal points.
+5. Return image_bbox as the bounding box of the product's photo, in pixel
+   coordinates of this image: x1, y1 = top-left corner, x2, y2 = bottom-right
+   corner, origin at the top-left of the image.
+6. Return valid JSON only.

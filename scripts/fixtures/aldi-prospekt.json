@@ -1,0 +1,650 @@
+{
+ "data": {
+  "id": 3538171,
+  "slug": "kw48-26-op-mp",
+  "numPages": 35,
+  "groupTitle": "ALDI SÜD",
+  "sourceDocumentTitle": "November 18, 2026 15:42",
+  "config": {
+   "canonicalUrl": "https://prospekt.aldi-sued.de/kw48-26-op-mp/",
+   "publicationTitle": "ALDI SÜD Prospekt: aktuelle Angebote"
+  }
+ },
+ "spreads": [
+  {
+   "pages": [
+    {
+     "number": 1,
+     "id": 142046528,
+     "images": {
+      "at1200": "/73714/3538171/pages/fc299480-1b54-4376-bb36-ce6c496df306-at1200.jpg",
+      "at2000": "/73714/3538171/pages/fc299480-1b54-4376-bb36-ce6c496df306-at2000.jpg"
+     }
+    }
+   ],
+   "originalPageNumbers": [
+    1
+   ]
+  },
+  {
+   "pages": [
+    {
+     "number": 2,
+     "id": 142046527,
+     "images": {
+      "at1200": "/73714/3538171/pages/aae4f8aa-eb23-4680-8297-3c50a6e76d97-at1200.jpg",
+      "at2000": "/73714/3538171/pages/aae4f8aa-eb23-4680-8297-3c50a6e76d97-at2000.jpg"
+     }
+    },
+    {
+     "number": 3,
+     "id": 142046529,
+     "images": {
+      "at1200": "/73714/3538171/pages/d433524b-2ae4-42e8-9ea5-6ca2713f5073-at1200.jpg",
+      "at2000": "/73714/3538171/pages/d433524b-2ae4-42e8-9ea5-6ca2713f5073-at2000.jpg"
+     }
+    }
+   ],
+   "originalPageNumbers": [
+    2,
+    3
+   ]
+  },
+  {
+   "pages": [
+    {
+     "number": 4,
+     "id": 142046531,
+     "images": {
+      "at1200": "/73714/3538171/pages/8182c8d1-58e1-4067-8d03-b7ce1af29198-at1200.jpg",
+      "at2000": "/73714/3538171/pages/8182c8d1-58e1-4067-8d03-b7ce1af29198-at2000.jpg"
+     }
+    },
+    {
+     "number": 5,
+     "id": 142046530,
+     "images": {
+      "at1200": "/73714/3538171/pages/7230505b-9d64-4e7c-a3ea-4a87b0c3ba9b-at1200.jpg",
+      "at2000": "/73714/3538171/pages/7230505b-9d64-4e7c-a3ea-4a87b0c3ba9b-at2000.jpg"
+     }
+    }
+   ],
+   "originalPageNumbers": [
+    4,
+    5
+   ]
+  },
+  {
+   "pages": [
+    {
+     "number": 6,
+     "id": 142046532,
+     "images": {
+      "at1200": "/73714/3538171/pages/b2bd31a6-92d0-4bfe-91e2-3daf040abc3f-at1200.jpg",
+      "at2000": "/73714/3538171/pages/b2bd31a6-92d0-4bfe-91e2-3daf040abc3f-at2000.jpg"
+     }
+    },
+    {
+     "number": 7,
+     "id": 142046537,
+     "images": {
+      "at1200": "/73714/3538171/pages/929a0142-d5aa-4cf0-8e74-b7678503e2c2-at1200.jpg",
+      "at2000": "/73714/3538171/pages/929a0142-d5aa-4cf0-8e74-b7678503e2c2-at2000.jpg"
+     }
+    }
+   ],
+   "originalPageNumbers": [
+    6,
+    7
+   ]
+  }
+ ],
+ "hotspots": {
+  "1": [
+   {
+    "id": 162947502,
+    "type": "pageReference",
+    "position": {
+     "left": 0.67289,
+     "top": 0.666,
+     "width": 0.32711,
+     "height": 0.28399,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   },
+   {
+    "id": 162947503,
+    "type": "pageReference",
+    "position": {
+     "left": 0,
+     "top": 0.666,
+     "width": 0.33923,
+     "height": 0.28293,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   },
+   {
+    "id": 162947505,
+    "type": "externalLink",
+    "position": {
+     "left": 0.35735,
+     "top": 0.9653,
+     "width": 0.10254,
+     "height": 0.01643,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   }
+  ],
+  "3": [
+   {
+    "id": 163233695,
+    "type": "product",
+    "position": {
+     "left": 0,
+     "top": 0.48513,
+     "width": 0.48538,
+     "height": 0.46764,
+     "iconLeft": 0.15254,
+     "iconTop": 0.97382
+    },
+    "products": [
+     {
+      "id": 78940112,
+      "title": "Bio-Naturland-Zitronen",
+      "description": "Ursprung: Spanien; Klasse: II; 500-g-Netz",
+      "price": "1.19",
+      "removedFromFeed": false,
+      "webshopIdentifier": "482464_kw48",
+      "productType": "Obst - Zitrusfrüchte",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 500-g-Netz",
+      "customLabel6": "new",
+      "customLabel8": "je Netz",
+      "customLabel9": "kg-Preis 2.38",
+      "customLabel12": "Aktion",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/482464_001_2026_Zitronen-02.png"
+     }
+    ]
+   },
+   {
+    "id": 163233696,
+    "type": "product",
+    "position": {
+     "left": 0.48538,
+     "top": 0.48513,
+     "width": 0.48126,
+     "height": 0.45671,
+     "iconLeft": 0.12393,
+     "iconTop": 0.93919
+    },
+    "products": [
+     {
+      "id": 79070207,
+      "title": "Ananas, lose",
+      "description": "Ursprung: Costa Rica; Klasse: I; Stück",
+      "price": "1.29",
+      "removedFromFeed": false,
+      "webshopIdentifier": "636403_kw48",
+      "productType": "Obst - Exotische Früchte",
+      "customLabel1": "23.11.",
+      "customLabel6": "new",
+      "customLabel8": "je Stück",
+      "customLabel12": "Aktion",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/761242_001-48_2026_Ananas-0010.png"
+     }
+    ]
+   },
+   {
+    "id": 163233693,
+    "type": "product",
+    "position": {
+     "left": 0.05964,
+     "top": 0.01283,
+     "width": 0.907,
+     "height": 0.34519,
+     "iconLeft": 0.16213,
+     "iconTop": 0.70946
+    },
+    "products": [
+     {
+      "id": 78940111,
+      "title": "Avocado",
+      "description": "Ursprung: siehe Etikett; Klasse: I; Stück",
+      "price": "0.77",
+      "removedFromFeed": false,
+      "webshopIdentifier": "457123_kw48",
+      "webshopUrl": "http://Genussreif",
+      "productType": "Obst - Avocados",
+      "customLabel1": "23.11.",
+      "customLabel6": "new",
+      "customLabel8": "je Stück",
+      "customLabel12": "Aktion",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/457123_001_AvocadoGrossSchwarzGruen_mit_Kern.png"
+     }
+    ]
+   },
+   {
+    "id": 162947513,
+    "type": "product",
+    "position": {
+     "left": 0.07477,
+     "top": 0.85854,
+     "width": 0.34451,
+     "height": 0.06686,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    },
+    "products": [
+     {
+      "id": 78706422,
+      "title": "Saftiger Zitronenkuchen mit Glasur",
+      "description": "Es soll nicht immer eine aufwendige Torte sein: auch ein einfacher, saftiger Zitronenkuchen schmeckt köstlich und erfreut die ganze Familie oder Gäste.",
+      "webshopIdentifier": "recipe-2345",
+      "webshopUrl": "https://www.aldi-sued.de/rezepte/backen/kuchen/rdp-zitronenkuchen-mit-glasur",
+      "photoSharingUrl": "https://production-revolution-publitas-com.s3.eu-west-1.amazonaws.com/73714/3538171/images/386fa800-7458-4bdc-8639-3b748e977808.avif"
+     }
+    ]
+   },
+   {
+    "id": 162947514,
+    "type": "image",
+    "position": {
+     "left": 0.07477,
+     "top": 0.84435,
+     "width": 0.31109,
+     "height": 0.0975,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   },
+   {
+    "id": 162947515,
+    "type": "externalLink",
+    "position": {
+     "left": 0.38103,
+     "top": 0.9612,
+     "width": 0.23404,
+     "height": 0.02678,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   }
+  ],
+  "6": [
+   {
+    "id": 163233738,
+    "type": "product",
+    "position": {
+     "left": 0.51257,
+     "top": 0.76618,
+     "width": 0.46892,
+     "height": 0.18246,
+     "iconLeft": 0.09649,
+     "iconTop": 0.64061
+    },
+    "products": [
+     {
+      "id": 78940132,
+      "title": "Hähnchen-Ministeaks",
+      "description": "800-g-Packung",
+      "price": "6.99",
+      "removedFromFeed": false,
+      "webshopIdentifier": "486763_kw48",
+      "productType": "Geflügel frisch - Hühnchen frisch",
+      "brand": "MEINE METZGEREI",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 800-g-Packung",
+      "customLabel4": "8.74",
+      "customLabel5": "XXL",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 8.74",
+      "customLabel12": "Aktion",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/486763_001_Haehnchen-Ministeaks-Haehnchen-Ministeaks_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233735,
+    "type": "product",
+    "position": {
+     "left": 0.51257,
+     "top": 0.03149,
+     "width": 0.46892,
+     "height": 0.3207,
+     "iconLeft": 0.40667,
+     "iconTop": 0.81273
+    },
+    "products": [
+     {
+      "id": 78940127,
+      "title": "Bio-Landhähnchen-Schenkel",
+      "description": "Versch. Gewichte, z. B. 722 g",
+      "price": "7.57",
+      "removedFromFeed": false,
+      "discountedPrice": "6.49",
+      "webshopIdentifier": "597361_kw48",
+      "productType": "Geflügel frisch - Hühnchen frisch",
+      "brand": "NUR NUR NATUR",
+      "customLabel0": "14",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 722-g-Packung",
+      "customLabel4": "8.99",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 8.99",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/597361_001_Bio-Landhaehnchen-Schenkel-Landhaehnchen-Schenkel_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233737,
+    "type": "product",
+    "position": {
+     "left": 0.51257,
+     "top": 0.55743,
+     "width": 0.46892,
+     "height": 0.20875,
+     "iconLeft": 0.10088,
+     "iconTop": 0.54469
+    },
+    "products": [
+     {
+      "id": 78940131,
+      "title": "Gemischtes Hackfleisch",
+      "description": "Aus 50 % Rindfleisch und 50 % Schweinefleisch; 800-g-Packung",
+      "price": "6.49",
+      "removedFromFeed": false,
+      "discountedPrice": "5.19",
+      "webshopIdentifier": "725302_kw48",
+      "productType": "Frischfleisch (ohne Schwein/Geflügel) - Hackfleisch diverse",
+      "brand": "MEINE METZGEREI",
+      "customLabel0": "20",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 800-g-Packung",
+      "customLabel4": "6.49",
+      "customLabel5": "XXL",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 6.49",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/725302_001_Gemischtes-Hackfleisch-Hackfleisch-gemischt_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233736,
+    "type": "product",
+    "position": {
+     "left": 0.51257,
+     "top": 0.35219,
+     "width": 0.46892,
+     "height": 0.19708,
+     "iconLeft": 0.27333,
+     "iconTop": 0.54142
+    },
+    "products": [
+     {
+      "id": 78940129,
+      "title": "Bio-Filetsteak",
+      "description": "Vom Rind; versch. Gewichte, z. B. 308 g",
+      "price": "15.09",
+      "removedFromFeed": false,
+      "discountedPrice": "11.99",
+      "webshopIdentifier": "318846_kw48",
+      "customLabel0": "20",
+      "customLabel1": "23.11.",
+      "customLabel4": "38.93",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 38.90",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/318846_001_Bio-Filetsteak_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233733,
+    "type": "product",
+    "position": {
+     "left": 0.03316,
+     "top": 0.7154,
+     "width": 0.4617,
+     "height": 0.23324,
+     "iconLeft": 0.07681,
+     "iconTop": 0.61
+    },
+    "products": [
+     {
+      "id": 78940126,
+      "title": "Knusper-Backfisch oder -Kibbelinge",
+      "description": "280- bzw. 300-g-Packung",
+      "price": "3.49",
+      "removedFromFeed": false,
+      "discountedPrice": "2.59",
+      "webshopIdentifier": "999000_kw48",
+      "brand": "GOLDEN SEAFOOD",
+      "customLabel0": "25",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 280- bzw. 300-g-Packung",
+      "customLabel4": "9.25 bzw. 8.63",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 9.25 bzw. 8.63",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/999000_002_Backfisch-Sortiment_Produkt_001_2_.png"
+     }
+    ]
+   },
+   {
+    "id": 163233731,
+    "type": "product",
+    "position": {
+     "left": 0.03316,
+     "top": 0.52771,
+     "width": 0.4617,
+     "height": 0.18769,
+     "iconLeft": 0.09909,
+     "iconTop": 0.61805
+    },
+    "products": [
+     {
+      "id": 78940125,
+      "title": "Puten-Schnitzel",
+      "description": "500-g-Packung",
+      "price": "6.99",
+      "removedFromFeed": false,
+      "discountedPrice": "5.49",
+      "webshopIdentifier": "341244_kw48",
+      "brand": "MEINE METZGEREI",
+      "customLabel0": "21",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 500-g-Packung",
+      "customLabel4": "10.98",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 10.98",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/341244_001_Puten-Schnitzel-Puten-Schnitzel_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233728,
+    "type": "product",
+    "position": {
+     "left": 0.03316,
+     "top": 0.34112,
+     "width": 0.4617,
+     "height": 0.18659,
+     "iconLeft": 0.09018,
+     "iconTop": 0.56875
+    },
+    "products": [
+     {
+      "id": 78940124,
+      "title": "Bauchscheiben",
+      "description": "Vom Schwein; 600-g-Packung",
+      "price": "4.99",
+      "removedFromFeed": false,
+      "discountedPrice": "4.19",
+      "webshopIdentifier": "767183_kw48",
+      "brand": "MEINE METZGEREI",
+      "customLabel0": "16",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 600-g-Packung",
+      "customLabel4": "6.98",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 6.98",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/767183_001_Bauchscheiben-HF-3-Schwein-Bauchscheiben-natur_Produkt_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233724,
+    "type": "product",
+    "position": {
+     "left": 0.03316,
+     "top": 0.16479,
+     "width": 0.4617,
+     "height": 0.17633,
+     "iconLeft": 0.08572,
+     "iconTop": 0.56614
+    },
+    "products": [
+     {
+      "id": 78940122,
+      "title": "Nackensteak",
+      "description": "Vom Schwein; 500-g-Packung",
+      "price": "4.79",
+      "removedFromFeed": false,
+      "discountedPrice": "3.79",
+      "webshopIdentifier": "731631_kw48",
+      "brand": "MEINE METZGEREI",
+      "customLabel0": "20",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 500-g-Packung",
+      "customLabel4": "7.58",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 7.58",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/731631_001_Nackensteak_Zusatz_001.png"
+     }
+    ]
+   },
+   {
+    "id": 162947523,
+    "type": "externalLink",
+    "position": {
+     "left": 0.05051,
+     "top": 0.71937,
+     "width": 0.17149,
+     "height": 0.03808,
+     "iconLeft": 0.5,
+     "iconTop": 0.5
+    }
+   }
+  ],
+  "7": [
+   {
+    "id": 163233753,
+    "type": "product",
+    "position": {
+     "left": 0.50237,
+     "top": 0.69322,
+     "width": 0.45193,
+     "height": 0.25542,
+     "iconLeft": 0.06767,
+     "iconTop": 0.94744
+    },
+    "products": [
+     {
+      "id": 78940139,
+      "title": "Coca-Cola®, Fanta®, Sprite® oder MezzoMix®",
+      "description": "Teilweise koffeinhaltig; versch. Sorten; je 1,25-l-Flasche",
+      "price": "0.88",
+      "removedFromFeed": false,
+      "webshopIdentifier": "202753_kw48",
+      "webshopUrl": "http://Auch als 6er-Pack erhältlich",
+      "productType": "CO2 Erfrischungsgetränke - Softdrinks/Fruchthaltige Erfrischungsget",
+      "brand": "COCA-COLA",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 1,25-l-Flasche",
+      "customLabel4": "0.70",
+      "customLabel6": "new",
+      "customLabel8": "je Flasche",
+      "customLabel9": "l-Preis 0.70; zzgl. Pfand 0.25",
+      "customLabel12": "Aktion",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/202753001_808774_16-2025_CocaCola-01.png"
+     }
+    ]
+   },
+   {
+    "id": 163233744,
+    "type": "product",
+    "position": {
+     "left": 0.50237,
+     "top": 0.29621,
+     "width": 0.45193,
+     "height": 0.17722,
+     "iconLeft": 0.29521,
+     "iconTop": 0.94748
+    },
+    "products": [
+     {
+      "id": 78940137,
+      "title": "Glasur",
+      "description": "Versch. Sorten; je 150-g-Packung",
+      "price": "1.99",
+      "removedFromFeed": false,
+      "discountedPrice": "1.49",
+      "webshopIdentifier": "342250_kw48",
+      "productType": "Backartikel - Backzutaten",
+      "brand": "PICKERD",
+      "customLabel0": "25",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 150-g-Packung",
+      "customLabel4": "9.93",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 9.93",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/342250_002_Glasur-Kakao_Produktbilder_001.png"
+     }
+    ]
+   },
+   {
+    "id": 163233742,
+    "type": "product",
+    "position": {
+     "left": 0.50237,
+     "top": 0.05714,
+     "width": 0.45193,
+     "height": 0.23907,
+     "iconLeft": 0.10407,
+     "iconTop": 0.96829
+    },
+    "products": [
+     {
+      "id": 78940136,
+      "title": "Die Ofenfrische",
+      "description": "Versch. Sorten; je 390- bzw. 410-g-Packung",
+      "price": "3.69",
+      "removedFromFeed": false,
+      "discountedPrice": "1.88",
+      "webshopIdentifier": "747666_kw48",
+      "productType": "TK Fertiggerichte/Pizzas - Pizza/Baguettes",
+      "brand": "DR. OETKER",
+      "customLabel0": "49",
+      "customLabel1": "23.11.",
+      "customLabel2": "je 390- bzw. 410-g-Packung",
+      "customLabel4": "4.82 bzw. 4.59",
+      "customLabel6": "new",
+      "customLabel8": "je Packung",
+      "customLabel9": "kg-Preis 4.82 bzw. 4.59",
+      "photoSharingUrl": "https://aldi-assets.publitas.com/feed-images/2026/48/747666_002_Die-Ofenfrische-Vier-Kaese_Produktbilder_001.png"
+     }
+    ]
+   }
+  ]
+ }
+}
