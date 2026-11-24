@@ -86,12 +86,34 @@ To correct a cached decision, edit its category and translations and set its `mo
 ## Extract Lidl offers
 
 Set `ANTHROPIC_API_KEY` and supply a quoted Lidl leaflet API URL for the flyer.
-The extractor reads the first three page images by default and writes the result to
-`data/lidl/`. Set `--pages` to the desired page count.
+The extractor reads the page pictures of the flyer and writes the result to `data/lidl/`. Set
+`--pages <n>` to read only the first n pages.
+
+Pages that cannot have food or drink offers (electronics, clothing, travel, spirits, …) are skipped.
+The leaflet API gives every page `altText` and `keyWords`; one text-only call to a small model
+(`claude-haiku-5-5`, or `--filter-model <id>` / `CLAUDE_FILTER_MODEL`) sends them for all pages of
+the flyer and gets a food / no-food verdict per page (`scripts/select-food-pages.mjs`,
+`prompts/select-food-pages.txt`). It fails open: a page the model is unsure about, or without
+text, is read, and if the call fails every page is read. Skipped pages are kept in the flyer JSON
+with `"status": "skipped"` and the reason, and the filter's model, skipped pages and token usage are
+under `page_filter`. Use `--all-pages` to read every page. `--dry-run` makes no Claude call, so it
+does not filter.
 
 ```sh
-npm run extract-flyer-lidl -- "$FLYER_URL" --pages 3
+npm run extract-flyer-lidl -- "$FLYER_URL"
 ```
+
+To find the current flyers' URLs, run `scripts/find-lidl-flyer-url.mjs`. It reads the Aktionsprospekt
+links on lidl.de/c/online-prospekte/s10005610 and prints, one per line, the API URL of every flyer of
+the earliest week that has not ended (on a Sunday: the coming Monday–Saturday). Lidl sometimes
+publishes two flyers for the same week, so extract each one:
+
+```sh
+node scripts/find-lidl-flyer-url.mjs | while read -r url; do npm run extract-flyer-lidl -- "$url"; done
+```
+
+Each flyer is saved as `data/lidl/<PDF name>-<hash>.json`; the hash is the end of the flyer's identifier,
+so two flyers with the same PDF name don't overwrite each other.
 
 ## get-edeka-offers
 

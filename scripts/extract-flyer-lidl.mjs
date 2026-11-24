@@ -10,8 +10,11 @@
  *
  * How it works
  * 1. Load the flyer from Lidl's leaflet API (the URL you pass).
- * 2. Take the first N pages (default 3) and download each page's picture
+ * 2. Take every page of the flyer (or only the first N with --pages) and download each page's picture
  *    (`image` by default: 708×1200; `zoom`: 1415×2400).
+ *    Before that, a small model reads each page's text (altText + keyWords from the API) and pages that
+ *    cannot have food or drink offers (electronics, clothing, travel, spirits…) are skipped: see
+ *    select-food-pages.mjs. --all-pages turns this off.
  * 3. Send each picture to Claude with prompts/extract-flyer.txt and a JSON schema
  *    (structured output), so the reply is always valid JSON in our shape.
  * 4. Claude gives the product photo's box in pixels (it is much more accurate
@@ -20,13 +23,15 @@
  *    only redoes those (same picture, model and prompt). --force redoes all.
  *
  * Options
- *   --pages <n>          how many pages from the start (default: 3)
+ *   --pages <n>          only the first n pages (default: all pages of the flyer)
  *   --image-key <key>    image | zoom (default: image)
  *   --out <dir>          output folder (default: data/lidl)
  *   --model <id>         default: $CLAUDE_MODEL or claude-sonnet-5-5
  *   --concurrency <n>    pages in parallel (default: 3)
  *   --save-images <dir>  also save the downloaded page pictures (to check boxes)
  *   --dry-run            download only; no Claude calls, no API key needed
+ *   --all-pages          read every page; do not skip pages without food or drink offers
+ *   --filter-model <id>  small model that picks the pages, default: $CLAUDE_FILTER_MODEL or claude-haiku-5-5
  *   --force              ignore previous results
  *
  * Needs ANTHROPIC_API_KEY (except --dry-run). Node 22+.
@@ -37,11 +42,12 @@ import path from "node:path";
 import { parseArgs } from "node:util";
 import { pathToFileURL } from "node:url";
 import { fetchWithRetry } from "./fetch-with-retry.mjs";
+import { FILTER_MODEL, selectFoodPages } from "./select-food-pages.mjs";
 
 const LIDL_HEADERS = { Origin: "https://www.lidl.de", Referer: "https://www.lidl.de/" };
 
 export const FLYER_API_HOST = "endpoints.leaflets.schwarz";
-const USAGE = 'usage: extract-flyer-lidl "<leaflet API URL>" [--image-key zoom] [--pages 3]';
+const USAGE = 'usage: extract-flyer-lidl "<leaflet API URL>" [--image-key zoom] [--pages <n>]';
 
 /** Check the URL the user typed: Lidl's leaflet API with a flyer_identifier. */
 export function checkFlyerUrl(input) {
@@ -62,7 +68,7 @@ export function checkFlyerUrl(input) {
   return url.toString();
 }
 
-export const DEFAULT_PAGES = 3;
+export const DEFAULT_PAGES = Infinity; // every page of the flyer
 export const DEFAULT_IMAGE_KEY = "image";
 export const IMAGE_KEYS = ["image", "zoom"];
 export const DEFAULT_MODEL = "claude-sonnet-5-5";
@@ -89,7 +95,7 @@ export function pickPages(flyer, count, imageKey) {
     .slice(0, count)
     .map((p) => {
       if (!p[imageKey]) throw new Error(`page ${p.number} has no "${imageKey}" URL`);
-      return { page: p.number, url: p[imageKey] };
+      return { page: p.number, url: p[imageKey], altText: p.altText, keyWords: p.keyWords };
     });
 }
 
@@ -307,15 +313,19 @@ async function pMap(items, limit, fn) {
 }
 
 /** "…/Aktionsprospekt-23-11-2026-28-11-2026-00.pdf" → "Aktionsprospekt-23-11-2026-28-11-2026-00". */
-export function flyerName(flyer) {
+export function flyerName(flyer, flyerUrl) {
   const fromPdf = flyer.pdfUrl && decodeURIComponent(new URL(flyer.pdfUrl).pathname.split("/").pop() ?? "");
-  const name = (fromPdf || flyer.id || "flyer").replace(/\.pdf$/i, "");
+  let name = (fromPdf || flyer.id || "flyer").replace(/\.pdf$/i, "");
+  // Lidl can publish several flyers for one week under the same PDF name; the hash at the end of the
+  // flyer_identifier ("…-28-11-2026-7af21b") tells them apart, so each gets its own file.
+  const hash = flyerUrl && /-([0-9a-f]{4,})$/i.exec(new URL(flyerUrl).searchParams.get("flyer_identifier") ?? "")?.[1];
+  if (hash) name += `-${hash}`;
   if (!/^[A-Za-z0-9._-]+$/.test(name)) throw new Error(`unexpected flyer name: ${name}`);
   return name;
 }
 
 /**
- * Extract the first `pageCount` pages of a flyer and write <outDir>/<flyer name>.json.
+ * Extract the first `pageCount` pages of a flyer (all of them by default) and write <outDir>/<flyer name>.json.
  * `client` is an Anthropic client (or a fake with messages.create, in tests).
  */
 export async function extractFlyer(opts = {}) {
@@ -323,6 +333,8 @@ export async function extractFlyer(opts = {}) {
     client,
     flyerUrl: flyerUrlInput,
     pageCount = DEFAULT_PAGES,
+    filterPages = false, // the command line turns this on (see --all-pages)
+    filterModel = FILTER_MODEL,
     imageKey = DEFAULT_IMAGE_KEY,
     model = DEFAULT_MODEL,
     outDir = "data/lidl",
@@ -342,7 +354,7 @@ export async function extractFlyer(opts = {}) {
   const template = promptTemplate ?? (await readFile(PROMPT_FILE, "utf8"));
   const promptHash = sha256(template);
   const flyer = await fetchFlyer(flyerUrl, { fetchImpl });
-  const name = flyerName(flyer);
+  const name = flyerName(flyer, flyerUrl);
   const outFile = path.join(outDir, `${name}.json`);
   const pages = pickPages(flyer, pageCount, imageKey);
 
@@ -357,10 +369,27 @@ export async function extractFlyer(opts = {}) {
       }
     }
   }
-  const todo = pages.filter((p) => !done.has(p.page));
+  let todo = pages.filter((p) => !done.has(p.page));
+
+  // pages whose text says there is nothing to eat or drink are not read (needs Claude; not in --dry-run)
+  let pageFilter = null;
+  if (filterPages && client && !dryRun && todo.length) {
+    try {
+      const { skip, usage } = await selectFoodPages(client, { model: filterModel, pages: todo });
+      for (const { page, url } of todo) {
+        if (skip.has(page)) done.set(page, { info: { page, image_url: url, status: "skipped", reason: skip.get(page) }, products: [] });
+      }
+      todo = todo.filter((p) => !skip.has(p.page));
+      pageFilter = { model: filterModel, skipped: [...skip.keys()].sort((a, b) => a - b), ...usage };
+      if (skip.size) log(`${name}: skipping ${skip.size} pages without food or drink offers (${[...skip.keys()].sort((a, b) => a - b).join(", ")})`);
+    } catch (err) {
+      log(`${name}: page filter failed (${err.message}); reading every page`);
+    }
+  }
   log(
     `${name}: pages ${pages.map((p) => p.page).join(", ")} of ${flyer.pages.length} (${imageKey}); ` +
-      `${todo.length} to read, ${pages.length - todo.length} reused (${model}, ${tier} tier)`,
+      `${todo.length} to read, ${pages.length - todo.length - (pageFilter?.skipped.length ?? 0)} reused` +
+      `${pageFilter?.skipped.length ? `, ${pageFilter.skipped.length} skipped` : ""} (${model}, ${tier} tier)`,
   );
   if (saveImagesDir) await mkdir(saveImagesDir, { recursive: true });
 
@@ -417,12 +446,13 @@ export async function extractFlyer(opts = {}) {
     model,
     prompt_sha256: promptHash,
     extracted_at: now().toISOString(),
-    complete: failed.length === 0 && pageInfos.every((p) => p.status === "ok"),
+    complete: failed.length === 0 && pageInfos.every((p) => p.status === "ok" || p.status === "skipped"),
     failed_pages: failed,
     usage: {
       input_tokens: pageInfos.reduce((s, p) => s + (p.input_tokens ?? 0), 0),
       output_tokens: pageInfos.reduce((s, p) => s + (p.output_tokens ?? 0), 0),
     },
+    page_filter: pageFilter,
     pages: pageInfos,
     products: entries.flatMap((e) => e.products),
   };
@@ -442,20 +472,22 @@ async function main() {
   const { values, positionals } = parseArgs({
     allowPositionals: true,
     options: {
-      pages: { type: "string", default: String(DEFAULT_PAGES) },
+      pages: { type: "string" },
       "image-key": { type: "string", default: DEFAULT_IMAGE_KEY },
       out: { type: "string", default: "data/lidl" },
       model: { type: "string" },
       concurrency: { type: "string", default: "3" },
       "save-images": { type: "string" },
       "dry-run": { type: "boolean", default: false },
+      "all-pages": { type: "boolean", default: false },
+      "filter-model": { type: "string" },
       force: { type: "boolean", default: false },
     },
   });
   if (positionals.length !== 1) throw new Error(positionals.length ? `expected one URL, got ${positionals.length} arguments — put the URL in quotes\n${USAGE}` : `missing flyer URL\n${USAGE}`);
   const flyerUrl = checkFlyerUrl(positionals[0]);
-  const pageCount = Number(values.pages);
-  if (!Number.isInteger(pageCount) || pageCount < 1) throw new Error(`--pages must be a whole number ≥ 1, got "${values.pages}"`);
+  const pageCount = values.pages === undefined ? DEFAULT_PAGES : Number(values.pages);
+  if (pageCount !== DEFAULT_PAGES && (!Number.isInteger(pageCount) || pageCount < 1)) throw new Error(`--pages must be a whole number ≥ 1, got "${values.pages}"`);
   const model = values.model || process.env.CLAUDE_MODEL || DEFAULT_MODEL;
   const dryRun = values["dry-run"];
 
@@ -471,6 +503,8 @@ async function main() {
     flyerUrl,
     model,
     pageCount,
+    filterPages: !values["all-pages"],
+    filterModel: values["filter-model"] || process.env.CLAUDE_FILTER_MODEL || FILTER_MODEL,
     imageKey: values["image-key"],
     outDir: values.out,
     concurrency: Math.max(1, Number(values.concurrency) || 3),

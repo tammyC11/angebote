@@ -14,6 +14,7 @@ import {
   imageInfo,
   normalizeBox,
   normalizeProduct,
+  DEFAULT_PAGES,
   pickPages,
   resizedSize,
   tierFor,
@@ -87,13 +88,22 @@ function fakeFetch({ flyer = FLYER, failImage } = {}) {
 }
 
 /** Fake Anthropic client: answers per page, records requests. */
-function fakeClient(answer) {
+function fakeClient(answer, filterAnswer) {
   const requests = [];
   return {
     requests,
     messages: {
       async create(req) {
         requests.push(req);
+        if (typeof req.messages[0].content === "string") {
+          // the text-only page filter
+          if (!filterAnswer) throw new Error("unexpected page filter call");
+          return {
+            stop_reason: "end_turn",
+            content: [{ type: "text", text: JSON.stringify(await filterAnswer(req)) }],
+            usage: { input_tokens: 700, output_tokens: 60 },
+          };
+        }
         const text = req.messages[0].content[1].text;
         const page = Number(/page (\d+) of/.exec(text)[1]);
         const [, w, h] = /It is (\d+)×(\d+) pixels/.exec(text).map(Number);
@@ -145,11 +155,14 @@ test("pickPages: first N by page number, using the chosen key", () => {
   assert.deepEqual(pickPages(FLYER, 3, "image").map((p) => p.page), [1, 2, 3]);
   assert.equal(pickPages(FLYER, 3, "zoom")[0].url, PAGE_URL(1, "zoom"));
   assert.equal(pickPages(FLYER, 99, "image").length, 5);
+  assert.equal(pickPages(FLYER, DEFAULT_PAGES, "image").length, 5); // the default is every page
   assert.throws(() => pickPages({ pages: [{ number: 1 }] }, 1, "image"), /no "image" URL/);
 });
 
-test("flyerName comes from the PDF file name", () => {
+test("flyerName comes from the PDF file name, plus the flyer's hash when the URL has one", () => {
   assert.equal(flyerName(FLYER), "Aktionsprospekt-23-11-2026-28-11-2026-00");
+  assert.equal(flyerName(FLYER, FLYER_URL), "Aktionsprospekt-23-11-2026-28-11-2026-00-7af21b");
+  assert.equal(flyerName(FLYER, "https://endpoints.leaflets.schwarz/v4/flyer?flyer_identifier=weekly-flyer"), "Aktionsprospekt-23-11-2026-28-11-2026-00");
   assert.equal(flyerName({ id: "abc-123" }), "abc-123");
 });
 
@@ -229,6 +242,7 @@ test("extractFlyer: flyer URL → first 3 `image` pictures → one request each 
     client,
     flyerUrl: FLYER_URL,
     fetchImpl: impl,
+    pageCount: 3,
     outDir: path.join(dir, "out"),
     saveImagesDir: path.join(dir, "img"),
     log: quiet,
@@ -249,7 +263,7 @@ test("extractFlyer: flyer URL → first 3 `image` pictures → one request each 
   assert.deepEqual(req.output_config.format, { type: "json_schema", schema: PAGE_SCHEMA });
 
   // output
-  assert.equal(path.basename(outFile), "Aktionsprospekt-23-11-2026-28-11-2026-00.json");
+  assert.equal(path.basename(outFile), "Aktionsprospekt-23-11-2026-28-11-2026-00-7af21b.json");
   const saved = JSON.parse(await readFile(outFile, "utf8"));
   assert.deepEqual(saved, result);
   assert.equal(saved.complete, true);
@@ -303,28 +317,100 @@ test("extractFlyer: a failed page is recorded, and a re-run only redoes that pag
   const { impl } = fakeFetch({ failImage: (url) => broken && url === PAGE_URL(2, "image") });
   const client = fakeClient(async ({ page }) => ({ products: [{ ...ITEM, product: `item p${page}` }] }));
 
-  const first = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, log: quiet });
+  const first = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, pageCount: 3, outDir: dir, log: quiet });
   assert.equal(first.result.complete, false);
   assert.deepEqual(first.result.failed_pages, [2]);
   assert.match(first.result.pages[1].error, /HTTP 404/);
   assert.equal(client.requests.length, 2);
 
   broken = false;
-  const second = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, log: quiet });
+  const second = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, pageCount: 3, outDir: dir, log: quiet });
   assert.equal(client.requests.length, 3, "only page 2 was sent again");
   assert.equal(second.result.complete, true);
   assert.deepEqual(second.result.products.map((p) => p.product), ["item p1", "item p2", "item p3"]);
 
   // switching to zoom means different pictures → all pages again
-  await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, imageKey: "zoom", outDir: dir, log: quiet });
+  await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, pageCount: 3, imageKey: "zoom", outDir: dir, log: quiet });
   assert.equal(client.requests.length, 6);
+});
+
+test("extractFlyer: reads every page of the flyer unless pageCount is given", async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
+  const { impl } = fakeFetch();
+  const client = fakeClient(async () => ({ products: [] }));
+  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, log: quiet });
+  assert.deepEqual(result.pages.map((p) => p.page), [1, 2, 3, 4, 5]);
+  assert.equal(client.requests.length, 5);
+});
+
+// the same flyer with page text, as the leaflet API gives it
+const FLYER_WITH_TEXT = {
+  ...FLYER,
+  pages: FLYER.pages.map((p) => ({
+    ...p,
+    altText: p.number % 2 ? `Lebensmittel Angebote Seite ${p.number}` : `Elektrogeräte Seite ${p.number}`,
+    keyWords: p.number % 2 ? "Käse Brot Milch" : "Akku Staubsauger Ladegerät",
+  })),
+};
+const verdicts = (req) => ({
+  pages: [...req.messages[0].content.matchAll(/"page": (\d+),\s+"alt_text": "([^"]*)"/g)].map(([, n, alt]) => ({
+    page: Number(n),
+    food: !alt.startsWith("Elektro"),
+    reason: alt.startsWith("Elektro") ? "appliances" : "food",
+  })),
+});
+
+test("extractFlyer with filterPages: pages without food offers are neither downloaded nor sent to Claude", async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
+  const { impl, calls } = fakeFetch({ flyer: FLYER_WITH_TEXT });
+  const client = fakeClient(async () => ({ products: [ITEM] }), verdicts);
+  const { result } = await extractFlyer({
+    client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, filterPages: true, log: quiet,
+  });
+  assert.deepEqual(result.pages.map((p) => [p.page, p.status]), [[1, "ok"], [2, "skipped"], [3, "ok"], [4, "skipped"], [5, "ok"]]);
+  assert.equal(result.pages[1].reason, "appliances");
+  assert.equal(result.pages[1].image_url, PAGE_URL(2, "image"));
+  assert.equal(result.complete, true, "skipped pages do not make the flyer incomplete");
+  assert.deepEqual(result.failed_pages, []);
+  assert.deepEqual(result.products.map((p) => p.page), [1, 3, 5]);
+  assert.deepEqual(result.page_filter, { model: "claude-haiku-5-5", skipped: [2, 4], input_tokens: 700, output_tokens: 60 });
+
+  const pictures = calls.filter((u) => u.startsWith("https://imgproxy"));
+  assert.deepEqual(pictures, [PAGE_URL(1, "image"), PAGE_URL(3, "image"), PAGE_URL(5, "image")]);
+  assert.equal(client.requests.filter((r) => typeof r.messages[0].content === "string").length, 1, "one filter call per flyer");
+  assert.equal(client.requests.length, 4, "1 filter call + 3 page reads");
+});
+
+test("extractFlyer with filterPages: a failing filter reads every page", async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
+  const { impl } = fakeFetch({ flyer: FLYER_WITH_TEXT });
+  const client = fakeClient(async () => ({ products: [] }), () => {
+    throw new Error("overloaded");
+  });
+  const logs = [];
+  const { result } = await extractFlyer({
+    client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, filterPages: true, log: (m) => logs.push(m),
+  });
+  assert.deepEqual(result.pages.map((p) => p.status), ["ok", "ok", "ok", "ok", "ok"]);
+  assert.equal(result.page_filter, null);
+  assert.ok(logs.some((m) => /page filter failed \(overloaded\); reading every page/.test(m)));
+});
+
+test("extractFlyer: without filterPages, or in --dry-run, there is no filter call", async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
+  const { impl } = fakeFetch({ flyer: FLYER_WITH_TEXT });
+  const client = fakeClient(async () => ({ products: [] })); // a filter call would throw
+  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, log: quiet });
+  assert.equal(result.pages.length, 5);
+  const dry = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, filterPages: true, dryRun: true, log: quiet });
+  assert.equal(dry.result.pages.length, 5);
 });
 
 test("extractFlyer: a cut-off reply fails only that page", async () => {
   const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
   const { impl } = fakeFetch();
   const client = fakeClient(async ({ page }) => (page === 3 ? { stop_reason: "max_tokens" } : { products: [ITEM] }));
-  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, outDir: dir, log: quiet });
+  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, pageCount: 3, outDir: dir, log: quiet });
   assert.deepEqual(result.failed_pages, [3]);
   assert.match(result.pages[2].error, /max_tokens/);
   assert.equal(result.products.length, 2);
@@ -334,7 +420,7 @@ test("extractFlyer --dry-run downloads only: no Claude calls, no JSON", async ()
   const dir = await mkdtemp(path.join(tmpdir(), "flyer-"));
   const { impl, calls } = fakeFetch();
   const client = fakeClient(async () => assert.fail("must not call Claude"));
-  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, dryRun: true, outDir: path.join(dir, "out"), log: quiet });
+  const { result } = await extractFlyer({ client, flyerUrl: FLYER_URL, fetchImpl: impl, pageCount: 3, dryRun: true, outDir: path.join(dir, "out"), log: quiet });
   assert.equal(calls.length, 4);
   assert.deepEqual(result.pages.map((p) => [p.page, p.status, p.visual_tokens]), [
     [1, "dry-run", 1118],

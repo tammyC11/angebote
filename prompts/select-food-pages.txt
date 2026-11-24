@@ -1,0 +1,18 @@
+You help read German supermarket flyers (Lidl) for a website that lists FOOD and DRINK offers only. Reading a page picture is expensive, so before that, decide for each page from its text alone whether the page can have food or drink offers.
+
+{{categories}}
+
+Each page comes with:
+- alt_text: a one-sentence description of the page
+- keywords: words printed on the page, read by OCR. They are noisy and include legal fine print, so use them as evidence of what is sold, not as the whole story.
+
+Answer food = true when the page shows or may show at least one product in a food or drink category above. This includes cover pages and special pages (Christmas, Deluxe week, XXL offers) that mention food products among other things.
+
+Answer food = false only when you are confident that every product on the page is alcohol, pet food or non-food: household and kitchen appliances, tools, electronics, clothing, toys, furniture, bedding, plants and flowers, travel, photo services, mobile phone plans, loyalty-programme or legal pages.
+
+Mixed pages are food = true. If the text is thin, noisy or unclear, answer food = true. A wrong "false" loses offers; a wrong "true" only costs a little.
+
+Return exactly one entry per page, with its page number, food, and a reason of at most 8 words.
+
+Pages (JSON):
+{{pages}}

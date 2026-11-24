@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
     inputs:
       lidl_flyer_url:
-        description: "Lidl leaflet API URL (overrides the LIDL_FLYER_URL repository variable)"
+        description: "Lidl leaflet API URL (optional; by default the current Aktionsprospekt is looked up on lidl.de)"
         required: false
         type: string
 
@@ -63,26 +63,34 @@ jobs:
 
   extract-flyer-lidl:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90 # every page of every flyer (~40 pages each) is read with Claude
     env:
-      # The leaflet URL contains a per-week id, so it has to be updated every week
-      # (Settings → Secrets and variables → Actions → Variables), or passed when run manually.
-      FLYER_URL: ${{ inputs.lidl_flyer_url || vars.LIDL_FLYER_URL }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
-      - name: Check inputs
-        run: |
-          if [ -z "$FLYER_URL" ]; then
-            echo "::error::Set the LIDL_FLYER_URL repository variable (or pass lidl_flyer_url when running manually)."
-            exit 1
-          fi
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run extract-flyer-lidl -- "$FLYER_URL" --pages 3
+      - name: Extract every flyer of the week
+        env:
+          URL_OVERRIDE: ${{ inputs.lidl_flyer_url }}
+        run: |
+          # Lidl sometimes lists more than one Aktionsprospekt for the same week: extract them all.
+          if [ -n "$URL_OVERRIDE" ]; then
+            urls="$URL_OVERRIDE"
+          else
+            urls="$(node scripts/find-lidl-flyer-url.mjs)"
+          fi
+          failed=0
+          while IFS= read -r url; do
+            [ -n "$url" ] || continue
+            echo "::group::$url"
+            npm run extract-flyer-lidl -- "$url" || failed=1
+            echo "::endgroup::"
+          done <<< "$urls"
+          exit "$failed"
       - uses: actions/upload-artifact@v4
         with:
           name: data-lidl
