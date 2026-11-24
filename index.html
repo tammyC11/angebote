@@ -262,6 +262,21 @@ byId('share-offer').addEventListener('click', async () => {
 });
 
 window.addEventListener('hashchange', syncDetail);
+
+// A click on the dark area around the dialog closes it. Only when the press also started
+// there, so selecting text inside and letting go outside doesn't close it.
+const outsideDialog = event => {
+  const box = dialog.getBoundingClientRect();
+  return event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom;
+};
+let pressedOutside = false;
+dialog.addEventListener('pointerdown', event => {
+  pressedOutside = event.target === dialog && outsideDialog(event);
+});
+dialog.addEventListener('click', event => {
+  if (pressedOutside && event.target === dialog && outsideDialog(event)) dialog.close();
+  pressedOutside = false;
+});
 dialog.addEventListener('close', () => {
   if (dialog.open) return;
   if (detailOffer && location.hash === '#offer=' + detailOffer.id) {
